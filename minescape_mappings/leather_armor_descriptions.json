@@ -1,0 +1,704 @@
+[
+  {
+    "name": "bronze_chain_body",
+    "color": "#604C31",
+    "icon_relative_path": "assets/minecraft/textures/item/leather_chestplate.png",
+    "overlay_relative_path": "assets/minecraft/textures/item/leather_chestplate_overlay.png"
+  },
+  {
+    "name": "bronze_chain_legs",
+    "color": "#604C31",
+    "icon_relative_path": "assets/minecraft/textures/item/leather_leggings.png",
+    "overlay_relative_path": "assets/minecraft/textures/item/leather_leggings_overlay.png"
+  },
+  {
+    "name": "bronze_chain_boots",
+    "color": "#604C31",
+    "icon_relative_path": "assets/minecraft/textures/item/leather_boots.png",
+    "overlay_relative_path": "assets/minecraft/textures/item/leather_boots_overlay.png"
+  },
+  {
+    "name": "iron_chain_body",
+    "color": "#595252",
+    "icon_relative_path": "assets/minecraft/textures/item/leather_chestplate.png",
+    "overlay_relative_path": "assets/minecraft/textures/item/leather_chestplate_overlay.png"
+  },
+  {
+    "name": "iron_chain_legs",
+    "color": "#595252",
+    "icon_relative_path": "assets/minecraft/textures/item/leather_leggings.png",
+    "overlay_relative_path": "assets/minecraft/textures/item/leather_leggings_overlay.png"
+  },
+  {
+    "name": "iron_chain_boots",
+    "color": "#595252",
+    "icon_relative_path": "assets/minecraft/textures/item/leather_boots.png",
+    "overlay_relative_path": "assets/minecraft/textures/item/leather_boots_overlay.png"
+  },
+  {
+    "name": "steel_chain_body",
+    "color": "#706666",
+    "icon_relative_path": "assets/minecraft/textures/item/leather_chestplate.png",
+    "overlay_relative_path": "assets/minecraft/textures/item/leather_chestplate_overlay.png"
+  },
+  {
+    "name": "steel_chain_legs",
+    "color": "#706666",
+    "icon_relative_path": "assets/minecraft/textures/item/leather_leggings.png",
+    "overlay_relative_path": "assets/minecraft/textures/item/leather_leggings_overlay.png"
+  },
+  {
+    "name": "steel_chain_boots",
+    "color": "#706666",
+    "icon_relative_path": "assets/minecraft/textures/item/leather_boots.png",
+    "overlay_relative_path": "assets/minecraft/textures/item/leather_boots_overlay.png"
+  },
+  {
+    "name": "mithril_chain_body",
+    "color": "#4D4D64",
+    "icon_relative_path": "assets/minecraft/textures/item/leather_chestplate.png",
+    "overlay_relative_path": "assets/minecraft/textures/item/leather_chestplate_overlay.png"
+  },
+  {
+    "name": "mithril_chain_legs",
+    "color": "#4D4D64",
+    "icon_relative_path": "assets/minecraft/textures/item/leather_leggings.png",
+    "overlay_relative_path": "assets/minecraft/textures/item/leather_leggings_overlay.png"
+  },
+  {
+    "name": "mithril_chain_boots",
+    "color": "#4D4D64",
+    "icon_relative_path": "assets/minecraft/textures/item/leather_boots.png",
+    "overlay_relative_path": "assets/minecraft/textures/item/leather_boots_overlay.png"
+  },
+  {
+    "name": "adamant_chain_body",
+    "color": "#4F7056",
+    "icon_relative_path": "assets/minecraft/textures/item/leather_chestplate.png",
+    "overlay_relative_path": "assets/minecraft/textures/item/leather_chestplate_overlay.png"
+  },
+  {
+    "name": "adamant_chain_legs",
+    "color": "#4F7056",
+    "icon_relative_path": "assets/minecraft/textures/item/leather_leggings.png",
+    "overlay_relative_path": "assets/minecraft/textures/item/leather_leggings_overlay.png"
+  },
+  {
+    "name": "adamant_chain_boots",
+    "color": "#4F7056",
+    "icon_relative_path": "assets/minecraft/textures/item/leather_boots.png",
+    "overlay_relative_path": "assets/minecraft/textures/item/leather_boots_overlay.png"
+  },
+  {
+    "name": "rune_chain_body",
+    "color": "#486C77",
+    "icon_relative_path": "assets/minecraft/textures/item/leather_chestplate.png",
+    "overlay_relative_path": "assets/minecraft/textures/item/leather_chestplate_overlay.png"
+  },
+  {
+    "name": "rune_chain_legs",
+    "color": "#486C77",
+    "icon_relative_path": "assets/minecraft/textures/item/leather_leggings.png",
+    "overlay_relative_path": "assets/minecraft/textures/item/leather_leggings_overlay.png"
+  },
+  {
+    "name": "rune_chain_boots",
+    "color": "#486C77",
+    "icon_relative_path": "assets/minecraft/textures/item/leather_boots.png",
+    "overlay_relative_path": "assets/minecraft/textures/item/leather_boots_overlay.png"
+  },
+  {
+    "name": "dragon_chain_body",
+    "color": "#6D0F09",
+    "icon_relative_path": "assets/minecraft/textures/item/leather_chestplate.png",
+    "overlay_relative_path": "assets/minecraft/textures/item/leather_chestplate_overlay.png"
+  },
+  {
+    "name": "dragon_chain_legs",
+    "color": "#6D0F09",
+    "icon_relative_path": "assets/minecraft/textures/item/leather_leggings.png",
+    "overlay_relative_path": "assets/minecraft/textures/item/leather_leggings_overlay.png"
+  },
+  {
+    "name": "dragon_chain_boots",
+    "color": "#6D0F09",
+    "icon_relative_path": "assets/minecraft/textures/item/leather_boots.png",
+    "overlay_relative_path": "assets/minecraft/textures/item/leather_boots_overlay.png"
+  },
+  {
+    "name": "bronze_plate_body",
+    "color": "#564229",
+    "icon_relative_path": "assets/minecraft/textures/item/leather_chestplate.png",
+    "overlay_relative_path": "assets/minecraft/textures/item/leather_chestplate_overlay.png"
+  },
+  {
+    "name": "bronze_plate_legs",
+    "color": "#564229",
+    "icon_relative_path": "assets/minecraft/textures/item/leather_leggings.png",
+    "overlay_relative_path": "assets/minecraft/textures/item/leather_leggings_overlay.png"
+  },
+  {
+    "name": "bronze_plate_boots",
+    "color": "#564229",
+    "icon_relative_path": "assets/minecraft/textures/item/leather_boots.png",
+    "overlay_relative_path": "assets/minecraft/textures/item/leather_boots_overlay.png"
+  },
+  {
+    "name": "iron_plate_body",
+    "color": "#655F5F",
+    "icon_relative_path": "assets/minecraft/textures/item/leather_chestplate.png",
+    "overlay_relative_path": "assets/minecraft/textures/item/leather_chestplate_overlay.png"
+  },
+  {
+    "name": "iron_plate_legs",
+    "color": "#655F5F",
+    "icon_relative_path": "assets/minecraft/textures/item/leather_leggings.png",
+    "overlay_relative_path": "assets/minecraft/textures/item/leather_leggings_overlay.png"
+  },
+  {
+    "name": "iron_plate_boots",
+    "color": "#655F5F",
+    "icon_relative_path": "assets/minecraft/textures/item/leather_boots.png",
+    "overlay_relative_path": "assets/minecraft/textures/item/leather_boots_overlay.png"
+  },
+  {
+    "name": "steel_plate_body",
+    "color": "#A59797",
+    "icon_relative_path": "assets/minecraft/textures/item/leather_chestplate.png",
+    "overlay_relative_path": "assets/minecraft/textures/item/leather_chestplate_overlay.png"
+  },
+  {
+    "name": "steel_plate_legs",
+    "color": "#A59797",
+    "icon_relative_path": "assets/minecraft/textures/item/leather_leggings.png",
+    "overlay_relative_path": "assets/minecraft/textures/item/leather_leggings_overlay.png"
+  },
+  {
+    "name": "steel_plate_boots",
+    "color": "#A59797",
+    "icon_relative_path": "assets/minecraft/textures/item/leather_boots.png",
+    "overlay_relative_path": "assets/minecraft/textures/item/leather_boots_overlay.png"
+  },
+  {
+    "name": "black_plate_body",
+    "color": "#000001",
+    "icon_relative_path": "assets/minecraft/textures/item/leather_chestplate.png",
+    "overlay_relative_path": "assets/minecraft/textures/item/leather_chestplate_overlay.png"
+  },
+  {
+    "name": "black_plate_legs",
+    "color": "#000001",
+    "icon_relative_path": "assets/minecraft/textures/item/leather_leggings.png",
+    "overlay_relative_path": "assets/minecraft/textures/item/leather_leggings_overlay.png"
+  },
+  {
+    "name": "black_plate_boots",
+    "color": "#000001",
+    "icon_relative_path": "assets/minecraft/textures/item/leather_boots.png",
+    "overlay_relative_path": "assets/minecraft/textures/item/leather_boots_overlay.png"
+  },
+  {
+    "name": "mithril_plate_body",
+    "color": "#45476C",
+    "icon_relative_path": "assets/minecraft/textures/item/leather_chestplate.png",
+    "overlay_relative_path": "assets/minecraft/textures/item/leather_chestplate_overlay.png"
+  },
+  {
+    "name": "mithril_plate_legs",
+    "color": "#45476C",
+    "icon_relative_path": "assets/minecraft/textures/item/leather_leggings.png",
+    "overlay_relative_path": "assets/minecraft/textures/item/leather_leggings_overlay.png"
+  },
+  {
+    "name": "mithril_plate_boots",
+    "color": "#45476C",
+    "icon_relative_path": "assets/minecraft/textures/item/leather_boots.png",
+    "overlay_relative_path": "assets/minecraft/textures/item/leather_boots_overlay.png"
+  },
+  {
+    "name": "adamant_plate_body",
+    "color": "#334B38",
+    "icon_relative_path": "assets/minecraft/textures/item/leather_chestplate.png",
+    "overlay_relative_path": "assets/minecraft/textures/item/leather_chestplate_overlay.png"
+  },
+  {
+    "name": "adamant_plate_legs",
+    "color": "#334B38",
+    "icon_relative_path": "assets/minecraft/textures/item/leather_leggings.png",
+    "overlay_relative_path": "assets/minecraft/textures/item/leather_leggings_overlay.png"
+  },
+  {
+    "name": "adamant_plate_boots",
+    "color": "#334B38",
+    "icon_relative_path": "assets/minecraft/textures/item/leather_boots.png",
+    "overlay_relative_path": "assets/minecraft/textures/item/leather_boots_overlay.png"
+  },
+  {
+    "name": "rune_plate_body",
+    "color": "#41575F",
+    "icon_relative_path": "assets/minecraft/textures/item/leather_chestplate.png",
+    "overlay_relative_path": "assets/minecraft/textures/item/leather_chestplate_overlay.png"
+  },
+  {
+    "name": "rune_plate_legs",
+    "color": "#41575F",
+    "icon_relative_path": "assets/minecraft/textures/item/leather_leggings.png",
+    "overlay_relative_path": "assets/minecraft/textures/item/leather_leggings_overlay.png"
+  },
+  {
+    "name": "rune_plate_boots",
+    "color": "#41575F",
+    "icon_relative_path": "assets/minecraft/textures/item/leather_boots.png",
+    "overlay_relative_path": "assets/minecraft/textures/item/leather_boots_overlay.png"
+  },
+  {
+    "name": "dragon_plate_body",
+    "color": "#440100",
+    "icon_relative_path": "assets/minecraft/textures/item/leather_chestplate.png",
+    "overlay_relative_path": "assets/minecraft/textures/item/leather_chestplate_overlay.png"
+  },
+  {
+    "name": "dragon_plate_legs",
+    "color": "#440100",
+    "icon_relative_path": "assets/minecraft/textures/item/leather_leggings.png",
+    "overlay_relative_path": "assets/minecraft/textures/item/leather_leggings_overlay.png"
+  },
+  {
+    "name": "dragon_plate_boots",
+    "color": "#440100",
+    "icon_relative_path": "assets/minecraft/textures/item/leather_boots.png",
+    "overlay_relative_path": "assets/minecraft/textures/item/leather_boots_overlay.png"
+  },
+  {
+    "name": "blue_wizard_robe_top",
+    "color": "#3C7EE8",
+    "icon_relative_path": "assets/minecraft/textures/item/leather_chestplate.png",
+    "overlay_relative_path": "assets/minecraft/textures/item/leather_chestplate_overlay.png"
+  },
+  {
+    "name": "blue_wizard_robe_bottom",
+    "color": "#3C7EE8",
+    "icon_relative_path": "assets/minecraft/textures/item/leather_leggings.png",
+    "overlay_relative_path": "assets/minecraft/textures/item/leather_leggings_overlay.png"
+  },
+  {
+    "name": "blue_wizard_boots",
+    "color": "#3C7EE8",
+    "icon_relative_path": "assets/minecraft/textures/item/leather_boots.png",
+    "overlay_relative_path": "assets/minecraft/textures/item/leather_boots_overlay.png"
+  },
+  {
+    "name": "black_wizard_robe_top",
+    "color": "#0E0E0E",
+    "icon_relative_path": "assets/minecraft/textures/item/leather_chestplate.png",
+    "overlay_relative_path": "assets/minecraft/textures/item/leather_chestplate_overlay.png"
+  },
+  {
+    "name": "black_wizard_robe_bottom",
+    "color": "#0E0E0E",
+    "icon_relative_path": "assets/minecraft/textures/item/leather_leggings.png",
+    "overlay_relative_path": "assets/minecraft/textures/item/leather_leggings_overlay.png"
+  },
+  {
+    "name": "black_wizard_boots",
+    "color": "#0E0E0E",
+    "icon_relative_path": "assets/minecraft/textures/item/leather_boots.png",
+    "overlay_relative_path": "assets/minecraft/textures/item/leather_boots_overlay.png"
+  },
+  {
+    "name": "spider_silk_robe_top",
+    "color": "#D7D7D7",
+    "icon_relative_path": "assets/minecraft/textures/item/leather_chestplate.png",
+    "overlay_relative_path": "assets/minecraft/textures/item/leather_chestplate_overlay.png"
+  },
+  {
+    "name": "spider_silk_robe_bottom",
+    "color": "#D7D7D7",
+    "icon_relative_path": "assets/minecraft/textures/item/leather_leggings.png",
+    "overlay_relative_path": "assets/minecraft/textures/item/leather_leggings_overlay.png"
+  },
+  {
+    "name": "spider_silk_boots",
+    "color": "#D7D7D7",
+    "icon_relative_path": "assets/minecraft/textures/item/leather_boots.png",
+    "overlay_relative_path": "assets/minecraft/textures/item/leather_boots_overlay.png"
+  },
+  {
+    "name": "batwing_robe_top",
+    "color": "#804FB0",
+    "icon_relative_path": "assets/minecraft/textures/item/leather_chestplate.png",
+    "overlay_relative_path": "assets/minecraft/textures/item/leather_chestplate_overlay.png"
+  },
+  {
+    "name": "batwing_robe_bottom",
+    "color": "#804FB0",
+    "icon_relative_path": "assets/minecraft/textures/item/leather_leggings.png",
+    "overlay_relative_path": "assets/minecraft/textures/item/leather_leggings_overlay.png"
+  },
+  {
+    "name": "batwing_boots",
+    "color": "#804FB0",
+    "icon_relative_path": "assets/minecraft/textures/item/leather_boots.png",
+    "overlay_relative_path": "assets/minecraft/textures/item/leather_boots_overlay.png"
+  },
+  {
+    "name": "mystic_robe_top",
+    "color": "#30ABF2",
+    "icon_relative_path": "assets/minecraft/textures/item/leather_chestplate.png",
+    "overlay_relative_path": "assets/minecraft/textures/item/leather_chestplate_overlay.png"
+  },
+  {
+    "name": "mystic_robe_bottom",
+    "color": "#30ABF2",
+    "icon_relative_path": "assets/minecraft/textures/item/leather_leggings.png",
+    "overlay_relative_path": "assets/minecraft/textures/item/leather_leggings_overlay.png"
+  },
+  {
+    "name": "mystic_boots",
+    "color": "#30ABF2",
+    "icon_relative_path": "assets/minecraft/textures/item/leather_boots.png",
+    "overlay_relative_path": "assets/minecraft/textures/item/leather_boots_overlay.png"
+  },
+  {
+    "name": "infinity_robe_top",
+    "color": "#A61BB3",
+    "icon_relative_path": "assets/minecraft/textures/item/leather_chestplate.png",
+    "overlay_relative_path": "assets/minecraft/textures/item/leather_chestplate_overlay.png"
+  },
+  {
+    "name": "infinity_robe_bottom",
+    "color": "#A61BB3",
+    "icon_relative_path": "assets/minecraft/textures/item/leather_leggings.png",
+    "overlay_relative_path": "assets/minecraft/textures/item/leather_leggings_overlay.png"
+  },
+  {
+    "name": "infinity_boots",
+    "color": "#A61BB3",
+    "icon_relative_path": "assets/minecraft/textures/item/leather_boots.png",
+    "overlay_relative_path": "assets/minecraft/textures/item/leather_boots_overlay.png"
+  },
+  {
+    "name": "druidic_robe_top",
+    "color": "#8EBD7E",
+    "icon_relative_path": "assets/minecraft/textures/item/leather_chestplate.png",
+    "overlay_relative_path": "assets/minecraft/textures/item/leather_chestplate_overlay.png"
+  },
+  {
+    "name": "druidic_robe_bottom",
+    "color": "#8EBD7E",
+    "icon_relative_path": "assets/minecraft/textures/item/leather_leggings.png",
+    "overlay_relative_path": "assets/minecraft/textures/item/leather_leggings_overlay.png"
+  },
+  {
+    "name": "druidic_boots",
+    "color": "#8EBD7E",
+    "icon_relative_path": "assets/minecraft/textures/item/leather_boots.png",
+    "overlay_relative_path": "assets/minecraft/textures/item/leather_boots_overlay.png"
+  },
+  {
+    "name": "dagonhai_robe_top",
+    "color": "#524949",
+    "icon_relative_path": "assets/minecraft/textures/item/leather_chestplate.png",
+    "overlay_relative_path": "assets/minecraft/textures/item/leather_chestplate_overlay.png"
+  },
+  {
+    "name": "dagonhai_robe_bottom",
+    "color": "#524949",
+    "icon_relative_path": "assets/minecraft/textures/item/leather_leggings.png",
+    "overlay_relative_path": "assets/minecraft/textures/item/leather_leggings_overlay.png"
+  },
+  {
+    "name": "dagonhai_boots",
+    "color": "#524949",
+    "icon_relative_path": "assets/minecraft/textures/item/leather_boots.png",
+    "overlay_relative_path": "assets/minecraft/textures/item/leather_boots_overlay.png"
+  },
+  {
+    "name": "leather_body",
+    "color": "#485424",
+    "icon_relative_path": "assets/minecraft/textures/item/leather_chestplate.png",
+    "overlay_relative_path": "assets/minecraft/textures/item/leather_chestplate_overlay.png"
+  },
+  {
+    "name": "leather_chaps",
+    "color": "#485424",
+    "icon_relative_path": "assets/minecraft/textures/item/leather_leggings.png",
+    "overlay_relative_path": "assets/minecraft/textures/item/leather_leggings_overlay.png"
+  },
+  {
+    "name": "leather_boots",
+    "color": "#485424",
+    "icon_relative_path": "assets/minecraft/textures/item/leather_boots.png",
+    "overlay_relative_path": "assets/minecraft/textures/item/leather_boots_overlay.png"
+  },
+  {
+    "name": "studded_leather_body",
+    "color": "#7F7F37",
+    "icon_relative_path": "assets/minecraft/textures/item/leather_chestplate.png",
+    "overlay_relative_path": "assets/minecraft/textures/item/leather_chestplate_overlay.png"
+  },
+  {
+    "name": "studded_leather_chaps",
+    "color": "#7F7F37",
+    "icon_relative_path": "assets/minecraft/textures/item/leather_leggings.png",
+    "overlay_relative_path": "assets/minecraft/textures/item/leather_leggings_overlay.png"
+  },
+  {
+    "name": "studded_leather_boots",
+    "color": "#7F7F37",
+    "icon_relative_path": "assets/minecraft/textures/item/leather_boots.png",
+    "overlay_relative_path": "assets/minecraft/textures/item/leather_boots_overlay.png"
+  },
+  {
+    "name": "snakeskin_body",
+    "color": "#9D8E43",
+    "icon_relative_path": "assets/minecraft/textures/item/leather_chestplate.png",
+    "overlay_relative_path": "assets/minecraft/textures/item/leather_chestplate_overlay.png"
+  },
+  {
+    "name": "snakeskin_chaps",
+    "color": "#9D8E43",
+    "icon_relative_path": "assets/minecraft/textures/item/leather_leggings.png",
+    "overlay_relative_path": "assets/minecraft/textures/item/leather_leggings_overlay.png"
+  },
+  {
+    "name": "snakeskin_boots",
+    "color": "#9D8E43",
+    "icon_relative_path": "assets/minecraft/textures/item/leather_boots.png",
+    "overlay_relative_path": "assets/minecraft/textures/item/leather_boots_overlay.png"
+  },
+  {
+    "name": "green_dhide_body",
+    "color": "#13A131",
+    "icon_relative_path": "assets/minecraft/textures/item/leather_chestplate.png",
+    "overlay_relative_path": "assets/minecraft/textures/item/leather_chestplate_overlay.png"
+  },
+  {
+    "name": "green_dhide_chaps",
+    "color": "#13A131",
+    "icon_relative_path": "assets/minecraft/textures/item/leather_leggings.png",
+    "overlay_relative_path": "assets/minecraft/textures/item/leather_leggings_overlay.png"
+  },
+  {
+    "name": "green_dhide_boots",
+    "color": "#13A131",
+    "icon_relative_path": "assets/minecraft/textures/item/leather_boots.png",
+    "overlay_relative_path": "assets/minecraft/textures/item/leather_boots_overlay.png"
+  },
+  {
+    "name": "blue_dhide_body",
+    "color": "#4A50EA",
+    "icon_relative_path": "assets/minecraft/textures/item/leather_chestplate.png",
+    "overlay_relative_path": "assets/minecraft/textures/item/leather_chestplate_overlay.png"
+  },
+  {
+    "name": "blue_dhide_chaps",
+    "color": "#4A50EA",
+    "icon_relative_path": "assets/minecraft/textures/item/leather_leggings.png",
+    "overlay_relative_path": "assets/minecraft/textures/item/leather_leggings_overlay.png"
+  },
+  {
+    "name": "blue_dhide_boots",
+    "color": "#4A50EA",
+    "icon_relative_path": "assets/minecraft/textures/item/leather_boots.png",
+    "overlay_relative_path": "assets/minecraft/textures/item/leather_boots_overlay.png"
+  },
+  {
+    "name": "red_dhide_body",
+    "color": "#A81D0D",
+    "icon_relative_path": "assets/minecraft/textures/item/leather_chestplate.png",
+    "overlay_relative_path": "assets/minecraft/textures/item/leather_chestplate_overlay.png"
+  },
+  {
+    "name": "red_dhide_chaps",
+    "color": "#A81D0D",
+    "icon_relative_path": "assets/minecraft/textures/item/leather_leggings.png",
+    "overlay_relative_path": "assets/minecraft/textures/item/leather_leggings_overlay.png"
+  },
+  {
+    "name": "red_dhide_boots",
+    "color": "#A81D0D",
+    "icon_relative_path": "assets/minecraft/textures/item/leather_boots.png",
+    "overlay_relative_path": "assets/minecraft/textures/item/leather_boots_overlay.png"
+  },
+  {
+    "name": "black_dhide_body",
+    "color": "#0A0A0A",
+    "icon_relative_path": "assets/minecraft/textures/item/leather_chestplate.png",
+    "overlay_relative_path": "assets/minecraft/textures/item/leather_chestplate_overlay.png"
+  },
+  {
+    "name": "black_dhide_chaps",
+    "color": "#0A0A0A",
+    "icon_relative_path": "assets/minecraft/textures/item/leather_leggings.png",
+    "overlay_relative_path": "assets/minecraft/textures/item/leather_leggings_overlay.png"
+  },
+  {
+    "name": "black_dhide_boots",
+    "color": "#0A0A0A",
+    "icon_relative_path": "assets/minecraft/textures/item/leather_boots.png",
+    "overlay_relative_path": "assets/minecraft/textures/item/leather_boots_overlay.png"
+  },
+  {
+    "name": "ironman_body",
+    "color": "#857C7B",
+    "icon_relative_path": "assets/minecraft/textures/item/leather_chestplate.png",
+    "overlay_relative_path": "assets/minecraft/textures/item/leather_chestplate_overlay.png"
+  },
+  {
+    "name": "ironman_legs",
+    "color": "#928888",
+    "icon_relative_path": "assets/minecraft/textures/item/leather_leggings.png",
+    "overlay_relative_path": "assets/minecraft/textures/item/leather_leggings_overlay.png"
+  },
+  {
+    "name": "ironman_boots",
+    "color": "#928888",
+    "icon_relative_path": "assets/minecraft/textures/item/leather_boots.png",
+    "overlay_relative_path": "assets/minecraft/textures/item/leather_boots_overlay.png"
+  },
+  {
+    "name": "ultimate_ironman_body",
+    "color": "#B9AFAE",
+    "icon_relative_path": "assets/minecraft/textures/item/leather_chestplate.png",
+    "overlay_relative_path": "assets/minecraft/textures/item/leather_chestplate_overlay.png"
+  },
+  {
+    "name": "ultimate_ironman_legs",
+    "color": "#908686",
+    "icon_relative_path": "assets/minecraft/textures/item/leather_leggings.png",
+    "overlay_relative_path": "assets/minecraft/textures/item/leather_leggings_overlay.png"
+  },
+  {
+    "name": "ultimate_ironman_boots",
+    "color": "#908686",
+    "icon_relative_path": "assets/minecraft/textures/item/leather_boots.png",
+    "overlay_relative_path": "assets/minecraft/textures/item/leather_boots_overlay.png"
+  },
+  {
+    "name": "hardcore_ironman_body",
+    "color": "#744442",
+    "icon_relative_path": "assets/minecraft/textures/item/leather_chestplate.png",
+    "overlay_relative_path": "assets/minecraft/textures/item/leather_chestplate_overlay.png"
+  },
+  {
+    "name": "hardcore_ironman_legs",
+    "color": "#6B3F3C",
+    "icon_relative_path": "assets/minecraft/textures/item/leather_leggings.png",
+    "overlay_relative_path": "assets/minecraft/textures/item/leather_leggings_overlay.png"
+  },
+  {
+    "name": "hardcore_ironman_boots",
+    "color": "#6B3F3C",
+    "icon_relative_path": "assets/minecraft/textures/item/leather_boots.png",
+    "overlay_relative_path": "assets/minecraft/textures/item/leather_boots_overlay.png"
+  },
+  {
+    "name": "ahrims_robetop",
+    "color": "#3B3A26",
+    "icon_relative_path": "assets/minecraft/textures/item/leather_chestplate.png",
+    "overlay_relative_path": "assets/minecraft/textures/item/leather_chestplate_overlay.png"
+  },
+  {
+    "name": "ahrims_robeskirt",
+    "color": "#3B3A26",
+    "icon_relative_path": "assets/minecraft/textures/item/leather_leggings.png",
+    "overlay_relative_path": "assets/minecraft/textures/item/leather_leggings_overlay.png"
+  },
+  {
+    "name": "ahrims_boots",
+    "color": "#3B3A26",
+    "icon_relative_path": "assets/minecraft/textures/item/leather_boots.png",
+    "overlay_relative_path": "assets/minecraft/textures/item/leather_boots_overlay.png"
+  },
+  {
+    "name": "dharoks_platebody",
+    "color": "#3B3A26",
+    "icon_relative_path": "assets/minecraft/textures/item/leather_chestplate.png",
+    "overlay_relative_path": "assets/minecraft/textures/item/leather_chestplate_overlay.png"
+  },
+  {
+    "name": "dharoks_platelegs",
+    "color": "#3B3A26",
+    "icon_relative_path": "assets/minecraft/textures/item/leather_leggings.png",
+    "overlay_relative_path": "assets/minecraft/textures/item/leather_leggings_overlay.png"
+  },
+  {
+    "name": "dharoks_boots",
+    "color": "#3B3A26",
+    "icon_relative_path": "assets/minecraft/textures/item/leather_boots.png",
+    "overlay_relative_path": "assets/minecraft/textures/item/leather_boots_overlay.png"
+  },
+  {
+    "name": "torags_platebody",
+    "color": "#3B3A26",
+    "icon_relative_path": "assets/minecraft/textures/item/leather_chestplate.png",
+    "overlay_relative_path": "assets/minecraft/textures/item/leather_chestplate_overlay.png"
+  },
+  {
+    "name": "torags_platelegs",
+    "color": "#3B3A26",
+    "icon_relative_path": "assets/minecraft/textures/item/leather_leggings.png",
+    "overlay_relative_path": "assets/minecraft/textures/item/leather_leggings_overlay.png"
+  },
+  {
+    "name": "torags_boots",
+    "color": "#3B3A26",
+    "icon_relative_path": "assets/minecraft/textures/item/leather_boots.png",
+    "overlay_relative_path": "assets/minecraft/textures/item/leather_boots_overlay.png"
+  },
+  {
+    "name": "guthans_platebody",
+    "color": "#3B3A26",
+    "icon_relative_path": "assets/minecraft/textures/item/leather_chestplate.png",
+    "overlay_relative_path": "assets/minecraft/textures/item/leather_chestplate_overlay.png"
+  },
+  {
+    "name": "guthans_platelegs",
+    "color": "#3B3A26",
+    "icon_relative_path": "assets/minecraft/textures/item/leather_leggings.png",
+    "overlay_relative_path": "assets/minecraft/textures/item/leather_leggings_overlay.png"
+  },
+  {
+    "name": "guthans_boots",
+    "color": "#3B3A26",
+    "icon_relative_path": "assets/minecraft/textures/item/leather_boots.png",
+    "overlay_relative_path": "assets/minecraft/textures/item/leather_boots_overlay.png"
+  },
+  {
+    "name": "karils_leathertop",
+    "color": "#3B3A26",
+    "icon_relative_path": "assets/minecraft/textures/item/leather_chestplate.png",
+    "overlay_relative_path": "assets/minecraft/textures/item/leather_chestplate_overlay.png"
+  },
+  {
+    "name": "karils_chainskirt",
+    "color": "#3B3A26",
+    "icon_relative_path": "assets/minecraft/textures/item/leather_leggings.png",
+    "overlay_relative_path": "assets/minecraft/textures/item/leather_leggings_overlay.png"
+  },
+  {
+    "name": "karils_boots",
+    "color": "#3B3A26",
+    "icon_relative_path": "assets/minecraft/textures/item/leather_boots.png",
+    "overlay_relative_path": "assets/minecraft/textures/item/leather_boots_overlay.png"
+  },
+  {
+    "name": "veracs_brassard",
+    "color": "#3B3A26",
+    "icon_relative_path": "assets/minecraft/textures/item/leather_chestplate.png",
+    "overlay_relative_path": "assets/minecraft/textures/item/leather_chestplate_overlay.png"
+  },
+  {
+    "name": "veracs_plateskirt",
+    "color": "#3B3A26",
+    "icon_relative_path": "assets/minecraft/textures/item/leather_leggings.png",
+    "overlay_relative_path": "assets/minecraft/textures/item/leather_leggings_overlay.png"
+  },
+  {
+    "name": "veracs_boots",
+    "color": "#3B3A26",
+    "icon_relative_path": "assets/minecraft/textures/item/leather_boots.png",
+    "overlay_relative_path": "assets/minecraft/textures/item/leather_boots_overlay.png"
+  }
+]

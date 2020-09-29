@@ -1,0 +1,1 @@
+TILE_ENTITIY_ID_SET = {'builtin/chest.json'}
