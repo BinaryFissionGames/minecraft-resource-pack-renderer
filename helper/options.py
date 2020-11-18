@@ -92,3 +92,16 @@ def parse_render_leather_armors_options() -> RenderLeatherArmorsOptions:
     parser.add_argument('description_file', help='JSON file describing the leather armor icons to render')
 
     return RenderLeatherArmorsOptions(parser.parse_args(sys.argv[1:]))
+
+
+class CreateAnimatedGifOptions:
+    def __init__(self, ns: argparse.Namespace):
+        self.texture = ns.texture
+        self.output_path = ns.output_path
+
+
+def parse_create_animated_gif_options() -> CreateAnimatedGifOptions:
+    parser = argparse.ArgumentParser(description='Render an animated texture as a GIF.')
+    parser.add_argument('-o', '--output_path', default='./temp/out.gif', help='Output file')
+    parser.add_argument('texture', help='Texture file to turn into a GIF')
+    return CreateAnimatedGifOptions(parser.parse_args(sys.argv[1:]))

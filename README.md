@@ -37,8 +37,5 @@ See `minescape_mappings/leather_armor_descriptions.json` for an example descript
 ## TODO
 - Animated textures? (Not sure how these work, but would output a .gif file)
 - Enchanted textures (gif or png? Look into how enchantment overlay is generated, probably some perlin noise thing)
-- Optifine specific textures/models (needs research)
 - Lighting needs a closer look at, doesn't seem to be exactly the same as MCs lighting in game. May also be cool to have options for lighting
 - performance enhancements (remove need for intermediate files, seperate process calls, remove need for ffmpeg and do downscaling in memory) (low priority)
-- Add Minescape construction blocks to mapping file
-- Add Minescape teletabs to mapping file

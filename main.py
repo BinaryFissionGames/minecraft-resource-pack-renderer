@@ -9,9 +9,9 @@ from direct.showbase.ShowBase import ShowBase
 from helper.filepaths import get_texture_path
 from helper.model import MinecraftModel, Vertex, get_model_id_from_file_path, load_model_json, ModelJSON, \
     ModelJSONElement, \
-    get_path_from_model_id, ModelJSONPosition
+    get_path_from_model_id, ModelJSONPosition, fill_frame_data
 from helper.options import parse_args
-from helper.tints import generate_tint_png
+from helper.tints import find_leaf_tint
 from helper.transform import get_light_one_vec, get_light_zero_vec, get_light_zero_item_vec, get_light_one_item_vec
 
 
@@ -42,7 +42,12 @@ def convert_mc_model_to_egg(base_path, base_mc_path, model_json: ModelJSON, file
     for vertex in model.vertices:
         egg_text += "\t<Vertex> {\n"
         egg_text += f"\t\t{vertex.x} {vertex.y} {vertex.z}\n"
-        egg_text += f"\t\t<UV> {{ {vertex.u} {vertex.v} }}\n"
+        egg_text += f"\t\t<UV> {{ {vertex.u} {model_json.get_texture_by_name(vertex.texture[1:]).get_transformed_v_coord(vertex.v, 0)} }}\n"
+
+        if vertex.tinted:
+            texture_tint = model.textures[vertex.texture[1:]][1]
+            egg_text += f"\t\t<RGBA> {{ {texture_tint[0] / 255} {texture_tint[1] / 255} {texture_tint[2] / 255} {1} }}\n"
+
         egg_text += "\t}\n"
 
     egg_text += "}\n\n"
@@ -82,39 +87,17 @@ def convert_mc_model_to_egg(base_path, base_mc_path, model_json: ModelJSON, file
 def get_minecraft_model(base_path, model_json: ModelJSON, filename):
     model = MinecraftModel()
     model.vertices.extend(get_vertices_for_model(model_json))
-    model.textures = {key: [val, False] for key, val in model_json.textures.items()}
+    model.textures = {val.name: [val.texture_ref, False] for val in model_json.textures}
 
     # Set tinted property if any cube has tinted set
     for vertex in model.vertices:
         if vertex.texture[1:] in model.textures and not model.textures[vertex.texture[1:]][1]:
             if vertex.tinted:
                 model.textures[vertex.texture[1:]] = \
-                    [generate_tint_png(base_path, filename,
-                                       get_texture_path(base_path, model.textures[vertex.texture[1:]][0])),
-                     True]
-
-    normalize_textures(model)
+                    [model.textures[vertex.texture[1:]][0],
+                     find_leaf_tint(model_json.full_id_path)]
 
     return model
-
-
-def normalize_textures(mc_model: MinecraftModel):
-    '''
-    This function "normalizes" the texture map of the model. Essentially, the textures may refer to another
-    texture. This function replaces those references to other textures w/ the actual texture.
-    :param mc_model: MCModel instance to normalize
-    :return: void; mc_model is mutated
-    '''
-    for texture in mc_model.textures.keys():
-        visited = []
-        while mc_model.textures[texture][0].startswith('#'):
-            if mc_model.textures[texture][0][1:] in visited:
-                break
-            visited.append(mc_model.textures[texture][0][1:])
-            if mc_model.textures[texture][0][1:] in map(lambda x: x[0], mc_model.textures):
-                mc_model.textures[texture][0] = mc_model.textures[mc_model.textures[texture][0][1:]][0]
-            else:
-                break
 
 
 def get_vertices_for_model(model_json: ModelJSON):
@@ -285,17 +268,17 @@ def get_vertices_for_voxel(voxel_json: ModelJSONElement):
 
 def rotate_tex_coord(vert1, vert2, vert3, vert4, rotation):
     if rotation == 90:
-        u1 = vert1.u
-        v1 = vert1.v
+        u1 = vert3.u
+        v1 = vert3.v
 
-        vert1.u = vert2.u
-        vert1.v = vert2.v
-        vert2.u = vert4.u
-        vert2.v = vert4.v
-        vert4.u = vert3.u
-        vert4.v = vert3.v
-        vert3.u = u1
-        vert3.v = v1
+        vert3.u = vert4.u
+        vert3.v = vert4.v
+        vert4.u = vert2.u
+        vert4.v = vert2.v
+        vert2.u = vert1.u
+        vert2.v = vert1.v
+        vert1.u = u1
+        vert1.v = v1
         pass
     elif rotation == 180:
         rotate_tex_coord(vert1, vert2, vert3, vert4, 90)
@@ -313,9 +296,13 @@ def main():
 
     model_id = get_model_id_from_file_path(options.file_in, options.rsp_path, [options.mc_base_rsp_path])
     model = load_model_json(model_id, options.rsp_path, options.mc_base_rsp_path)
+    fill_frame_data(model, options.rsp_path, options.mc_base_rsp_path)
 
     egg_file_text = convert_mc_model_to_egg(options.rsp_path, options.mc_base_rsp_path, model,
                                             os.path.split(options.file_in)[1])
+
+    if not os.path.exists('./temp'):
+        os.mkdir('./temp')
 
     with open('./temp/temp.egg', 'w') as fileout:
         fileout.write(egg_file_text)
@@ -362,6 +349,8 @@ def main():
                       model.display[options.view].translation[2])
     pandaModel.flattenLight()
 
+    # pandaModel.setTwoSided(True)
+
     mybuffer = base.win.makeTextureBuffer("buffer", options.size, options.size, None, True)
     base.set_background_color(0, 0, 0, 0)
     mybuffer.setSort(-100)
@@ -380,7 +369,8 @@ def main():
     mycamera = base.makeCamera(mybuffer, lens=lens)
     if options.scale_to_fit:
         min_point, max_point = pandaModel.getTightBounds()
-        mycamera.setPos((max_point.getX() - min_point.getX()) / 2 + min_point.getX(), (max_point.getY() - min_point.getY()) / 2 + min_point.getY(), 32)
+        mycamera.setPos((max_point.getX() - min_point.getX()) / 2 + min_point.getX(),
+                        (max_point.getY() - min_point.getY()) / 2 + min_point.getY(), 32)
     else:
         mycamera.setPos(0, 0, 32)
 
