@@ -1,7 +1,6 @@
 import argparse
 import sys
 
-
 class RenderOptions:
     def __init__(self, ns: argparse.Namespace):
         self.size = ns.size[0]
@@ -11,6 +10,10 @@ class RenderOptions:
         self.mc_base_rsp_path = ns.mc_base_rsp_path[0]
         self.file_in = ns.file_in[0]
         self.file_out = ns.file_out[0]
+        self.texture_overrides = {}
+        for overrideString in ns.texture_override:
+            split = overrideString.split('=')
+            self.texture_overrides[split[0]] = split[1]
 
 
 def parse_args() -> RenderOptions:
@@ -23,6 +26,7 @@ def parse_args() -> RenderOptions:
                         help='Specifies the view transform to use when rendering the model')
     parser.add_argument('-f', '--scale_to_fit', default=False, action='store_true',
                         help='Scale the bounds of the render space to fit the whole rendered model, instead of assuming the geometry fits within the standard 16x16 area')
+    parser.add_argument('-to', '--texture_override', action='append', default=[], help='Specify a texture to override a texture in the model file. E.g. <texture_id>=<path_to_override_texture>')
     parser.add_argument('rsp_path', nargs=1, help='Base path of the resource pack')
     parser.add_argument('mc_base_rsp_path', nargs=1, help='Base path of the "default" minecraft resource pack')
     parser.add_argument('file_in', nargs=1, help='Path of the input file to render')

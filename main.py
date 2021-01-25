@@ -22,14 +22,18 @@ def load_mc_model_json(file_path):
     return model
 
 
-def convert_mc_model_to_egg(base_path, base_mc_path, model_json: ModelJSON, filename):
+def convert_mc_model_to_egg(base_path, base_mc_path, model_json: ModelJSON, filename, texture_overrides):
     model = get_minecraft_model(base_path, model_json, filename)
 
     egg_text = ""
     # egg_text += "<CoordinateSystem> { Y-up-right }\n"
 
     for texture in model.textures.keys():
-        texturePath = get_path_from_model_id(model.textures[texture][0], base_path, base_mc_path, '.png',
+        # Use texture overrides instead if we have any
+        if texture in texture_overrides:
+            texturePath = os.path.abspath(texture_overrides[texture])
+        else:
+            texturePath = get_path_from_model_id(model.textures[texture][0], base_path, base_mc_path, '.png',
                                              type='textures')
         egg_text += f"<Texture> {texture} {{\n"
         egg_text += f"\t{Filename.from_os_specific(texturePath)}\n"
@@ -299,7 +303,7 @@ def main():
     fill_frame_data(model, options.rsp_path, options.mc_base_rsp_path)
 
     egg_file_text = convert_mc_model_to_egg(options.rsp_path, options.mc_base_rsp_path, model,
-                                            os.path.split(options.file_in)[1])
+                                            os.path.split(options.file_in)[1], options.texture_overrides)
 
     if not os.path.exists('./temp'):
         os.mkdir('./temp')

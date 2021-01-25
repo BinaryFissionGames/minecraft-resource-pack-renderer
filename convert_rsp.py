@@ -63,26 +63,68 @@ def generate_icon(filename, out_names=None):
     if out_names is None:
         out_names = [get_new_file_name(filename, '')]
 
+    basic_out_names = filter(lambda x: type(x) is str, out_names)
+    overriden_texture_names = filter(lambda x: type(x) is not str, out_names)
+
+    # Anything that has a texture override must be rendered on a separate pass;
+    # so we should do outnames with no texture overrides,
+    # then do each one with texture overrides
+    #
+    # Here's the structure of an entry that has texture overrides...
+    # {
+    #     name: '',
+    #     texture_overrides: {
+    #         key: val
+    #     }
+    # }
+
     if options.downscale_ffmpeg:
         subprocess.call(
             ['ffmpeg', '-loglevel', 'fatal', '-nostats', '-i', 'temp/out.png', '-vf',
              f'scale={options.output_size}:-1', '-pix_fmt', 'rgba', '-y',
              'temp/out_scaled.png'])
-        for name in out_names:
-            output_file = os.path.join(options.output_folder, name) + '.png'
-            output_folder = os.path.dirname(output_file)
-            if not os.path.exists(output_folder):
-                os.makedirs(output_folder)
 
-            copyfile('temp/out_scaled.png', output_file)
+        file_to_copy = 'temp/out_scaled.png'
     else:
-        for name in out_names:
-            output_file = os.path.join(options.output_folder, name) + '.png'
-            output_folder = os.path.dirname(output_file)
-            if not os.path.exists(output_folder):
-                os.makedirs(output_folder)
+        file_to_copy = 'temp/out.png'
 
-            copyfile('temp/out.png', output_file)
+    for name in basic_out_names:
+        output_file = os.path.join(options.output_folder, name) + '.png'
+        output_folder = os.path.dirname(output_file)
+        if not os.path.exists(output_folder):
+            os.makedirs(output_folder)
+
+        copyfile(file_to_copy, output_file)
+
+    for obj in overriden_texture_names:
+        output_file = os.path.join(options.output_folder, obj['name']) + '.png'
+        output_folder = os.path.dirname(output_file)
+        if not os.path.exists(output_folder):
+            os.makedirs(output_folder)
+
+        texture_override_args = process_args.copy()
+
+        for orig, override in obj['texture_overrides'].items():
+            texture_override_args += ['-to', f'{orig}={override}']
+
+        process_result = subprocess.call(texture_override_args, stderr=subprocess.DEVNULL)
+
+        if process_result != 0:
+            print('Failed to generate icon for file ' + abs_file_name)
+            return
+
+        if options.downscale_ffmpeg:
+            subprocess.call(
+                ['ffmpeg', '-loglevel', 'fatal', '-nostats', '-i', 'temp/out.png', '-vf',
+                 f'scale={options.output_size}:-1', '-pix_fmt', 'rgba', '-y',
+                 'temp/out_scaled.png'])
+
+            file_to_copy = 'temp/out_scaled.png'
+        else:
+            file_to_copy = 'temp/out.png'
+
+        copyfile(file_to_copy, output_file)
+
 
 
 def get_all_ids_from_pack(pack_path):
