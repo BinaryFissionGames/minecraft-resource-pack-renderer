@@ -1,3386 +1,3580 @@
 {
-  "item/minescape/3rd-age/3rd-age-mage-hat": [
-    "3rd_age_magic_hat"
-  ],
-  "item/minescape/3rd-age/3rd-age-helmet": [
-    "3rd_age_melee_helmet"
-  ],
-  "item/minescape/3rd-age/3rd-age-coif": [
-    "3rd_age_ranged_coif"
-  ],
-  "item/minescape/armours/adamant_helm": [
-    "Adamant_chain_helmet"
-  ],
-  "item/minescape/armours/fullhelm-adamant": [
-    "Adamant_plate_full_helm"
-  ],
-  "item/armours/ahrims-hood": [
-    "Ahrims_hood"
-  ],
-  "item/armours/dharok-helm": [
-    "Dharoks_helm"
-  ],
-  "item/armours/guthans-helmet": [
-    "Guthans_helmet"
-  ],
-  "item/armours/karils-coif": [
-    "Karils_coif"
-  ],
-  "item/armours/torags-helm": [
-    "Torags_helm"
-  ],
-  "item/armours/veracs-helm": [
-    "Veracs_helm"
-  ],
-  "item/minescape/armours/fullhelm-black": [
-    "Black_plate_full_helm"
-  ],
-  "item/minescape/armours/bronze_helm": [
-    "Bronze_chain_helmet"
-  ],
-  "item/minescape/armours/fullhelm-bronze": [
-    "Bronze_plate_full_helm"
-  ],
-  "item/minescape/armours/dragon_helm": [
-    "Dragon_chain_helmet"
-  ],
-  "item/minescape/armours/fullhelm-dragon": [
-    "Dragon_plate_full_helm"
-  ],
-  "item/iron_boots": [
-    "Fancy_boots"
-  ],
-  "item/minescape/armours/rune_helm_gilded": [
-    "Gilded_chain_helmet"
-  ],
-  "item/minescape/armours/fullhelm-rune_gilded": [
-    "Gilded_plate_full_helm"
-  ],
-  "item/minescape/armours/adamant_helm_gold": [
-    "Adamant_chain_helmet_(gt)"
-  ],
-  "item/minescape/armours/fullhelm-adamant_gold": [
-    "Adamant_plate_full_helm_(gt)"
-  ],
-  "item/minescape/armours/fullhelm-black_gold": [
-    "Black_plate_full_helm_(gt)"
-  ],
-  "item/minescape/armours/bronze_helm_gold": [
-    "Bronze_chain_helmet_(gt)"
-  ],
-  "item/minescape/armours/fullhelm-bronze_gold": [
-    "Bronze_plate_full_helm_(gt)"
-  ],
-  "item/minescape/armours/iron_helm_gold": [
-    "Iron_chain_helmet_(gt)"
-  ],
-  "item/minescape/armours/fullhelm-iron_gold": [
-    "Iron_plate_full_helm_(gt)"
-  ],
-  "item/minescape/armours/mithril_helm_gold": [
-    "Mithril_chain_helmet_(gt)"
-  ],
-  "item/minescape/armours/fullhelm-mithril_gold": [
-    "Mithril_plate_full_helm_(gt)"
-  ],
-  "item/minescape/armours/rune_helm_gold": [
-    "Rune_chain_helmet_(gt)"
-  ],
-  "item/minescape/armours/fullhelm-rune_gold": [
-    "Rune_plate_full_helm_(gt)"
-  ],
-  "item/minescape/armours/steel_helm_gold": [
-    "Steel_chain_helmet_(gt)"
-  ],
-  "item/minescape/armours/fullhelm-steel_gold": [
-    "Steel_plate_full_helm_(gt)"
-  ],
-  "item/minescape/armours/hardcore": [
-    "Hardcore_Ironman_full_helm"
-  ],
-  "item/minescape/armours/iron_helm": [
-    "Iron_chain_helmet"
-  ],
-  "item/minescape/armours/fullhelm-iron": [
-    "Iron_plate_full_helm"
-  ],
-  "item/minescape/armours/ironman": [
-    "Ironman_full_helm"
-  ],
-  "item/minescape/armours/magic/batwing_hat": [
-    "Batwing_hat"
-  ],
-  "item/minescape/armours/magic/black_hat": [
-    "Black_wizard_hat"
-  ],
-  "item/minescape/armours/magic/blue_hat": [
-    "Blue_wizard_hat"
-  ],
-  "item/minescape/armours/magic/dragonhai_hat": [
-    "Dagonhai_hat"
-  ],
-  "item/minescape/armours/magic/druid_hat": [
-    "Druidic_hat"
-  ],
-  "item/minescape/armours/enchanted-hat": [
-    "Enchanted_hat"
-  ],
-  "item/minescape/armours/magic/infinity_hat": [
-    "Infinity_hat"
-  ],
-  "item/minescape/armours/magic/mystichat": [
-    "Mystic_hat"
-  ],
-  "item/minescape/armours/magic/spider_hat": [
-    "Spider_silk_hat"
-  ],
-  "item/minescape/armours/magic/batwing_hat_gold": [
-    "Batwing_hat_(gt)"
-  ],
-  "item/minescape/armours/magic/black_hat_gold": [
-    "Black_wizard_hat_(gt)"
-  ],
-  "item/minescape/armours/magic/blue_hat_gold": [
-    "Blue_wizard_hat_(gt)"
-  ],
-  "item/minescape/armours/magic/dragonhai_hat_gold": [
-    "Dagonhai_hat_(gt)"
-  ],
-  "item/minescape/armours/magic/druid_hat_gold": [
-    "Druidic_hat_(gt)"
-  ],
-  "item/minescape/armours/magic/infinity_hat_gold": [
-    "Infinity_hat_(gt)"
-  ],
-  "item/minescape/armours/magic/mystichat_gold": [
-    "Mystic_hat_(gt)"
-  ],
-  "item/minescape/armours/magic/spider_hat_gold": [
-    "Spider_silk_hat_(gt)"
-  ],
-  "item/minescape/armours/magic/batwing_hat_trimmed": [
-    "Batwing_hat_(t)"
-  ],
-  "item/minescape/armours/magic/black_hat_trimmed": [
-    "Black_wizard_hat_(t)"
-  ],
-  "item/minescape/armours/magic/blue_hat_trimmed": [
-    "Blue_wizard_hat_(t)"
-  ],
-  "item/minescape/armours/magic/dragonhai_hat_trimmed": [
-    "Dagonhai_hat_(t)"
-  ],
-  "item/minescape/armours/magic/druid_hat_trimmed": [
-    "Druidic_hat_(t)"
-  ],
-  "item/minescape/armours/magic/infinity_hat_trimmed": [
-    "Infinity_hat_(t)"
-  ],
-  "item/minescape/armours/magic/mystichat_trimmed": [
-    "Mystic_hat_(t)"
-  ],
-  "item/minescape/armours/magic/spider_hat_trimmed": [
-    "Spider_silk_hat_(t)"
-  ],
-  "item/minescape/armours/mithril_helm": [
-    "Mithril_chain_helmet"
-  ],
-  "item/minescape/armours/fullhelm-mithril": [
-    "Mithril_plate_full_helm"
-  ],
-  "item/minescape/armours/ranged/blackdh": [
-    "Black_dhide_coif"
-  ],
-  "item/minescape/armours/ranged/bluedh": [
-    "Blue_dhide_coif"
-  ],
-  "item/minescape/armours/gilded-coif": [
-    "Gilded_dhide_coif"
-  ],
-  "item/minescape/armours/ranged/greendh": [
-    "Green_dhide_coif"
-  ],
-  "item/minescape/armours/ranged/leather": [
-    "Leather_coif"
-  ],
-  "item/minescape/armours/ranged/reddh": [
-    "Red_dhide_coif"
-  ],
-  "item/minescape/armours/ranged/snakeskin": [
-    "Snakeskin_bandana"
-  ],
-  "item/minescape/armours/ranged/studded": [
-    "Studded_leather_coif"
-  ],
-  "item/minescape/armours/ranged/whitedh_blessed": [
-    "Armadyl_blessed_dhide_coif"
-  ],
-  "item/minescape/armours/ranged/graydh_blessed": [
-    "Bandos_blessed_dhide_coif"
-  ],
-  "item/minescape/armours/ranged/greendh_blessed": [
-    "Guthix_blessed_dhide_coif"
-  ],
-  "item/minescape/armours/ranged/bluedh_blessed": [
-    "Saradomin_blessed_dhide_coif"
-  ],
-  "item/minescape/armours/ranged/reddh_blessed": [
-    "Zamorak_blessed_dhide_coif"
-  ],
-  "item/minescape/armours/ranged/purpledh_blessed": [
-    "Zaros_blessed_dhide_coif"
-  ],
-  "item/minescape/armours/ranged/blackdh_gold": [
-    "Black_dhide_coif_(gt)"
-  ],
-  "item/minescape/armours/ranged/bluedh_gold": [
-    "Blue_dhide_coif_(gt)"
-  ],
-  "item/minescape/armours/ranged/greendh_gold": [
-    "Green_dhide_coif_(gt)"
-  ],
-  "item/minescape/armours/ranged/leather_gold": [
-    "Leather_coif_(gt)"
-  ],
-  "item/minescape/armours/ranged/reddh_gold": [
-    "Red_dhide_coif_(gt)"
-  ],
-  "item/minescape/armours/ranged/snakeskin_gold": [
-    "Snakeskin_bandana_(gt)"
-  ],
-  "item/minescape/armours/ranged/studded_gold": [
-    "Studded_leather_coif_(gt)"
-  ],
-  "item/minescape/armours/ranged/blackdh_trimmed": [
-    "Black_dhide_coif_(t)"
-  ],
-  "item/minescape/armours/ranged/bluedh_trimmed": [
-    "Blue_dhide_coif_(t)"
-  ],
-  "item/minescape/armours/ranged/greendh_trimmed": [
-    "Green_dhide_coif_(t)"
-  ],
-  "item/minescape/armours/ranged/leather_trimmed": [
-    "Leather_coif_(t)"
-  ],
-  "item/minescape/armours/ranged/reddh_trimmed": [
-    "Red_dhide_coif_(t)"
-  ],
-  "item/minescape/armours/ranged/snakeskin_trimmed": [
-    "Snakeskin_bandana_(t)"
-  ],
-  "item/minescape/armours/ranged/studded_trimmed": [
-    "Studded_leather_coif_(t)"
-  ],
-  "item/minescape/armours/rune_helm": [
-    "Rune_chain_helmet"
-  ],
-  "item/minescape/armours/fullhelm-rune": [
-    "Rune_plate_full_helm"
-  ],
-  "item/minescape/cosmetics/hats/sandwich-hat": [
-    "Sandwich_hat"
-  ],
-  "item/minescape/armours/robe-of-darkness-hat": [
-    "Hood_of_darkness"
-  ],
-  "item/minescape/armours/fullhelm-adamant_heraldic": [
-    "Adamant_plate_full_helm_(h)"
-  ],
-  "item/minescape/armours/fullhelm-black_heraldic": [
-    "Black_plate_full_helm_(h)"
-  ],
-  "item/minescape/armours/fullhelm-rune_heraldic": [
-    "Rune_plate_full_helm_(h)"
-  ],
-  "item/player_head": [
-    {
-      "name": "Mummy_head",
-      "texture_overrides": {
-        "head": "minescape/mummy_skin.png"
-      }
-    },
-    "The_head_of_a_monster_(Experiments_-_part1)"
-  ],
-  "item/minescape/armours/royal-crown": [
-    "Royal_crown"
-  ],
-  "item/minescape/armours/samurai-kasa": [
-    "Samurai_kasa"
-  ],
-  "item/minescape/cosmetics/mitres/armadyl": [
-    "Armadyl_mitre"
-  ],
-  "item/minescape/cosmetics/mitres/bandos": [
-    "Bandos_mitre"
-  ],
-  "item/minescape/cosmetics/mitres/guthix": [
-    "Guthix_mitre"
-  ],
-  "item/minescape/cosmetics/mitres/saradomin": [
-    "Saradomin_mitre"
-  ],
-  "item/minescape/cosmetics/mitres/zamorak": [
-    "Zamorak_mitre"
-  ],
-  "item/minescape/cosmetics/mitres/zaros": [
-    "Zaros_mitre"
-  ],
-  "item/minescape/armours/steel_helm": [
-    "Steel_chain_helmet"
-  ],
-  "item/minescape/armours/fullhelm-steel": [
-    "Steel_plate_full_helm"
-  ],
-  "item/minescape/armours/adamant_helm_trimmed": [
-    "Adamant_chain_helmet_(t)"
-  ],
-  "item/minescape/armours/fullhelm-adamant_trimmed": [
-    "Adamant_plate_full_helm_(t)"
-  ],
-  "item/minescape/armours/fullhelm-black_trimmed": [
-    "Black_plate_full_helm_(t)"
-  ],
-  "item/minescape/armours/bronze_helm_trimmed": [
-    "Bronze_chain_helmet_(t)"
-  ],
-  "item/minescape/armours/fullhelm-bronze_trimmed": [
-    "Bronze_plate_full_helm_(t)"
-  ],
-  "item/minescape/armours/iron_helm_trimmed": [
-    "Iron_chain_helmet_(t)"
-  ],
-  "item/minescape/armours/fullhelm-iron_trimmed": [
-    "Iron_plate_full_helm_(t)"
-  ],
-  "item/minescape/armours/mithril_helm_trimmed": [
-    "Mithril_chain_helmet_(t)"
-  ],
-  "item/minescape/armours/fullhelm-mithril_trimmed": [
-    "Mithril_plate_full_helm_(t)"
-  ],
-  "item/minescape/armours/rune_helm_trimmed": [
-    "Rune_chain_helmet_(t)"
-  ],
-  "item/minescape/armours/fullhelm-rune_trimmed": [
-    "Rune_plate_full_helm_(t)"
-  ],
-  "item/minescape/armours/steel_helm_trimmed": [
-    "Steel_chain_helmet_(t)"
-  ],
-  "item/minescape/armours/fullhelm-steel_trimmed": [
-    "Steel_plate_full_helm_(t)"
-  ],
-  "item/minescape/armours/ultimate": [
-    "Ultimate_Ironman_full_helm"
-  ],
-  "item/materials/adamant_bar": [
-    "Adamant_bar"
-  ],
-  "item/materials/bronze_bar": [
-    "Bronze_bar"
-  ],
-  "item/materials/gold_bar": [
-    "Gold_bar"
-  ],
-  "item/materials/iron_bar": [
-    "Iron_bar"
-  ],
-  "item/materials/mithril_bar": [
-    "Mithril_bar"
-  ],
-  "item/materials/rune_bar": [
-    "Rune_bar"
-  ],
-  "item/materials/silver_bar": [
-    "Silver_bar"
-  ],
-  "item/materials/steel_bar": [
-    "Steel_bar"
-  ],
-  "item/minescape/capes/agility": [
-    "99_Agility_cape"
-  ],
-  "item/minescape/capes/attack": [
-    "99_Attack_cape"
-  ],
-  "item/minescape/capes/black": [
-    "Black_cape"
-  ],
-  "item/minescape/capes/3rd-age-cloak": [
-    "3rd_age_ranged_cloak"
-  ],
-  "item/minescape/capes/cloak-wolf": [
-    "Wolf_cloak"
-  ],
-  "item/minescape/capes/constitution": [
-    "99_Constitution_cape"
-  ],
-  "item/minescape/capes/construction": [
-    "99_Construction_cape"
-  ],
-  "item/minescape/capes/cooking": [
-    "99_Cooking_cape"
-  ],
-  "item/minescape/capes/crafting": [
-    "99_Crafting_cape"
-  ],
-  "item/minescape/capes/defence": [
-    "99_Defence_cape"
-  ],
-  "item/minescape/capes/exploration": [
-    "99_Exploration_cape"
-  ],
-  "item/minescape/capes/farming": [
-    "99_Farming_cape"
-  ],
-  "item/minescape/capes/firemaking": [
-    "99_Firemaking_cape"
-  ],
-  "item/minescape/capes/fishing": [
-    "99_Fishing_cape"
-  ],
-  "item/minescape/capes/fletching": [
-    "99_Fletching_cape"
-  ],
-  "item/minescape/capes/herblore": [
-    "99_Herblore_cape"
-  ],
-  "item/minescape/capes/jester": [
-    "Jester_cape"
-  ],
-  "item/minescape/capes/magic": [
-    "99_Magic_cape"
-  ],
-  "item/minescape/capes/max": [
-    "99_skilling_cape"
-  ],
-  "item/minescape/capes/mining": [
-    "99_Mining_cape"
-  ],
-  "item/minescape/capes/prayer": [
-    "99_Prayer_cape"
-  ],
-  "item/minescape/capes/ranged": [
-    "99_Ranged_cape"
-  ],
-  "item/minescape/capes/runecrafting": [
-    "99_Runecrafting_cape"
-  ],
-  "item/minescape/capes/slayer": [
-    "99_Slayer_cape"
-  ],
-  "item/minescape/capes/smithing": [
-    "99_Smithing_cape"
-  ],
-  "item/minescape/capes/strength": [
-    "99_Strength_cape"
-  ],
-  "item/minescape/capes/thieving": [
-    "99_Thieving_cape"
-  ],
-  "item/minescape/capes/vestment-cloak-armadyl": [
-    "Armadyl_cloak"
-  ],
-  "item/minescape/capes/vestment-cloak-bandos": [
-    "Bandos_cloak"
-  ],
-  "item/minescape/capes/vestment-cloak-guthix": [
-    "Guthix_cloak"
-  ],
-  "item/minescape/capes/vestment-cloak-saradomin": [
-    "Saradomin_cloak"
-  ],
-  "item/minescape/capes/vestment-cloak-zamorak": [
-    "Zamorak_cloak"
-  ],
-  "item/minescape/capes/vestment-cloak-zaros": [
-    "Zaros_cloak"
-  ],
-  "item/minescape/capes/woodcutting": [
-    "99_Woodcutting_cape"
-  ],
-  "item/written_book": [
-    "Anagram_Scroll",
-    "Beacon_Scroll",
-    "Chest_Scroll",
-    "Cipher_Scroll"
-  ],
-  "item/minescape/cluescrolls/beginner": [
-    "Clue_Scroll_(beginner)"
-  ],
-  "item/minescape/cluescrolls/caskets/beginner": [
-    "Reward_Casket_(Beginner)"
-  ],
-  "item/minescape/cluescrolls/caskets/easy": [
-    "Reward_Casket_(Easy)"
-  ],
-  "item/minescape/cluescrolls/caskets/elite": [
-    "Reward_Casket_(Elite)"
-  ],
-  "item/minescape/cluescrolls/caskets/hard": [
-    "Reward_Casket_(Hard)"
-  ],
-  "item/minescape/cluescrolls/caskets/master": [
-    "Reward_Casket_(Master)"
-  ],
-  "item/minescape/cluescrolls/caskets/medium": [
-    "Reward_Casket_(Medium)"
-  ],
-  "item/minescape/cluescrolls/easy": [
-    "Clue_Scroll_(easy)"
-  ],
-  "item/minescape/cluescrolls/elite": [
-    "Clue_Scroll_(elite)"
-  ],
-  "item/minescape/cluescrolls/hard": [
-    "Clue_Scroll_(hard)"
-  ],
-  "item/minescape/cluescrolls/light-boxes/icon": [
-    "Light_Box"
-  ],
-  "item/map": [
-    "Map_Scroll"
-  ],
-  "item/minescape/cluescrolls/master": [
-    "Clue_Scroll_(master)"
-  ],
-  "item/minescape/cluescrolls/medium": [
-    "Clue_Scroll_(medium)"
-  ],
-  "item/minescape/cluescrolls/puzzle-boxes/icon": [
-    "Puzzle_Box_(five)",
-    "Puzzle_Box_(four)",
-    "Puzzle_Box_(one)",
-    "Puzzle_Box_(three)",
-    "Puzzle_Box_(two)"
-  ],
-  "item/minescape/cluescrolls/strange-device": [
-    "Strange_Device"
-  ],
-  "item/bricks": [
-    "Bricks",
-    "Bricks_BROKEN"
-  ],
-  "item/coarse_dirt": [
-    "Coarse_dirt",
-    "Coarse_dirt_BROKEN"
-  ],
-  "item/cobblestone": [
-    "Cobblestone",
-    "Cobblestone_BROKEN"
-  ],
-  "item/dark_prismarine": [
-    "Dark_prismarine",
-    "Dark_prismarine_BROKEN"
-  ],
-  "item/dirt": [
-    "Dirt",
-    "Dirt_BROKEN"
-  ],
-  "item/glass": [
-    "Glass",
-    "Glass",
-    "Glass_BROKEN"
-  ],
-  "item/grass_block": [
-    "Grass",
-    "Grass_BROKEN",
-    "Grass"
-  ],
-  "item/podzol": [
-    "Podzol",
-    "Podzol_BROKEN"
-  ],
-  "item/prismarine": [
-    "Prismarine",
-    "Prismarine_BROKEN"
-  ],
-  "item/prismarine_bricks": [
-    "Prismarine_bricks",
-    "Prismarine_bricks_BROKEN"
-  ],
-  "item/purpur_block": [
-    "Purpur_block",
-    "Purpur_block_BROKEN"
-  ],
-  "item/purpur_pillar": [
-    "Purpur_pillar",
-    "Purpur_pillar_BROKEN"
-  ],
-  "item/red_sandstone": [
-    "Red_sandstone",
-    "Red_sandstone_BROKEN"
-  ],
-  "item/sand": [
-    "Sand",
-    "Sand_BROKEN"
-  ],
-  "item/sandstone": [
-    "Sandstone",
-    "Sandstone_BROKEN"
-  ],
-  "item/stone": [
-    "Stone",
-    "Stone_BROKEN"
-  ],
-  "item/stone_bricks": [
-    "Stone_brick",
-    "Stone_brick_BROKEN"
-  ],
-  "item/black_carpet": [
-    "Black_Carpet",
-    "Black_Carpet_BROKEN"
-  ],
-  "item/black_concrete": [
-    "Black_Concrete",
-    "Black_Concrete_BROKEN"
-  ],
-  "item/black_concrete_powder": [
-    "Black_Concrete_powder",
-    "Black_Concrete_powder_BROKEN"
-  ],
-  "item/black_glazed_terracotta": [
-    "Black_Glazed_terracotta",
-    "Black_Glazed_terracotta_BROKEN"
-  ],
-  "item/black_stained_glass": [
-    "Black_Stained_glass",
-    "Black_Stained_glass_BROKEN"
-  ],
-  "item/black_stained_glass_pane": [
-    "Black_Stained_glass_pane",
-    "Black_Stained_glass_pane_BROKEN"
-  ],
-  "item/black_terracotta": [
-    "Black_Hardened_clay",
-    "Black_Hardened_clay_BROKEN"
-  ],
-  "item/black_wool": [
-    "Black_Wool",
-    "Black_Wool_BROKEN"
-  ],
-  "item/blue_carpet": [
-    "Blue_Carpet",
-    "Blue_Carpet_BROKEN"
-  ],
-  "item/blue_concrete": [
-    "Blue_Concrete",
-    "Blue_Concrete_BROKEN"
-  ],
-  "item/blue_concrete_powder": [
-    "Blue_Concrete_powder",
-    "Blue_Concrete_powder_BROKEN"
-  ],
-  "item/blue_glazed_terracotta": [
-    "Blue_Glazed_terracotta",
-    "Blue_Glazed_terracotta_BROKEN"
-  ],
-  "item/blue_stained_glass": [
-    "Blue_Stained_glass",
-    "Blue_Stained_glass_BROKEN"
-  ],
-  "item/blue_stained_glass_pane": [
-    "Blue_Stained_glass_pane",
-    "Blue_Stained_glass_pane_BROKEN"
-  ],
-  "item/blue_terracotta": [
-    "Blue_Hardened_clay",
-    "Blue_Hardened_clay_BROKEN"
-  ],
-  "item/blue_wool": [
-    "Blue_Wool",
-    "Blue_Wool_BROKEN"
-  ],
-  "item/brown_carpet": [
-    "Brown_Carpet",
-    "Brown_Carpet_BROKEN"
-  ],
-  "item/brown_concrete": [
-    "Brown_Concrete",
-    "Brown_Concrete_BROKEN"
-  ],
-  "item/brown_concrete_powder": [
-    "Brown_Concrete_powder",
-    "Brown_Concrete_powder_BROKEN"
-  ],
-  "item/brown_glazed_terracotta": [
-    "Brown_Glazed_terracotta",
-    "Brown_Glazed_terracotta_BROKEN"
-  ],
-  "item/brown_stained_glass": [
-    "Brown_Stained_glass",
-    "Brown_Stained_glass_BROKEN"
-  ],
-  "item/brown_stained_glass_pane": [
-    "Brown_Stained_glass_pane",
-    "Brown_Stained_glass_pane_BROKEN"
-  ],
-  "item/brown_terracotta": [
-    "Brown_Hardened_clay",
-    "Brown_Hardened_clay_BROKEN"
-  ],
-  "item/brown_wool": [
-    "Brown_Wool",
-    "Brown_Wool_BROKEN"
-  ],
-  "item/cyan_carpet": [
-    "Cyan_Carpet",
-    "Cyan_Carpet_BROKEN"
-  ],
-  "item/cyan_concrete": [
-    "Cyan_Concrete",
-    "Cyan_Concrete_BROKEN"
-  ],
-  "item/cyan_concrete_powder": [
-    "Cyan_Concrete_powder",
-    "Cyan_Concrete_powder_BROKEN"
-  ],
-  "item/cyan_glazed_terracotta": [
-    "Cyan_Glazed_terracotta",
-    "Cyan_Glazed_terracotta_BROKEN"
-  ],
-  "item/cyan_stained_glass": [
-    "Cyan_Stained_glass",
-    "Cyan_Stained_glass_BROKEN"
-  ],
-  "item/cyan_stained_glass_pane": [
-    "Cyan_Stained_glass_pane",
-    "Cyan_Stained_glass_pane_BROKEN"
-  ],
-  "item/cyan_terracotta": [
-    "Cyan_Hardened_clay",
-    "Cyan_Hardened_clay_BROKEN"
-  ],
-  "item/cyan_wool": [
-    "Cyan_Wool",
-    "Cyan_Wool_BROKEN"
-  ],
-  "item/gray_carpet": [
-    "Gray_Carpet",
-    "Gray_Carpet_BROKEN"
-  ],
-  "item/gray_concrete": [
-    "Gray_Concrete",
-    "Gray_Concrete_BROKEN"
-  ],
-  "item/gray_concrete_powder": [
-    "Gray_Concrete_powder",
-    "Gray_Concrete_powder_BROKEN"
-  ],
-  "item/gray_glazed_terracotta": [
-    "Gray_Glazed_terracotta",
-    "Gray_Glazed_terracotta_BROKEN"
-  ],
-  "item/gray_stained_glass": [
-    "Gray_Stained_glass",
-    "Gray_Stained_glass_BROKEN"
-  ],
-  "item/gray_stained_glass_pane": [
-    "Gray_Stained_glass_pane",
-    "Gray_Stained_glass_pane_BROKEN"
-  ],
-  "item/gray_terracotta": [
-    "Gray_Hardened_clay",
-    "Gray_Hardened_clay_BROKEN"
-  ],
-  "item/gray_wool": [
-    "Gray_Wool",
-    "Gray_Wool_BROKEN"
-  ],
-  "item/green_carpet": [
-    "Green_Carpet",
-    "Green_Carpet_BROKEN"
-  ],
-  "item/green_concrete": [
-    "Green_Concrete",
-    "Green_Concrete_BROKEN"
-  ],
-  "item/green_concrete_powder": [
-    "Green_Concrete_powder",
-    "Green_Concrete_powder_BROKEN"
-  ],
-  "item/green_glazed_terracotta": [
-    "Green_Glazed_terracotta",
-    "Green_Glazed_terracotta_BROKEN"
-  ],
-  "item/green_stained_glass": [
-    "Green_Stained_glass",
-    "Green_Stained_glass_BROKEN"
-  ],
-  "item/green_stained_glass_pane": [
-    "Green_Stained_glass_pane",
-    "Green_Stained_glass_pane_BROKEN"
-  ],
-  "item/green_terracotta": [
-    "Green_Hardened_clay",
-    "Green_Hardened_clay_BROKEN"
-  ],
-  "item/green_wool": [
-    "Green_Wool",
-    "Green_Wool_BROKEN"
-  ],
-  "item/light_blue_carpet": [
-    "Light_blue_Carpet",
-    "Light_blue_Carpet_BROKEN"
-  ],
-  "item/light_blue_concrete": [
-    "Light_blue_Concrete",
-    "Light_blue_Concrete_BROKEN"
-  ],
-  "item/light_blue_concrete_powder": [
-    "Light_blue_Concrete_powder",
-    "Light_blue_Concrete_powder_BROKEN"
-  ],
-  "item/light_blue_glazed_terracotta": [
-    "Light_blue_Glazed_terracotta",
-    "Light_blue_Glazed_terracotta_BROKEN"
-  ],
-  "item/light_blue_stained_glass": [
-    "Light_blue_Stained_glass",
-    "Light_blue_Stained_glass_BROKEN"
-  ],
-  "item/light_blue_stained_glass_pane": [
-    "Light_blue_Stained_glass_pane",
-    "Light_blue_Stained_glass_pane_BROKEN"
-  ],
-  "item/light_blue_terracotta": [
-    "Light_blue_Hardened_clay",
-    "Light_blue_Hardened_clay_BROKEN"
-  ],
-  "item/light_blue_wool": [
-    "Light_blue_Wool",
-    "Light_blue_Wool_BROKEN"
-  ],
-  "item/light_gray_carpet": [
-    "Light_gray_Carpet",
-    "Light_gray_Carpet_BROKEN"
-  ],
-  "item/light_gray_concrete": [
-    "Light_gray_Concrete",
-    "Light_gray_Concrete_BROKEN"
-  ],
-  "item/light_gray_concrete_powder": [
-    "Light_gray_Concrete_powder",
-    "Light_gray_Concrete_powder_BROKEN"
-  ],
-  "item/light_gray_glazed_terracotta": [
-    "Light_gray_Glazed_terracotta",
-    "Light_gray_Glazed_terracotta_BROKEN"
-  ],
-  "item/light_gray_stained_glass": [
-    "Light_gray_Stained_glass",
-    "Light_gray_Stained_glass_BROKEN"
-  ],
-  "item/light_gray_stained_glass_pane": [
-    "Light_gray_Stained_glass_pane",
-    "Light_gray_Stained_glass_pane_BROKEN"
-  ],
-  "item/light_gray_terracotta": [
-    "Light_gray_Hardened_clay",
-    "Light_gray_Hardened_clay_BROKEN"
-  ],
-  "item/light_gray_wool": [
-    "Light_gray_Wool",
-    "Light_gray_Wool_BROKEN"
-  ],
-  "item/lime_carpet": [
-    "Lime_Carpet",
-    "Lime_Carpet_BROKEN"
-  ],
-  "item/lime_concrete": [
-    "Lime_Concrete",
-    "Lime_Concrete_BROKEN"
-  ],
-  "item/lime_concrete_powder": [
-    "Lime_Concrete_powder",
-    "Lime_Concrete_powder_BROKEN"
-  ],
-  "item/lime_glazed_terracotta": [
-    "Lime_Glazed_terracotta",
-    "Lime_Glazed_terracotta_BROKEN"
-  ],
-  "item/lime_stained_glass": [
-    "Lime_Stained_glass",
-    "Lime_Stained_glass_BROKEN"
-  ],
-  "item/lime_stained_glass_pane": [
-    "Lime_Stained_glass_pane",
-    "Lime_Stained_glass_pane_BROKEN"
-  ],
-  "item/lime_terracotta": [
-    "Lime_Hardened_clay",
-    "Lime_Hardened_clay_BROKEN"
-  ],
-  "item/lime_wool": [
-    "Lime_Wool",
-    "Lime_Wool_BROKEN"
-  ],
-  "item/magenta_carpet": [
-    "Magenta_Carpet",
-    "Magenta_Carpet_BROKEN"
-  ],
-  "item/magenta_concrete": [
-    "Magenta_Concrete",
-    "Magenta_Concrete_BROKEN"
-  ],
-  "item/magenta_concrete_powder": [
-    "Magenta_Concrete_powder",
-    "Magenta_Concrete_powder_BROKEN"
-  ],
-  "item/magenta_glazed_terracotta": [
-    "Magenta_Glazed_terracotta",
-    "Magenta_Glazed_terracotta_BROKEN"
-  ],
-  "item/magenta_stained_glass": [
-    "Magenta_Stained_glass",
-    "Magenta_Stained_glass_BROKEN"
-  ],
-  "item/magenta_stained_glass_pane": [
-    "Magenta_Stained_glass_pane",
-    "Magenta_Stained_glass_pane_BROKEN"
-  ],
-  "item/magenta_terracotta": [
-    "Magenta_Hardened_clay",
-    "Magenta_Hardened_clay_BROKEN"
-  ],
-  "item/magenta_wool": [
-    "Magenta_Wool",
-    "Magenta_Wool_BROKEN"
-  ],
-  "item/orange_carpet": [
-    "Orange_Carpet",
-    "Orange_Carpet_BROKEN"
-  ],
-  "item/orange_concrete": [
-    "Orange_Concrete",
-    "Orange_Concrete_BROKEN"
-  ],
-  "item/orange_concrete_powder": [
-    "Orange_Concrete_powder",
-    "Orange_Concrete_powder_BROKEN"
-  ],
-  "item/orange_glazed_terracotta": [
-    "Orange_Glazed_terracotta",
-    "Orange_Glazed_terracotta_BROKEN"
-  ],
-  "item/orange_stained_glass": [
-    "Orange_Stained_glass",
-    "Orange_Stained_glass_BROKEN"
-  ],
-  "item/orange_stained_glass_pane": [
-    "Orange_Stained_glass_pane",
-    "Orange_Stained_glass_pane_BROKEN"
-  ],
-  "item/orange_terracotta": [
-    "Orange_Hardened_clay",
-    "Orange_Hardened_clay_BROKEN"
-  ],
-  "item/orange_wool": [
-    "Orange_Wool",
-    "Orange_Wool_BROKEN"
-  ],
-  "item/pink_carpet": [
-    "Pink_Carpet",
-    "Pink_Carpet_BROKEN"
-  ],
-  "item/pink_concrete": [
-    "Pink_Concrete",
-    "Pink_Concrete_BROKEN"
-  ],
-  "item/pink_concrete_powder": [
-    "Pink_Concrete_powder",
-    "Pink_Concrete_powder_BROKEN"
-  ],
-  "item/pink_glazed_terracotta": [
-    "Pink_Glazed_terracotta",
-    "Pink_Glazed_terracotta_BROKEN"
-  ],
-  "item/pink_stained_glass": [
-    "Pink_Stained_glass",
-    "Pink_Stained_glass_BROKEN"
-  ],
-  "item/pink_stained_glass_pane": [
-    "Pink_Stained_glass_pane",
-    "Pink_Stained_glass_pane_BROKEN"
-  ],
-  "item/pink_terracotta": [
-    "Pink_Hardened_clay",
-    "Pink_Hardened_clay_BROKEN"
-  ],
-  "item/pink_wool": [
-    "Pink_Wool",
-    "Pink_Wool_BROKEN"
-  ],
-  "item/purple_carpet": [
-    "Purple_Carpet",
-    "Purple_Carpet_BROKEN"
-  ],
-  "item/purple_concrete": [
-    "Purple_Concrete",
-    "Purple_Concrete_BROKEN"
-  ],
-  "item/purple_concrete_powder": [
-    "Purple_Concrete_powder",
-    "Purple_Concrete_powder_BROKEN"
-  ],
-  "item/purple_glazed_terracotta": [
-    "Purple_Glazed_terracotta",
-    "Purple_Glazed_terracotta_BROKEN"
-  ],
-  "item/purple_stained_glass": [
-    "Purple_Stained_glass",
-    "Purple_Stained_glass_BROKEN"
-  ],
-  "item/purple_stained_glass_pane": [
-    "Purple_Stained_glass_pane",
-    "Purple_Stained_glass_pane_BROKEN"
-  ],
-  "item/purple_terracotta": [
-    "Purple_Hardened_clay",
-    "Purple_Hardened_clay_BROKEN"
-  ],
-  "item/purple_wool": [
-    "Purple_Wool",
-    "Purple_Wool_BROKEN"
-  ],
-  "item/red_carpet": [
-    "Red_Carpet",
-    "Red_Carpet_BROKEN"
-  ],
-  "item/red_concrete": [
-    "Red_Concrete",
-    "Red_Concrete_BROKEN"
-  ],
-  "item/red_concrete_powder": [
-    "Red_Concrete_powder",
-    "Red_Concrete_powder_BROKEN"
-  ],
-  "item/red_glazed_terracotta": [
-    "Red_Glazed_terracotta",
-    "Red_Glazed_terracotta_BROKEN"
-  ],
-  "item/red_stained_glass": [
-    "Red_Stained_glass",
-    "Red_Stained_glass_BROKEN"
-  ],
-  "item/red_stained_glass_pane": [
-    "Red_Stained_glass_pane",
-    "Red_Stained_glass_pane_BROKEN"
-  ],
-  "item/red_terracotta": [
-    "Red_Hardened_clay",
-    "Red_Hardened_clay_BROKEN"
-  ],
-  "item/red_wool": [
-    "Red_Wool",
-    "Red_Wool_BROKEN"
-  ],
-  "item/white_carpet": [
-    "White_Carpet",
-    "White_Carpet_BROKEN"
-  ],
-  "item/white_concrete": [
-    "White_Concrete",
-    "White_Concrete_BROKEN"
-  ],
-  "item/white_concrete_powder": [
-    "White_Concrete_powder",
-    "White_Concrete_powder_BROKEN"
-  ],
-  "item/white_glazed_terracotta": [
-    "White_Glazed_terracotta",
-    "White_Glazed_terracotta_BROKEN"
-  ],
-  "item/white_stained_glass": [
-    "White_Stained_glass",
-    "White_Stained_glass_BROKEN"
-  ],
-  "item/white_stained_glass_pane": [
-    "White_Stained_glass_pane",
-    "White_Stained_glass_pane_BROKEN"
-  ],
-  "item/white_terracotta": [
-    "White_Hardened_clay",
-    "White_Hardened_clay_BROKEN"
-  ],
-  "item/white_wool": [
-    "White_Wool",
-    "White_Wool_BROKEN"
-  ],
-  "item/yellow_carpet": [
-    "Yellow_Carpet",
-    "Yellow_Carpet_BROKEN"
-  ],
-  "item/yellow_concrete": [
-    "Yellow_Concrete",
-    "Yellow_Concrete_BROKEN"
-  ],
-  "item/yellow_concrete_powder": [
-    "Yellow_Concrete_powder",
-    "Yellow_Concrete_powder_BROKEN"
-  ],
-  "item/yellow_glazed_terracotta": [
-    "Yellow_Glazed_terracotta",
-    "Yellow_Glazed_terracotta_BROKEN"
-  ],
-  "item/yellow_stained_glass": [
-    "Yellow_Stained_glass",
-    "Yellow_Stained_glass_BROKEN"
-  ],
-  "item/yellow_stained_glass_pane": [
-    "Yellow_Stained_glass_pane",
-    "Yellow_Stained_glass_pane_BROKEN"
-  ],
-  "item/yellow_terracotta": [
-    "Yellow_Hardened_clay",
-    "Yellow_Hardened_clay_BROKEN"
-  ],
-  "item/yellow_wool": [
-    "Yellow_Wool",
-    "Yellow_Wool_BROKEN"
-  ],
-  "item/barrel": [
-    "Barrel",
-    "Barrel_BROKEN"
-  ],
-  "item/black_shulker_box": [
-    "Black_Shulker_box",
-    "Black_Shulker_box_BROKEN"
-  ],
-  "item/blue_shulker_box": [
-    "Blue_Shulker_box",
-    "Blue_Shulker_box_BROKEN"
-  ],
-  "item/brown_shulker_box": [
-    "Brown_Shulker_box",
-    "Brown_Shulker_box_BROKEN"
-  ],
-  "item/cyan_shulker_box": [
-    "Cyan_Shulker_box",
-    "Cyan_Shulker_box_BROKEN"
-  ],
-  "item/glass_pane": [
-    "Glass_pane",
-    "Glass_pane_BROKEN"
-  ],
-  "item/gray_shulker_box": [
-    "Gray_Shulker_box",
-    "Gray_Shulker_box_BROKEN"
-  ],
-  "item/green_shulker_box": [
-    "Green_Shulker_box",
-    "Green_Shulker_box_BROKEN"
-  ],
-  "item/ladder": [
-    "Ladder",
-    "Ladder_BROKEN"
-  ],
-  "item/light_blue_shulker_box": [
-    "Light_blue_Shulker_box",
-    "Light_blue_Shulker_box_BROKEN"
-  ],
-  "item/light_gray_shulker_box": [
-    "Light_gray_Shulker_box",
-    "Light_gray_Shulker_box_BROKEN"
-  ],
-  "item/lime_shulker_box": [
-    "Lime_Shulker_box",
-    "Lime_Shulker_box_BROKEN"
-  ],
-  "item/magenta_shulker_box": [
-    "Magenta_Shulker_box",
-    "Magenta_Shulker_box_BROKEN"
-  ],
-  "item/orange_shulker_box": [
-    "Orange_Shulker_box",
-    "Orange_Shulker_box_BROKEN"
-  ],
-  "item/pink_shulker_box": [
-    "Pink_Shulker_box",
-    "Pink_Shulker_box_BROKEN"
-  ],
-  "item/purple_shulker_box": [
-    "Purple_Shulker_box",
-    "Purple_Shulker_box_BROKEN"
-  ],
-  "item/red_shulker_box": [
-    "Red_Shulker_box",
-    "Red_Shulker_box_BROKEN"
-  ],
-  "item/redstone_block": [
-    "Box",
-    "Box_BROKEN"
-  ],
-  "item/redstone_torch": [
-    "Candle",
-    "Candle_BROKEN"
-  ],
-  "item/sea_lantern": [
-    "Sea_lantern",
-    "Sea_lantern_BROKEN"
-  ],
-  "item/torch": [
-    "Torch",
-    "Torch_BROKEN"
-  ],
-  "item/white_shulker_box": [
-    "White_Shulker_box",
-    "White_Shulker_box_BROKEN"
-  ],
-  "item/yellow_shulker_box": [
-    "Yellow_Shulker_box",
-    "Yellow_Shulker_box_BROKEN"
-  ],
-  "item/acacia_door": [
-    "Acacia_door",
-    "Acacia_door_BROKEN"
-  ],
-  "item/acacia_trapdoor": [
-    "Acacia_trapdoor",
-    "Acacia_trapdoor_BROKEN"
-  ],
-  "item/birch_door": [
-    "Birch_door",
-    "Birch_door_BROKEN"
-  ],
-  "item/birch_trapdoor": [
-    "Birch_trapdoor",
-    "Birch_trapdoor_BROKEN"
-  ],
-  "item/dark_oak_door": [
-    "Dark_oak_door",
-    "Dark_oak_door_BROKEN"
-  ],
-  "item/dark_oak_trapdoor": [
-    "Dark_oak_trapdoor",
-    "Dark_oak_trapdoor_BROKEN"
-  ],
-  "item/jungle_door": [
-    "Jungle_door",
-    "Jungle_door_BROKEN"
-  ],
-  "item/jungle_trapdoor": [
-    "Jungle_trapdoor",
-    "Jungle_trapdoor_BROKEN"
-  ],
-  "item/oak_door": [
-    "Oak_door",
-    "Oak_door_BROKEN"
-  ],
-  "item/oak_trapdoor": [
-    "Oak_trapdoor",
-    "Oak_trapdoor_BROKEN"
-  ],
-  "item/spruce_door": [
-    "Spruce_door",
-    "Spruce_door_BROKEN"
-  ],
-  "item/spruce_trapdoor": [
-    "Spruce_trapdoor",
-    "Spruce_trapdoor_BROKEN"
-  ],
-  "item/acacia_fence": [
-    "Acacia_fences",
-    "Acacia_fences_BROKEN"
-  ],
-  "item/birch_fence": [
-    "Birch_fences",
-    "Birch_fences_BROKEN"
-  ],
-  "item/dark_oak_fence": [
-    "Dark_oak_fences",
-    "Dark_oak_fences_BROKEN"
-  ],
-  "item/jungle_fence": [
-    "Jungle_fences",
-    "Jungle_fences_BROKEN"
-  ],
-  "item/oak_fence": [
-    "Oak_fences",
-    "Oak_fences_BROKEN"
-  ],
-  "item/spruce_fence": [
-    "Spruce_fences",
-    "Spruce_fences_BROKEN"
-  ],
-  "item/carved_pumpkin": [
-    "Carved_Pumpkin",
-    "Carved_Pumpkin_BROKEN"
-  ],
-  "item/jack_o_lantern": [
-    "Jack_oLantern",
-    "Jack_oLantern_BROKEN"
-  ],
-  "item/netherrack": [
-    "Netherrack",
-    "Netherrack_BROKEN"
-  ],
-  "item/obsidian": [
-    "Obsidian",
-    "Obsidian_BROKEN"
-  ],
-  "item/pumpkin": [
-    "Pumpkin",
-    "Pumpkin_BROKEN"
-  ],
-  "item/skeleton_skull": [
-    {
-      "name": "Skull",
-      "texture_overrides": {
-        "head": "minescape/skeleton.png"
-      }
-    },
-    {
-      "name": "Skull_BROKEN",
-      "texture_overrides": {
-        "head": "minescape/skeleton.png"
-      }
-    }
-  ],
-  "item/soul_sand": [
-    "Soul_Sand",
-    "Soul_Sand_BROKEN"
-  ],
-  "item/wither_skeleton_skull": [
-    {
-      "name": "Wither_Skull",
-      "texture_overrides": {
-        "head": "minescape/wither_skeleton.png"
-      }
-    },
-    {
-      "name": "Wither_Skull_BROKEN",
-      "texture_overrides": {
-        "head": "minescape/wither_skeleton.png"
-      }
-    }
-  ],
-  "item/zombie_head": [
-    "Zombie_Head",
-    "Zombie_Head_BROKEN",
-    "Zombie_mask"
-  ],
-  "item/acacia_leaves": [
-    "Acacia_leaves",
-    "Acacia_leaves_BROKEN"
-  ],
-  "item/birch_leaves": [
-    "Birch_leaves",
-    "Birch_leaves_BROKEN"
-  ],
-  "item/dark_oak_leaves": [
-    "Dark_oak_leaves",
-    "Dark_oak_leaves_BROKEN"
-  ],
-  "item/jungle_leaves": [
-    "Jungle_leaves",
-    "Jungle_leaves_BROKEN"
-  ],
-  "item/oak_leaves": [
-    "Oak_leaves",
-    "Oak_leaves_BROKEN"
-  ],
-  "item/spruce_leaves": [
-    "Spruce_leaves",
-    "Spruce_leaves_BROKEN"
-  ],
-  "item/acacia_wood": [
-    "Acacia_log",
-    "Acacia_log_BROKEN"
-  ],
-  "item/birch_wood": [
-    "Birch_log",
-    "Birch_log_BROKEN"
-  ],
-  "item/dark_oak_wood": [
-    "Dark_oak_log",
-    "Dark_oak_log_BROKEN"
-  ],
-  "item/jungle_wood": [
-    "Jungle_log",
-    "Jungle_log_BROKEN"
-  ],
-  "item/oak_wood": [
-    "Oak_log",
-    "Oak_log_BROKEN"
-  ],
-  "item/spruce_wood": [
-    "Spruce_log",
-    "Spruce_log_BROKEN"
-  ],
-  "item/acacia_planks": [
-    "Acacia_plank",
-    "Acacia_plank_BROKEN"
-  ],
-  "item/birch_planks": [
-    "Birch_plank",
-    "Birch_plank_BROKEN"
-  ],
-  "item/dark_oak_planks": [
-    "Dark_oak_plank",
-    "Dark_oak_plank_BROKEN"
-  ],
-  "item/jungle_planks": [
-    "Jungle_plank",
-    "Jungle_plank_BROKEN"
-  ],
-  "item/oak_planks": [
-    "Oak_plank",
-    "Oak_plank_BROKEN"
-  ],
-  "item/spruce_planks": [
-    "Spruce_plank",
-    "Spruce_plank_BROKEN"
-  ],
-  "item/acacia_slab": [
-    "Acacia_slab",
-    "Acacia_slab_BROKEN"
-  ],
-  "item/birch_slab": [
-    "Birch_slab",
-    "Birch_slab_BROKEN"
-  ],
-  "item/brick_slab": [
-    "Brick_slab",
-    "Brick_slab_BROKEN"
-  ],
-  "item/cobblestone_slab": [
-    "Cobblestone_slab",
-    "Cobblestone_slab_BROKEN"
-  ],
-  "item/dark_oak_slab": [
-    "Dark_oak_slab",
-    "Dark_oak_slab_BROKEN"
-  ],
-  "item/dark_prismarine_slab": [
-    "Dark_prismarine_slab",
-    "Dark_prismarine_slab_BROKEN"
-  ],
-  "item/jungle_slab": [
-    "Jungle_slab",
-    "Jungle_slab_BROKEN"
-  ],
-  "item/oak_slab": [
-    "Oak_slab",
-    "Oak_slab_BROKEN"
-  ],
-  "item/prismarine_brick_slab": [
-    "Prismarine_brick_slab",
-    "Prismarine_brick_slab_BROKEN"
-  ],
-  "item/prismarine_slab": [
-    "Prismarine_slab",
-    "Prismarine_slab_BROKEN"
-  ],
-  "item/purpur_slab": [
-    "Purpur_slab",
-    "Purpur_slab_BROKEN"
-  ],
-  "item/red_sandstone_slab": [
-    "Red_sandstone_slab",
-    "Red_sandstone_slab_BROKEN"
-  ],
-  "item/sandstone_slab": [
-    "Sandstone_slab",
-    "Sandstone_slab_BROKEN"
-  ],
-  "item/spruce_slab": [
-    "Spruce_slab",
-    "Spruce_slab_BROKEN"
-  ],
-  "item/stone_brick_slab": [
-    "Stone_brick_slab",
-    "Stone_brick_slab_BROKEN"
-  ],
-  "item/stone_slab": [
-    "Stone_slab",
-    "Stone_slab_BROKEN"
-  ],
-  "item/acacia_stairs": [
-    "Acacia_stairs",
-    "Acacia_stairs_BROKEN"
-  ],
-  "item/birch_stairs": [
-    "Birch_stairs",
-    "Birch_stairs_BROKEN"
-  ],
-  "item/brick_stairs": [
-    "Brick_stairs",
-    "Brick_stairs_BROKEN"
-  ],
-  "item/cobblestone_stairs": [
-    "Cobblestone_stairs",
-    "Cobblestone_stairs_BROKEN"
-  ],
-  "item/dark_oak_stairs": [
-    "Dark_oak_stairs",
-    "Dark_oak_stairs_BROKEN"
-  ],
-  "item/dark_prismarine_stairs": [
-    "Dark_prismarine_stairs",
-    "Dark_prismarine_stairs_BROKEN"
-  ],
-  "item/jungle_stairs": [
-    "Jungle_stairs",
-    "Jungle_stairs_BROKEN"
-  ],
-  "item/oak_stairs": [
-    "Oak_stairs",
-    "Oak_stairs_BROKEN"
-  ],
-  "item/prismarine_brick_stairs": [
-    "Prismarine_brick_stairs",
-    "Prismarine_brick_stairs_BROKEN"
-  ],
-  "item/prismarine_stairs": [
-    "Prismarine_stairs",
-    "Prismarine_stairs_BROKEN"
-  ],
-  "item/purpur_stairs": [
-    "Purpur_stairs",
-    "Purpur_stairs_BROKEN"
-  ],
-  "item/red_sandstone_stairs": [
-    "Red_sandstone_stairs",
-    "Red_sandstone_stairs_BROKEN"
-  ],
-  "item/sandstone_stairs": [
-    "Sandstone_stairs",
-    "Sandstone_stairs_BROKEN"
-  ],
-  "item/spruce_stairs": [
-    "Spruce_stairs",
-    "Spruce_stairs_BROKEN"
-  ],
-  "item/stone_brick_stairs": [
-    "Stone_brick_stairs",
-    "Stone_brick_stairs_BROKEN"
-  ],
-  "item/stone_stairs": [
-    "Stone_stairs",
-    "Stone_stairs_BROKEN"
-  ],
-  "item/anvil": [
-    "Anvil",
-    "Anvil_BROKEN"
-  ],
-  "item/chest": [
-    "Construction_Bank_Chest",
-    "Construction_Bank_Chest_BROKEN",
-    "Large_loot_chest",
-    "Medium_loot_chest",
-    "Small_loot_chest"
-  ],
-  "item/enchanting_table": [
-    "Praying_altar",
-    "Praying_altar_BROKEN"
-  ],
-  "item/furnace": [
-    "Furnace",
-    "Furnace_BROKEN"
-  ],
-  "item/lectern": [
-    "Lectern",
-    "Lectern_BROKEN"
-  ],
-  "item/smithing_table": [
-    "Crafting_table",
-    "Crafting_table_BROKEN"
-  ],
-  "item/smoker": [
-    "Smoker",
-    "Smoker_BROKEN"
-  ],
-  "item/stonecutter": [
-    "Sawmill_3000",
-    "Sawmill_3000_BROKEN"
-  ],
-  "item/brick_wall": [
-    "Brick_wall",
-    "Brick_wall_BROKEN"
-  ],
-  "item/cobblestone_wall": [
-    "Cobblestone_wall",
-    "Cobblestone_wall_BROKEN"
-  ],
-  "item/red_sandstone_wall": [
-    "Red_sandstone_wall",
-    "Red_sandstone_wall_BROKEN"
-  ],
-  "item/sandstone_wall": [
-    "Sandstone_wall",
-    "Sandstone_wall_BROKEN"
-  ],
-  "item/stone_brick_wall": [
-    "Stone_brick_wall",
-    "Stone_brick_wall_BROKEN"
-  ],
-  "item/minescape/cosmetics/berets/black": [
-    "Black_beret"
-  ],
-  "item/minescape/cosmetics/berets/blue": [
-    "Blue_beret"
-  ],
-  "item/minescape/cosmetics/berets/red": [
-    "Red_beret"
-  ],
-  "item/minescape/cosmetics/berets/white": [
-    "White_beret"
-  ],
-  "item/holidayitems/halloweenmask_blue": [
-    "Blue_halloween_mask"
-  ],
-  "item/holidayitems/halloweenmask_green": [
-    "Green_halloween_mask"
-  ],
-  "item/holidayitems/halloweenmask_red": [
-    "Red_halloween_mask"
-  ],
-  "item/minescape/cosmetics/hats/bucket-helm": [
-    "Bucket_helm"
-  ],
-  "item/minescape/cosmetics/hats/crier-hat": [
-    "Crier_hat"
-  ],
-  "item/minescape/cosmetics/hats/deerstalker-hat": [
-    "Deerstalker"
-  ],
-  "item/minescape/cosmetics/hats/golden_chef": [
-    "Golden_chefs_hat"
-  ],
-  "item/minescape/cosmetics/hats/leprechaun": [
-    "Leprechaun_hat"
-  ],
-  "item/minescape/cosmetics/hats/leprechaun_black": [
-    "Black_Leprechaun_hat"
-  ],
-  "item/minescape/cosmetics/hats/pirate-hat": [
-    "Pirate_hat"
-  ],
-  "item/minescape/cosmetics/hats/big-pirate-hat": [
-    "Big_pirate_hat"
-  ],
-  "item/minescape/cosmetics/hats/pith-hat": [
-    "Pith_hat"
-  ],
-  "item/minescape/cosmetics/hats/robin-hood-hat": [
-    "Robin_hood_hat"
-  ],
-  "item/minescape/cosmetics/hats/tophat": [
-    "Top_hat"
-  ],
-  "item/minescape/cosmetics/hats/uris_hat": [
-    "Uris_hat"
-  ],
-  "item/minescape/cosmetics/hats/white_chef": [
-    "Chefs_hat"
-  ],
-  "item/minescape/cosmetics/masks/black-demon": [
-    "Black_demon_mask"
-  ],
-  "item/minescape/cosmetics/masks/black_unicorn": [
-    "Black_unicorn_mask"
-  ],
-  "item/minescape/cosmetics/masks/cat": [
-    "Cat_mask"
-  ],
-  "item/minescape/cosmetics/masks/cyclop": [
-    "Cyclop_mask"
-  ],
-  "item/minescape/cosmetics/masks/dragon-adamant": [
-    "Adamant_dragon_mask"
-  ],
-  "item/minescape/cosmetics/masks/dragon-black": [
-    "Black_dragon_mask"
-  ],
-  "item/minescape/cosmetics/masks/dragon-blue": [
-    "Blue_dragon_mask"
-  ],
-  "item/minescape/cosmetics/masks/dragon-bronze": [
-    "Bronze_dragon_mask"
-  ],
-  "item/minescape/cosmetics/masks/dragon-green": [
-    "Green_dragon_mask"
-  ],
-  "item/minescape/cosmetics/masks/dragon-iron": [
-    "Iron_dragon_mask"
-  ],
-  "item/minescape/cosmetics/masks/dragon-lava": [
-    "Lava_dragon_mask"
-  ],
-  "item/minescape/cosmetics/masks/dragon-mithril": [
-    "Mithril_dragon_mask"
-  ],
-  "item/minescape/cosmetics/masks/dragon-red": [
-    "Red_dragon_mask"
-  ],
-  "item/minescape/cosmetics/masks/dragon-rune": [
-    "Rune_dragon_mask"
-  ],
-  "item/minescape/cosmetics/masks/dragon-steel": [
-    "Steel_dragon_mask"
-  ],
-  "item/minescape/cosmetics/masks/goblin": [
-    "Goblin_mask"
-  ],
-  "item/minescape/cosmetics/masks/greater-demon": [
-    "Greater_demon_mask",
-    "Lesser_demon_mask"
-  ],
-  "item/minescape/cosmetics/masks/highwayman": [
-    "Highwayman_mask"
-  ],
-  "item/minescape/cosmetics/masks/imp": [
-    "Imp_mask"
-  ],
-  "item/minescape/cosmetics/masks/penguin": [
-    "Penguin_mask"
-  ],
-  "item/minescape/cosmetics/masks/white_unicorn": [
-    "White_unicorn_mask"
-  ],
-  "item/minescape/cosmetics/masks/wolf": [
-    "Wolf_mask"
-  ],
-  "item/minescape/cosmetics/others/afro": [
-    "Afro"
-  ],
-  "item/minescape/cosmetics/others/beanie": [
-    "Beanie"
-  ],
-  "item/minescape/cosmetics/others/boater-black": [
-    "Boater_Black"
-  ],
-  "item/minescape/cosmetics/others/boater-blue": [
-    "Boater_Blue"
-  ],
-  "item/minescape/cosmetics/others/boater-green": [
-    "Boater_Green"
-  ],
-  "item/minescape/cosmetics/others/boater-orange": [
-    "Boater_Orange"
-  ],
-  "item/minescape/cosmetics/others/boater-pink": [
-    "Boater_Pink"
-  ],
-  "item/minescape/cosmetics/others/boater-purple": [
-    "Boater_Purple"
-  ],
-  "item/minescape/cosmetics/others/boater-red": [
-    "Boater_Red"
-  ],
-  "item/minescape/cosmetics/others/boater-white": [
-    "Boater_White"
-  ],
-  "item/minescape/cosmetics/others/bowl-cut": [
-    "Bowl_wig"
-  ],
-  "item/minescape/cosmetics/others/cavalier-black": [
-    "Cavalier_Black"
-  ],
-  "item/minescape/cosmetics/others/cavalier-blue": [
-    "Cavalier_Blue"
-  ],
-  "item/minescape/cosmetics/others/cavalier-brown": [
-    "Cavalier_Brown"
-  ],
-  "item/minescape/cosmetics/others/cavalier-gold": [
-    "Cavalier_Gold"
-  ],
-  "item/minescape/cosmetics/others/cavalier-red": [
-    "Cavalier_Red"
-  ],
-  "item/minescape/cosmetics/others/cavalier-white": [
-    "Cavalier_White"
-  ],
-  "item/minescape/cosmetics/others/city_hood_blue": [
-    "Arceuus_hood"
-  ],
-  "item/minescape/cosmetics/others/city_hood_cyan": [
-    "Piscarilius_hood"
-  ],
-  "item/minescape/cosmetics/others/city_hood_green": [
-    "Hosidius_hood"
-  ],
-  "item/minescape/cosmetics/others/city_hood_red": [
-    "Shayzien_hood"
-  ],
-  "item/minescape/cosmetics/others/city_hood_yellow": [
-    "Lovakengj_hood"
-  ],
-  "item/minescape/cosmetics/others/left-eye-patch": [
-    "Eye_patch"
-  ],
-  "item/minescape/cosmetics/others/half-moon-glasses": [
-    "Half_moon_spectacles"
-  ],
-  "item/minescape/cosmetics/others/headband-black": [
-    "Headband_Black"
-  ],
-  "item/minescape/cosmetics/others/headband-blue": [
-    "Headband_Blue"
-  ],
-  "item/minescape/cosmetics/others/headband-brown": [
-    "Headband_Brown"
-  ],
-  "item/minescape/cosmetics/others/headband-gold": [
-    "Headband_Gold"
-  ],
-  "item/minescape/cosmetics/others/headband-green": [
-    "Headband_Green"
-  ],
-  "item/minescape/cosmetics/others/headband-pink": [
-    "Headband_Pink"
-  ],
-  "item/minescape/cosmetics/others/headband-red": [
-    "Headband_Red"
-  ],
-  "item/minescape/cosmetics/others/headband-white": [
-    "Headband_White"
-  ],
-  "item/minescape/cosmetics/others/monocle": [
-    "Monocle"
-  ],
-  "item/minescape/cosmetics/others/parrot": [
-    "Parrot"
-  ],
-  "item/minescape/cosmetics/others/sagacious_specticals": [
-    "Sagacious_spectacles"
-  ],
-  "item/minescape/cosmetics/others/tiara": [
-    "Fancy_tiara"
-  ],
-  "item/minescape/cosmetics/suitcase": [
-    "Suitcase"
-  ],
-  "item/swords/defender-adamant": [
-    "Adamant_defender"
-  ],
-  "item/swords/defender-black": [
-    "Black_defender"
-  ],
-  "item/swords/defender-bronze": [
-    "Bronze_defender"
-  ],
-  "item/swords/dragon-defender": [
-    "Dragon_defender"
-  ],
-  "item/swords/defender-iron": [
-    "Iron_defender"
-  ],
-  "item/swords/defender-mithril": [
-    "Mithril_defender"
-  ],
-  "item/swords/defender-rune": [
-    "Rune_defender"
-  ],
-  "item/swords/defender-steel": [
-    "Steel_defender"
-  ],
-  "item/drinks/beer": [
-    "Beer",
-    "Troll_Beer"
-  ],
-  "item/food/apple": [
-    "Apple"
-  ],
-  "item/food/banana": [
-    "Banana"
-  ],
-  "item/food/beetroot": [
-    "Beetroot"
-  ],
-  "item/food/cabbage": [
-    "Cabbage"
-  ],
-  "item/food/carrot": [
-    "Carrot"
-  ],
-  "item/food/corn": [
-    "Corn"
-  ],
-  "item/food/flax": [
-    "Flax"
-  ],
-  "item/food/lemon": [
-    "Lemon"
-  ],
-  "item/food/melon": [
-    "Melon"
-  ],
-  "item/food/potato": [
-    "Potato"
-  ],
-  "item/food/pumpkin": [
-    "Pumpkin"
-  ],
-  "item/food/strawberry": [
-    "Strawberry"
-  ],
-  "item/food/sugar": [
-    "Sugar"
-  ],
-  "item/food/tomato": [
-    "Tomato"
-  ],
-  "item/food/wheat": [
-    "Wheat"
-  ],
-  "item/tools/bait_rod": [
-    "Bait_fishing_rod"
-  ],
-  "item/tools/cage": [
-    "Cage"
-  ],
-  "item/tools/fly_rod": [
-    "Fly_fishing_rod"
-  ],
-  "item/tools/harpoon": [
-    "Harpoon"
-  ],
-  "item/tools/fishing_net": [
-    "Fishing_net"
-  ],
-  "item/food/anchovies": [
-    "Anchovies"
-  ],
-  "item/food/baked_potato": [
-    "Baked_potato"
-  ],
-  "item/food/bass": [
-    "Bass"
-  ],
-  "item/food/bear": [
-    "Bear"
-  ],
-  "item/food/beef": [
-    "Beef"
-  ],
-  "item/food/bread": [
-    "Bread"
-  ],
-  "item/food/chicken": [
-    "Chicken",
-    "Duck"
-  ],
-  "item/food/anchovies_cooked": [
-    "Cooked_anchovies"
-  ],
-  "item/food/bass_cooked": [
-    "Cooked_bass"
-  ],
-  "item/food/bear_cooked": [
-    "Cooked_bear"
-  ],
-  "item/food/beef_cooked": [
-    "Cooked_beef"
-  ],
-  "item/food/chicken_cooked": [
-    "Cooked_chicken",
-    "Cooked_duck"
-  ],
-  "item/food/dark-crab_cooked": [
-    "Cooked_dark_crab"
-  ],
-  "item/food/eel_cooked": [
-    "Cooked_eel"
-  ],
-  "item/food/herring": [
-    "Cooked_herring"
-  ],
-  "item/food/karambwan_cooked": [
-    "Cooked_karambwan"
-  ],
-  "item/food/manta-ray_cooked": [
-    "Cooked_manta_ray"
-  ],
-  "item/food/monkfish_cooked": [
-    "Cooked_monkfish"
-  ],
-  "item/food/salmon_cooked": [
-    "Cooked_salmon"
-  ],
-  "item/food/sardine_cooked": [
-    "Cooked_sardine"
-  ],
-  "item/food/sea-turtle_cooked": [
-    "Cooked_sea_turtle"
-  ],
-  "item/food/shark_cooked": [
-    "Cooked_shark"
-  ],
-  "item/food/sheep_cooked": [
-    "Cooked_sheep"
-  ],
-  "item/food/shrimp_cooked": [
-    "Cooked_shrimp"
-  ],
-  "item/food/sturgeon_cooked": [
-    "Cooked_sturgeon"
-  ],
-  "item/food/swordfish_cooked": [
-    "Cooked_swordfish"
-  ],
-  "item/food/tench_cooked": [
-    "Cooked_tench"
-  ],
-  "item/food/trout_cooked": [
-    "Cooked_trout"
-  ],
-  "item/food/tuna_cooked": [
-    "Cooked_tuna"
-  ],
-  "item/food/dark-crab": [
-    "Dark_crab"
-  ],
-  "item/food/dough": [
-    "Dough"
-  ],
-  "item/food/eel": [
-    "Eel"
-  ],
-  "item/food/fruit_salad": [
-    "Fruit_salad"
-  ],
-  "item/food/herring_cooked": [
-    "Herring"
-  ],
-  "item/food/karambwan": [
-    "Karambwan"
-  ],
-  "item/food/lobster": [
-    "Lobster"
-  ],
-  "item/food/lobster_cooked": [
-    "Cooked_lobster"
-  ],
-  "item/food/manta-ray": [
-    "Manta_ray"
-  ],
-  "item/food/monkfish": [
-    "Monkfish"
-  ],
-  "item/food/pie_apple": [
-    "Apple_pie"
-  ],
-  "item/food/pie_fish": [
-    "Fish_pie"
-  ],
-  "item/food/pie_meat": [
-    "Meat_pie"
-  ],
-  "item/food/pie_pumpkin": [
-    "Pumpkin_pie"
-  ],
-  "item/food/pizza_anchovies": [
-    "Anchovies_pizza"
-  ],
-  "item/food/pizza_corn": [
-    "Corn_pizza"
-  ],
-  "item/food/pizza_meat": [
-    "Meat_pizza"
-  ],
-  "item/food/pizza_plain": [
-    "Plain_pizza"
-  ],
-  "item/food/salad": [
-    "Salad"
-  ],
-  "item/food/salmon": [
-    "Salmon"
-  ],
-  "item/food/sardine": [
-    "Sardine"
-  ],
-  "item/food/sea-turtle": [
-    "Sea_turtle"
-  ],
-  "item/food/shark": [
-    "Shark"
-  ],
-  "item/food/sheep": [
-    "Sheep"
-  ],
-  "item/food/shrimp": [
-    "Shrimp"
-  ],
-  "item/food/sturgeon": [
-    "Sturgeon"
-  ],
-  "item/food/swordfish": [
-    "Swordfish"
-  ],
-  "item/food/tench": [
-    "Tench"
-  ],
-  "item/food/trout": [
-    "Trout"
-  ],
-  "item/food/tuna": [
-    "Tuna"
-  ],
-  "item/food/tuna_potato": [
-    "Tuna_potato"
-  ],
-  "item/minescape/gems/diamond": [
-    "Diamond"
-  ],
-  "item/minescape/gems/emerald": [
-    "Emerald"
-  ],
-  "item/minescape/gems/ruby": [
-    "Ruby"
-  ],
-  "item/minescape/gems/sapphire": [
-    "Sapphire"
-  ],
-  "item/minescape/gems/uncut-diamond": [
-    "Uncut_diamond"
-  ],
-  "item/minescape/gems/uncut-emerald": [
-    "Uncut_emerald"
-  ],
-  "item/minescape/gems/uncut-ruby": [
-    "Uncut_ruby"
-  ],
-  "item/minescape/gems/uncut-sapphire": [
-    "Uncut_sapphire"
-  ],
-  "item/materials/adamant_heads": [
-    "Adamant_arrow_heads"
-  ],
-  "item/materials/bronze_heads": [
-    "Bronze_arrow_heads"
-  ],
-  "item/materials/iron_heads": [
-    "Iron_arrow_heads"
-  ],
-  "item/materials/mithril_heads": [
-    "Mithril_arrow_heads"
-  ],
-  "item/materials/rune_heads": [
-    "Rune_arrow_heads"
-  ],
-  "item/materials/steel_heads": [
-    "Steel_arrow_heads"
-  ],
-  "block/allium": [
-    "Alliuminati"
-  ],
-  "block/daisy": [
-    "Azurus_Aqua"
-  ],
-  "item/materials/wither_rose": [
-    "Dragoneyes_rose"
-  ],
-  "item/nether_wart": [
-    "Magmatius_Wrath"
-  ],
-  "block/dead_bush": [
-    "Necroti_Busi"
-  ],
-  "block/dandelion": [
-    "Noilednad"
-  ],
-  "block/orchid": [
-    "Orchicada_Blau"
-  ],
-  "block/poppy": [
-    "Rosarius_Poppus"
-  ],
-  "block/white_tulip": [
-    "Talupia_Blancus"
-  ],
-  "block/red_tulip": [
-    "Talupia_Crimson"
-  ],
-  "block/pink_tulip": [
-    "Talupia_Magentina"
-  ],
-  "block/orange_tulip": [
-    "Talupia_Tangio"
-  ],
-  "item/minescape/hides/hide_cow": [
-    "Cow_hide"
-  ],
-  "item/minescape/hides/hide_dragon_black": [
-    "Black_dragon_hide"
-  ],
-  "item/minescape/hides/hide_dragon_blue": [
-    "Blue_dragon_hide"
-  ],
-  "item/minescape/hides/hide_dragon_green": [
-    "Green_dragon_hide"
-  ],
-  "item/minescape/hides/hide_dragon_red": [
-    "Red_dragon_hide"
-  ],
-  "item/minescape/hides/hide_snake": [
-    "Snake_hide"
-  ],
-  "item/minescape/hides/leather": [
-    "Leather"
-  ],
-  "item/minescape/hides/leather_dragon_black": [
-    "Black_dragon_leather"
-  ],
-  "item/minescape/hides/leather_dragon_blue": [
-    "Blue_dragon_leather"
-  ],
-  "item/minescape/hides/leather_dragon_green": [
-    "Green_dragon_leather"
-  ],
-  "item/minescape/hides/leather_dragon_red": [
-    "Red_dragon_leather"
-  ],
-  "item/minescape/hides/snake_skin": [
-    "Snakeskin"
-  ],
-  "item/minescape/jewellery/3rd-age-amulet": [
-    "3rd_age_magic_amulet"
-  ],
-  "item/minescape/jewellery/bonecrusher_necklace": [
-    "Bonecrusher_necklace",
-    "Upgraded_bonecrusher_necklace"
-  ],
-  "item/minescape/jewellery/gold/amulet_emerald": [
-    "Amulet_of_defence",
-    "Emerald_amulet"
-  ],
-  "item/minescape/jewellery/gold/amulet_emerald_t": [
-    "Amulet_of_defence_(t)"
-  ],
-  "item/minescape/jewellery/gold/amulet_sapphire": [
-    "Amulet_of_magic",
-    "Sapphire_amulet"
-  ],
-  "item/minescape/jewellery/gold/amulet_sapphire_t": [
-    "Amulet_of_magic_(t)"
-  ],
-  "item/minescape/jewellery/gold/amulet_diamond": [
-    "Amulet_of_power",
-    "Diamond_amulet"
-  ],
-  "item/minescape/jewellery/gold/amulet_diamond_t": [
-    "Amulet_of_power_(t)"
-  ],
-  "item/minescape/jewellery/gold/amulet_ruby": [
-    "Amulet_of_strength",
-    "Ruby_amulet"
-  ],
-  "item/minescape/jewellery/gold/amulet_ruby_t": [
-    "Amulet_of_strength_(t)"
-  ],
-  "item/minescape/jewellery/gold/necklace_sapphire": [
-    "Games_necklace",
-    "Sapphire_necklace"
-  ],
-  "item/minescape/jewellery/gold/necklace_ruby": [
-    "Gems_necklace",
-    "Ruby_necklace"
-  ],
-  "item/minescape/jewellery/gold/necklace_diamond": [
-    "Phoenix_necklace",
-    "Diamond_necklace"
-  ],
-  "item/minescape/jewellery/gold/necklace_emerald": [
-    "Runecrafting_necklace",
-    "Emerald_necklace"
-  ],
-  "item/minescape/jewellery/gold/ring_emerald": [
-    "Ring_of_Dueling",
-    "Emerald_ring"
-  ],
-  "item/minescape/jewellery/gold/ring_ruby": [
-    "Ring_of_forging",
-    "Ruby_ring"
-  ],
-  "item/minescape/jewellery/gold/ring_diamond": [
-    "Ring_of_life",
-    "Diamond_ring"
-  ],
-  "item/minescape/jewellery/gold/ring_sapphire": [
-    "Ring_of_recoil",
-    "Sapphire_ring"
-  ],
-  "item/minescape/jewellery/gold/amulet": [
-    "Golden_amulet"
-  ],
-  "item/minescape/jewellery/gold/necklace": [
-    "Golden_necklace"
-  ],
-  "item/minescape/jewellery/gold/ring": [
-    "Golden_ring"
-  ],
-  "item/minescape/limbs/adamant": [
-    "Adamant_limbs"
-  ],
-  "item/minescape/limbs/bronze": [
-    "Bronze_limbs"
-  ],
-  "item/minescape/limbs/dragon": [
-    "Dragon_limbs"
-  ],
-  "item/minescape/limbs/iron": [
-    "Iron_limbs"
-  ],
-  "item/minescape/limbs/mithril": [
-    "Mithril_limbs"
-  ],
-  "item/minescape/limbs/rune": [
-    "Rune_limbs"
-  ],
-  "item/minescape/limbs/steel": [
-    "Steel_limbs"
-  ],
-  "item/icons/magic/teleport_canifis": [
-    "Teleport_to_Camelots_castle_tablet",
-    "Teleport_to_Canifis_tablet",
-    "Teleport_to_Crandor_tablet"
-  ],
-  "item/icons/magic/teleport_entrana": [
-    "Teleport_to_Edgeville_tablet",
-    "Teleport_to_Entrana_tablet"
-  ],
-  "item/icons/magic/teleport_falador": [
-    "Teleport_to_Falador_tablet"
-  ],
-  "item/icons/magic/teleport_home": [
-    "Island_teleport_tablet"
-  ],
-  "item/icons/magic/teleport_lumbridge": [
-    "Lumbridge_teleport_tablet"
-  ],
-  "item/icons/magic/teleport_taverley": [
-    "Teleport_to_Taverley_tablet"
-  ],
-  "item/icons/magic/teleport_varrock": [
-    "Teleport_to_Varrock_tablet"
-  ],
-  "item/materials/draconic-visage": [
-    "Draconic_Visage"
-  ],
-  "item/materials/unfired-bowl": [
-    "Unfired_bowl"
-  ],
-  "item/materials/ashes": [
-    "Ashes",
-    "Cursed_ashes"
-  ],
-  "item/materials/ashes_imbued": [
-    "Imbued_ashes",
-    "Imbued_cursed_ashes"
-  ],
-  "item/tools/backpack": [
-    "Backpack"
-  ],
-  "item/materials/big_bones": [
-    "Big_bones",
-    "Large_bones"
-  ],
-  "item/materials/big_bones_imbued": [
-    "Imbued_big_bones",
-    "Imbued_large_bones"
-  ],
-  "item/materials/bones": [
-    "Bones"
-  ],
-  "item/materials/bones_imbued": [
-    "Imbued_bones"
-  ],
-  "item/books/armadyl": [
-    "Damaged_book_(Armadyl)",
-    "Book_of_law"
-  ],
-  "item/books/bandos": [
-    "Damaged_book_(Bandos)",
-    "Book_of_war"
-  ],
-  "item/books/guthix": [
-    "Damaged_book_(Guthix)",
-    "Book_of_balance"
-  ],
-  "item/books/saradomin": [
-    "Damaged_book_(Saradomin)",
-    "Holy_book"
-  ],
-  "item/books/zamorak": [
-    "Damaged_book_(Zamorak)",
-    "Unholy_book"
-  ],
-  "item/books/zaros": [
-    "Damaged_book_(Zaros)",
-    "Book_of_darkness"
-  ],
-  "item/books/armadyl_page": [
-    "Armadyl_page_1",
-    "Armadyl_page_2",
-    "Armadyl_page_3",
-    "Armadyl_page_4"
-  ],
-  "item/books/bandos_page": [
-    "Bandos_page_1",
-    "Bandos_page_2",
-    "Bandos_page_3",
-    "Bandos_page_4"
-  ],
-  "item/books/guthix_page": [
-    "Guthix_page_1",
-    "Guthix_page_2",
-    "Guthix_page_3",
-    "Guthix_page_4"
-  ],
-  "item/books/saradomin_page": [
-    "Saradomin_page_1",
-    "Saradomin_page_2",
-    "Saradomin_page_3",
-    "Saradomin_page_4"
-  ],
-  "item/books/zamorak_page": [
-    "Zamorak_page_1",
-    "Zamorak_page_2",
-    "Zamorak_page_3",
-    "Zamorak_page_4"
-  ],
-  "item/books/zaros_page": [
-    "Zaros_page_1",
-    "Zaros_page_2",
-    "Zaros_page_3",
-    "Zaros_page_4"
-  ],
-  "item/tools/coins_100": [
-    "Coins"
-  ],
-  "item/materials/enormous_bones": [
-    "Dragon_bones",
-    "Enormous_bones"
-  ],
-  "item/materials/enormous_bones_imbued": [
-    "Imbued_dragon_bones",
-    "Imbued_enormous_bones"
-  ],
-  "item/compass": [
-    "Exploration_Compass"
-  ],
-  "item/minescape/arrows/feather": [
-    "Feathers"
-  ],
-  "item/minescape/arrows/headless": [
-    "Headless_arrow"
-  ],
-  "item/minescape/ui/skill_prayer": [
-    "Holy_relic"
-  ],
-  "item/materials/kalphite_head": [
-    "Kalphite_remains"
-  ],
-  "item/minescape/misc/keys/brass": [
-    "Brass_key",
-    "Experiment_cave_key",
-    "Taverley_maze_key"
-  ],
-  "item/minescape/misc/keys/giant": [
-    "Giant_key"
-  ],
-  "item/minescape/misc/keys/kalphite": [
-    "Kalphite_key"
-  ],
-  "item/filled_map": [
-    "World_map_(Disabled)"
-  ],
-  "item/tools/rune_pouch": [
-    "Rune_pouch"
-  ],
-  "item/logs/oak": [
-    "Sacred_wood",
-    "Oak_log"
-  ],
-  "item/tools/scroll_pouch": [
-    "Scroll_pouch"
-  ],
-  "item/minescape/arrows/shafts": [
-    "Arrow_shafts"
-  ],
-  "item/minescape/ui/skill_slayer": [
-    "Slayer_token"
-  ],
-  "item/materials/soul": [
-    "Soul",
-    "Soul_of_Barrows_Brothers",
-    "Soul_of_Dad",
-    "Soul_of_the_Evil_Chicken",
-    "Soul_of_Kalphite_Queen",
-    "Soul_of_King_Black_Dragon",
-    "Soul_of_Giant_Mole",
-    "Soul_of_Obor",
-    "Soul_of_the_creature"
-  ],
-  "item/minescape/arrows/string": [
-    "String"
-  ],
-  "item/all/deaths/icon": [
-    "Transmog_token"
-  ],
-  "item/tools/xp_bottle": [
-    "Large_XP_lamp",
-    "Medium_XP_lamp",
-    "Small_XP_lamp"
-  ],
-  "item/ores/adamant_ore": [
-    "Adamant_ore"
-  ],
-  "item/ores/clay": [
-    "Clay"
-  ],
-  "item/ores/coal_ore": [
-    "Coal_ore"
-  ],
-  "item/ores/copper_ore": [
-    "Copper_ore"
-  ],
-  "item/ores/gold_ore": [
-    "Gold_ore"
-  ],
-  "item/ores/iron_ore": [
-    "Iron_ore"
-  ],
-  "item/ores/mithril_ore": [
-    "Mithril_ore"
-  ],
-  "item/ores/runite_ore": [
-    "Runite_ore"
-  ],
-  "item/ores/silver_ore": [
-    "Silver_ore"
-  ],
-  "item/ores/stone": [
-    "Stone"
-  ],
-  "item/ores/tin_ore": [
-    "Tin_ore"
-  ],
-  "item/potions/combat": [
-    "Combat_potion"
-  ],
-  "item/potions/dark": [
-    "Dark_potion"
-  ],
-  "item/potions/defence": [
-    "Defence_potion"
-  ],
-  "item/potions/extreme_defence": [
-    "Extreme_defence_potion"
-  ],
-  "item/potions/extreme_magic": [
-    "Extreme_magic_potion"
-  ],
-  "item/potions/extreme_prayer": [
-    "Extreme_prayer_potion"
-  ],
-  "item/potions/extreme_ranged": [
-    "Extreme_ranged_potion"
-  ],
-  "item/potions/extreme_speed": [
-    "Extreme_speed_potion"
-  ],
-  "item/potions/extreme_strength": [
-    "Extreme_strength_potion"
-  ],
-  "item/potions/fire": [
-    "Fire_resistance_potion"
-  ],
-  "item/potions/god": [
-    "God_potion"
-  ],
-  "item/potions/magic": [
-    "Magic_potion"
-  ],
-  "item/potions/prayer": [
-    "Prayer_potion"
-  ],
-  "item/potions/ranged": [
-    "Ranged_potion"
-  ],
-  "item/potions/speed": [
-    "Speed_potion"
-  ],
-  "item/potions/stamina": [
-    "Stamina_potion"
-  ],
-  "item/potions/strength": [
-    "Strength_potion"
-  ],
-  "item/potions/super_defence": [
-    "Super_defence_potion"
-  ],
-  "item/potions/super_magic": [
-    "Super_magic_potion"
-  ],
-  "item/potions/super_prayer": [
-    "Super_prayer_potion"
-  ],
-  "item/potions/super_ranged": [
-    "Super_ranged_potion"
-  ],
-  "item/potions/super_speed": [
-    "Super_speed_potion"
-  ],
-  "item/potions/super_stamina": [
-    "Super_stamina_potion"
-  ],
-  "item/potions/super_strength": [
-    "Super_strength_potion"
-  ],
-  "item/potions/unstable": [
-    "Unstable_potion"
-  ],
-  "item/minescape/quests/dragon-slayer/head": [
-    "Elvargs_head"
-  ],
-  "item/minescape/quests/dragon-slayer/key-blue": [
-    "Blue_key"
-  ],
-  "item/minescape/quests/dragon-slayer/key-green": [
-    "Green_key"
-  ],
-  "item/minescape/quests/dragon-slayer/key-magenta": [
-    "Magenta_key"
-  ],
-  "item/minescape/quests/dragon-slayer/key-orange": [
-    "Orange_key"
-  ],
-  "item/minescape/quests/dragon-slayer/key-red": [
-    "Red_key"
-  ],
-  "item/minescape/quests/dragon-slayer/key-yellow": [
-    "Yellow_key"
-  ],
-  "item/minescape/quests/dragon-slayer/map-full": [
-    "Crandors_map"
-  ],
-  "item/minescape/quests/dragon-slayer/map-part": [
-    "Map_piece_(Lozar)",
-    "Map_piece_(Melzar)",
-    "Map_piece_(Thalzar)"
-  ],
-  "item/runes/air_rune": [
-    "Air_rune"
-  ],
-  "item/runes/body_rune": [
-    "Body_rune"
-  ],
-  "item/runes/chaos_rune": [
-    "Chaos_rune"
-  ],
-  "item/runes/cosmic_rune": [
-    "Cosmic_rune"
-  ],
-  "item/runes/death_rune": [
-    "Death_rune"
-  ],
-  "item/runes/earth_rune": [
-    "Earth_rune"
-  ],
-  "item/runes/rune_essence": [
-    "Rune_essence"
-  ],
-  "item/runes/fire_rune": [
-    "Fire_rune"
-  ],
-  "item/runes/law_rune": [
-    "Law_rune"
-  ],
-  "item/runes/mind_rune": [
-    "Mind_rune"
-  ],
-  "item/runes/nature_rune": [
-    "Nature_rune"
-  ],
-  "item/runes/water_rune": [
-    "Water_rune"
-  ],
-  "item/minescape/3rd-age/3rd-age-shield": [
-    "3rd_age_shield"
-  ],
-  "item/shields/adamant_shield": [
-    "Adamant_shield"
-  ],
-  "item/shields/adamant_heraldic_shield": [
-    "Adamant_shield_(h)"
-  ],
-  "item/shields/black_shield": [
-    "Black_shield"
-  ],
-  "item/shields/black_shield_heraldic": [
-    "Black_shield_(h)"
-  ],
-  "item/shields/bronze_shield": [
-    "Bronze_shield"
-  ],
-  "item/shields/cabbage_shield": [
-    "Cabbage_shield"
-  ],
-  "item/shields/dragon_shield": [
-    "Dragon_shield"
-  ],
-  "item/shields/antidragon_shield": [
-    "Anti_dragon_shield"
-  ],
-  "item/shields/antidragon_shield_upgrade": [
-    "Dragonfire_shield"
-  ],
-  "item/shields/iron_shield": [
-    "Iron_shield"
-  ],
-  "item/shields/mithril_shield": [
-    "Mithril_shield"
-  ],
-  "item/shields/wood_baobab": [
-    "Baobab_shield"
-  ],
-  "item/shields/wood_blackhide": [
-    "Black_hide_shield"
-  ],
-  "item/shields/wood_bluehide": [
-    "Blue_hide_shield"
-  ],
-  "item/shields/wood_greenhide": [
-    "Green_hide_shield"
-  ],
-  "item/shields/wood_leather": [
-    "Leather_shield"
-  ],
-  "item/shields/wood_oak": [
-    "Oak_shield"
-  ],
-  "item/shields/wood_oak_gt": [
-    "Oak_shield_(gt)"
-  ],
-  "item/shields/wood_teak": [
-    "Pine_shield",
-    "Teak_shield"
-  ],
-  "item/shields/wood_redhide": [
-    "Red_hide_shield"
-  ],
-  "item/shields/wood_sequoia": [
-    "Sequoia_shield"
-  ],
-  "item/shields/wood_snake": [
-    "Snakeskin_shield"
-  ],
-  "item/shields/wood_willow": [
-    "Willow_shield"
-  ],
-  "item/shields/wood_whitehide_blessed": [
-    "Armadyl_hide_shield"
-  ],
-  "item/shields/wood_grayhide_blessed": [
-    "Bandos_hide_shield"
-  ],
-  "item/shields/wood_greenhide_blessed": [
-    "Guthix_hide_shield"
-  ],
-  "item/shields/wood_bluehide_blessed": [
-    "Saradomin_hide_shield"
-  ],
-  "item/shields/wood_redhide_blessed": [
-    "Zamorak_hide_shield"
-  ],
-  "item/shields/wood_purplehide_blessed": [
-    "Zaros_hide_shield"
-  ],
-  "item/shields/rune_shield": [
-    "Rune_shield"
-  ],
-  "item/shields/rune_shield_gilded": [
-    "Gilded_shield"
-  ],
-  "item/shields/rune_heraldic_shield": [
-    "Rune_shield_(h)"
-  ],
-  "item/shields/steel_shield": [
-    "Steel_shield"
-  ],
-  "item/minescape/3rd-age/3rd-age-axe": [
-    "3rd_age_hatchet"
-  ],
-  "item/minescape/3rd-age/3rd-age-pickaxe": [
-    "3rd_age_pickaxe"
-  ],
-  "item/swords/axe-adamant": [
-    "Adamant_hatchet"
-  ],
-  "item/swords/pickaxe-adamant": [
-    "Adamant_pickaxe"
-  ],
-  "item/swords/pickaxe-black": [
-    "Black_pickaxe"
-  ],
-  "item/swords/axe-bronze": [
-    "Bronze_hatchet"
-  ],
-  "item/swords/pickaxe-bronze": [
-    "Bronze_pickaxe"
-  ],
-  "item/tools/chisel": [
-    "Chisel"
-  ],
-  "item/swords/axe-dragon": [
-    "Dragon_hatchet"
-  ],
-  "item/swords/pickaxe-dragon": [
-    "Dragon_pickaxe"
-  ],
-  "item/swords/axe-gold": [
-    "Gilded_hatchet"
-  ],
-  "item/swords/pickaxe-gold": [
-    "Gilded_pickaxe"
-  ],
-  "item/minescape/tools/hammer": [
-    "Hammer"
-  ],
-  "item/tools/hoe": [
-    "Hoe"
-  ],
-  "item/swords/axe-iron": [
-    "Iron_hatchet"
-  ],
-  "item/swords/pickaxe-iron": [
-    "Iron_pickaxe"
-  ],
-  "item/tools/knife": [
-    "Knife"
-  ],
-  "item/tools/large_spade": [
-    "Large_spade"
-  ],
-  "item/swords/axe-mithril": [
-    "Mithril_hatchet"
-  ],
-  "item/swords/pickaxe-mithril": [
-    "Mithril_pickaxe"
-  ],
-  "item/swords/axe-rune": [
-    "Rune_hatchet"
-  ],
-  "item/swords/pickaxe-rune": [
-    "Rune_pickaxe"
-  ],
-  "item/tools/shears": [
-    "Shears"
-  ],
-  "item/tools/spade": [
-    "Spade"
-  ],
-  "item/tools/spade_gold": [
-    "Gilded_spade"
-  ],
-  "item/swords/axe-steel": [
-    "Steel_hatchet"
-  ],
-  "item/swords/pickaxe-steel": [
-    "Steel_pickaxe"
-  ],
-  "item/minescape/bolts/unfinished_adamant": [
-    "Adamant_bolts_(unf)"
-  ],
-  "item/minescape/crossbows/unstring_adamant": [
-    "Adamant_crossbow_(unf)"
-  ],
-  "item/minescape/bolts/unfinished_bronze": [
-    "Bronze_bolts_(unf)"
-  ],
-  "item/minescape/crossbows/unstring_bronze": [
-    "Bronze_crossbow_(unf)"
-  ],
-  "item/minescape/bolts/unfinished_dragon": [
-    "Dragon_bolts_(unf)"
-  ],
-  "item/minescape/crossbows/unstring_dragon": [
-    "Dragon_crossbow_(unf)"
-  ],
-  "item/minescape/bolts/unfinished_iron": [
-    "Iron_bolts_(unf)"
-  ],
-  "item/minescape/crossbows/unstring_iron": [
-    "Iron_crossbow_(unf)"
-  ],
-  "item/minescape/bolts/unfinished_mithril": [
-    "Mithril_bolts_(unf)"
-  ],
-  "item/minescape/crossbows/unstring_mithril": [
-    "Mithril_crossbow_(unf)"
-  ],
-  "item/minescape/bolts/unfinished_rune": [
-    "Rune_bolts_(unf)"
-  ],
-  "item/minescape/crossbows/unstring_rune": [
-    "Rune_crossbow_(unf)"
-  ],
-  "item/minescape/bolts/unfinished_steel": [
-    "Steel_bolts_(unf)"
-  ],
-  "item/minescape/crossbows/unstring_steel": [
-    "Steel_crossbow_(unf)"
-  ],
-  "item/minescape/3rd-age/3rd-age-wand": [
-    "3rd_age_wand"
-  ],
-  "item/minescape/weapons/wands/apoc": [
-    "Apocalypse_wand",
-    "Cursed_apocalypse_wand"
-  ],
-  "item/minescape/weapons/wands/apprentice": [
-    "Apprentice_wand"
-  ],
-  "item/wands/staff_air": [
-    "Air_battlestaff",
-    "Air_staff"
-  ],
-  "item/wands/staff_earth": [
-    "Earth_battlestaff",
-    "Earth_staff"
-  ],
-  "item/wands/staff_fire": [
-    "Fire_battlestaff",
-    "Fire_staff"
-  ],
-  "item/wands/staff_water": [
-    "Water_battlestaff",
-    "Water_staff"
-  ],
-  "item/minescape/weapons/wands/beginner": [
-    "Beginners_wand"
-  ],
-  "item/wands/bob_the_cat": [
-    "Staff_of_bob_the_cat"
-  ],
-  "item/minescape/weapons/wands/master": [
-    "Masters_wand"
-  ],
-  "item/minescape/prayer-staff/gold": [
-    "Gold_prayer_sceptre"
-  ],
-  "item/minescape/prayer-staff/silver": [
-    "Silver_prayer_sceptre",
-    "BROKEN_Silver_prayer_sceptre"
-  ],
-  "item/minescape/weapons/royal-sceptre": [
-    "Royal_sceptre"
-  ],
-  "item/minescape/weapons/wands/wizard": [
-    "Wizards_wand"
-  ],
-  "item/minescape/3rd-age/3rd-age-bow": [
-    "3rd_age_bow"
-  ],
-  "item/minescape/3rd-age/3rd-age-sword": [
-    "3rd_age_longsword"
-  ],
-  "item/swords/abyssal_whip": [
-    "Abyssal_whip",
-    "Cursed_abyssal_whip",
-    "Test_whip",
-    "Test_whip"
-  ],
-  "item/swords/twohand-adamant": [
-    "Adamant_two_handed_sword"
-  ],
-  "item/minescape/arrows/adamant": [
-    "Adamant_arrow"
-  ],
-  "item/swords/battleaxe-adamant": [
-    "Adamant_battleaxe"
-  ],
-  "item/minescape/bolts/adamant": [
-    "Adamant_bolts"
-  ],
-  "item/swords/cane-adamant": [
-    "Adamant_cane"
-  ],
-  "item/minescape/crossbows/adamant": [
-    "Adamant_crossbow"
-  ],
-  "item/swords/dagger-adamant": [
-    "Adamant_dagger"
-  ],
-  "item/swords/mace-adamant": [
-    "Adamant_mace"
-  ],
-  "item/swords/adamant-scim": [
-    "Adamant_scimitar"
-  ],
-  "item/minescape/weapons/spear-adamant": [
-    "Adamant_spear"
-  ],
-  "item/swords/sword-adamant": [
-    "Adamant_sword"
-  ],
-  "item/minescape/weapons/baguette": [
-    "Baguette_sword"
-  ],
-  "item/bows/baobab_bow": [
-    "Baobab_bow"
-  ],
-  "item/weapons/bolt_rack": [
-    "Bolt_rack"
-  ],
-  "item/minescape/barrows/weapons/crossbow": [
-    "Karils_crossbow"
-  ],
-  "item/minescape/barrows/weapons/flail": [
-    "Veracs_flail"
-  ],
-  "item/minescape/barrows/weapons/greataxe": [
-    "Dharoks_greataxe"
-  ],
-  "item/minescape/barrows/weapons/hammer": [
-    "Torags_hammer"
-  ],
-  "item/minescape/barrows/weapons/spear": [
-    "Guthans_spear"
-  ],
-  "item/minescape/barrows/weapons/staff": [
-    "Ahrims_staff"
-  ],
-  "item/swords/cane-black": [
-    "Black_cane"
-  ],
-  "item/minescape/weapons/spear-black": [
-    "Black_spear"
-  ],
-  "item/swords/twohand-bronze": [
-    "Bronze_two_handed_sword"
-  ],
-  "item/minescape/arrows/bronze": [
-    "Bronze_arrow"
-  ],
-  "item/swords/battleaxe-bronze": [
-    "Bronze_battle_axe"
-  ],
-  "item/minescape/bolts/bronze": [
-    "Bronze_bolts"
-  ],
-  "item/minescape/crossbows/bronze": [
-    "Bronze_crossbow"
-  ],
-  "item/swords/dagger-bronze": [
-    "Bronze_dagger"
-  ],
-  "item/swords/mace-bronze": [
-    "Bronze_mace"
-  ],
-  "item/swords/bronze-scim": [
-    "Bronze_scimitar"
-  ],
-  "item/minescape/weapons/spear-bronze": [
-    "Bronze_spear"
-  ],
-  "item/swords/sword-bronze": [
-    "Bronze_sword"
-  ],
-  "item/arrow": [
-    "Crystal_arrow"
-  ],
-  "item/bows/crystal_bow": [
-    "Crystal_bow"
-  ],
-  "item/swords/dragon_2h": [
-    "Cursed_dragon_two_handed_sword",
-    "Dragon_two_handed_sword"
-  ],
-  "item/swords/dragon_battleaxe": [
-    "Cursed_dragon_battleaxe",
-    "Dragon_battleaxe"
-  ],
-  "item/bows/dragon_bow": [
-    "Cursed_dragon_bow",
-    "Dragon_bow"
-  ],
-  "item/swords/dragon_dagger": [
-    "Cursed_dragon_dagger",
-    "Dragon_dagger"
-  ],
-  "item/swords/dragon_mace": [
-    "Cursed_dragon_mace",
-    "Dragon_mace"
-  ],
-  "item/swords/dragon-scim": [
-    "Cursed_dragon_scimitar",
-    "Dragon_scimitar"
-  ],
-  "item/swords/dragon_sword": [
-    "Cursed_dragon_sword",
-    "Dragon_sword"
-  ],
-  "item/minescape/arrows/dragon": [
-    "Dragon_arrow"
-  ],
-  "item/minescape/bolts/dragon": [
-    "Dragon_bolts"
-  ],
-  "item/swords/cane-dragon": [
-    "Dragon_cane"
-  ],
-  "item/minescape/crossbows/dragon": [
-    "Dragon_crossbow"
-  ],
-  "item/bows/oak_bow": [
-    "Elder_bow",
-    "Magic_bow",
-    "Oak_bow"
-  ],
-  "item/swords/sword_of_elements": [
-    "Elemental_sword"
-  ],
-  "item/swords/elemental_sword_crystalline": [
-    "Elemental_sword_crystalline"
-  ],
-  "item/swords/elemental_sword_inferno": [
-    "Elemental_sword_inferno"
-  ],
-  "item/swords/elemental_sword_terra": [
-    "Elemental_sword_terra"
-  ],
-  "item/swords/elemental_sword_zephyr": [
-    "Elemental_sword_zephyr"
-  ],
-  "item/swords/twohand-gilded": [
-    "Gilded_two_handed_sword"
-  ],
-  "item/swords/gilded-scim": [
-    "Gilded_scimitar"
-  ],
-  "item/minescape/weapons/spear-gold": [
-    "Gilded_spear"
-  ],
-  "item/minescape/weapons/grantite-maul": [
-    "Granite_maul"
-  ],
-  "item/minescape/weapons/giant-club": [
-    "Hill_Giant_Club"
-  ],
-  "item/swords/twohand-iron": [
-    "Iron_two_handed_sword"
-  ],
-  "item/minescape/arrows/iron": [
-    "Iron_arrow"
-  ],
-  "item/swords/battleaxe-iron": [
-    "Iron_battleaxe"
-  ],
-  "item/minescape/bolts/iron": [
-    "Iron_bolts"
-  ],
-  "item/minescape/crossbows/iron": [
-    "Iron_crossbow"
-  ],
-  "item/swords/dagger-iron": [
-    "Iron_dagger"
-  ],
-  "item/swords/mace-iron": [
-    "Iron_mace"
-  ],
-  "item/swords/iron-scim": [
-    "Iron_scimitar"
-  ],
-  "item/minescape/weapons/spear-iron": [
-    "Iron_spear"
-  ],
-  "item/swords/sword-iron": [
-    "Iron_sword"
-  ],
-  "item/swords/abyssal_whip_kalphite": [
-    "Kalphite_whip"
-  ],
-  "item/swords/katana": [
-    "Katana"
-  ],
-  "item/swords/twohand-mithril": [
-    "Mithril_two_handed_sword"
-  ],
-  "item/minescape/arrows/mithril": [
-    "Mithril_arrow"
-  ],
-  "item/swords/battleaxe-mithril": [
-    "Mithril_battleaxe"
-  ],
-  "item/minescape/bolts/mithril": [
-    "Mithril_bolts"
-  ],
-  "item/minescape/crossbows/mithril": [
-    "Mithril_crossbow"
-  ],
-  "item/swords/dagger-mithril": [
-    "Mithril_dagger"
-  ],
-  "item/swords/mace-mithril": [
-    "Mithril_mace"
-  ],
-  "item/swords/mithril-scim": [
-    "Mithril_scimitar"
-  ],
-  "item/minescape/weapons/spear-mithril": [
-    "Mithril_spear"
-  ],
-  "item/swords/sword-mithril": [
-    "Mithril_sword"
-  ],
-  "item/bows/pine_bow": [
-    "Pine_bow"
-  ],
-  "item/bows/rain_bow": [
-    "Rain_bow"
-  ],
-  "item/swords/twohand-rune": [
-    "Rune_two_handed_sword"
-  ],
-  "item/minescape/arrows/rune": [
-    "Rune_arrow"
-  ],
-  "item/swords/battleaxe-rune": [
-    "Rune_battleaxe"
-  ],
-  "item/minescape/bolts/rune": [
-    "Rune_bolts"
-  ],
-  "item/swords/cane-rune": [
-    "Rune_cane"
-  ],
-  "item/minescape/crossbows/rune": [
-    "Rune_crossbow"
-  ],
-  "item/swords/dagger-rune": [
-    "Rune_dagger"
-  ],
-  "item/swords/mace-rune": [
-    "Rune_mace"
-  ],
-  "item/swords/rune-scim": [
-    "Rune_scimitar"
-  ],
-  "item/minescape/weapons/spear-rune": [
-    "Rune_spear"
-  ],
-  "item/swords/sword-rune": [
-    "Rune_sword"
-  ],
-  "item/bows/sequoia_bow": [
-    "Sequoia_bow"
-  ],
-  "item/swords/twohand-steel": [
-    "Steel_two_handed_sword"
-  ],
-  "item/minescape/arrows/steel": [
-    "Steel_arrow"
-  ],
-  "item/swords/battleaxe-steel": [
-    "Steel_battleaxe"
-  ],
-  "item/minescape/bolts/steel": [
-    "Steel_bolts"
-  ],
-  "item/minescape/crossbows/steel": [
-    "Steel_crossbow"
-  ],
-  "item/swords/dagger-steel": [
-    "Steel_dagger"
-  ],
-  "item/swords/mace-steel": [
-    "Steel_mace"
-  ],
-  "item/swords/steel-scim": [
-    "Steel_scimitar"
-  ],
-  "item/minescape/weapons/spear-steel": [
-    "Steel_spear"
-  ],
-  "item/swords/sword-steel": [
-    "Steel_sword"
-  ],
-  "item/bows/teak_bow": [
-    "Teak_bow"
-  ],
-  "item/bows/willow_bow": [
-    "Willow_bow"
-  ],
-  "item/ashes/baobab": [
-    "Baobab_ashes"
-  ],
-  "item/logs/baobab": [
-    "Baobab_log"
-  ],
-  "item/ashes/elder": [
-    "Elder_ashes"
-  ],
-  "item/logs/elder": [
-    "Elder_log"
-  ],
-  "item/ashes/magic": [
-    "Magic_ashes"
-  ],
-  "item/logs/magic": [
-    "Magic_log"
-  ],
-  "item/ashes/maple": [
-    "Maple_ashes"
-  ],
-  "item/logs/maple": [
-    "Maple_log"
-  ],
-  "item/ashes/oak": [
-    "Oak_ashes"
-  ],
-  "item/ashes/palm": [
-    "Palm_ashes"
-  ],
-  "item/logs/palm": [
-    "Palm_log"
-  ],
-  "item/ashes/pine": [
-    "Pine_ashes"
-  ],
-  "item/logs/pine": [
-    "Pine_log"
-  ],
-  "item/ashes/sakura": [
-    "Sakura_ashes"
-  ],
-  "item/logs/sakura": [
-    "Sakura_log"
-  ],
-  "item/ashes/sequoia": [
-    "Sequoia_ashes"
-  ],
-  "item/logs/sequoia": [
-    "Sequoia_log"
-  ],
-  "item/ashes/spruce": [
-    "Spruce_ashes"
-  ],
-  "item/logs/spruce": [
-    "Spruce_log"
-  ],
-  "item/ashes/teak": [
-    "Teak_ashes"
-  ],
-  "item/logs/teak": [
-    "Teak_log"
-  ],
-  "item/ashes/willow": [
-    "Willow_ashes"
-  ],
-  "item/logs/willow": [
-    "Willow_log"
-  ],
-  "item/ashes/yew": [
-    "Yew_ashes"
-  ],
-  "item/logs/yew": [
-    "Yew_log"
-  ]
+    "item/minescape/3rd-age/3rd-age-mage-hat": [
+        "3rd_age_magic_hat"
+    ],
+    "item/minescape/3rd-age/3rd-age-helmet": [
+        "3rd_age_melee_helmet"
+    ],
+    "item/minescape/3rd-age/3rd-age-coif": [
+        "3rd_age_ranged_coif"
+    ],
+    "item/minescape/armours/adamant_helm": [
+        "Adamant_chain_helmet"
+    ],
+    "item/minescape/armours/fullhelm-adamant": [
+        "Adamant_plate_full_helm"
+    ],
+    "item/ender_pearl": [
+        "Agility_orb"
+    ],
+    "item/armours/ahrims-hood": [
+        "Ahrim's_hood"
+    ],
+    "item/armours/dharok-helm": [
+        "Dharok's_helm"
+    ],
+    "item/armours/guthans-helmet": [
+        "Guthan's_helmet"
+    ],
+    "item/armours/karils-coif": [
+        "Karil's_coif"
+    ],
+    "item/armours/torags-helm": [
+        "Torag's_helm"
+    ],
+    "item/armours/veracs-helm": [
+        "Verac's_helm"
+    ],
+    "item/minescape/armours/fullhelm-black": [
+        "Black_plate_full_helm"
+    ],
+    "item/minescape/armours/bronze_helm": [
+        "Bronze_chain_helmet"
+    ],
+    "item/minescape/armours/fullhelm-bronze": [
+        "Bronze_plate_full_helm"
+    ],
+    "item/minescape/armours/dragon_helm": [
+        "Dragon_chain_helmet"
+    ],
+    "item/minescape/armours/fullhelm-dragon": [
+        "Dragon_plate_full_helm"
+    ],
+    "item/iron_boots": [
+        "Fancy_boots"
+    ],
+    "item/minescape/armours/rune_helm_gilded": [
+        "Gilded_chain_helmet"
+    ],
+    "item/minescape/armours/fullhelm-rune_gilded": [
+        "Gilded_plate_full_helm"
+    ],
+    "item/minescape/armours/adamant_helm_gold": [
+        "Adamant_chain_helmet_(gt)"
+    ],
+    "item/minescape/armours/fullhelm-adamant_gold": [
+        "Adamant_plate_full_helm_(gt)"
+    ],
+    "item/minescape/armours/fullhelm-black_gold": [
+        "Black_plate_full_helm_(gt)"
+    ],
+    "item/minescape/armours/bronze_helm_gold": [
+        "Bronze_chain_helmet_(gt)"
+    ],
+    "item/minescape/armours/fullhelm-bronze_gold": [
+        "Bronze_plate_full_helm_(gt)"
+    ],
+    "item/minescape/armours/iron_helm_gold": [
+        "Iron_chain_helmet_(gt)"
+    ],
+    "item/minescape/armours/fullhelm-iron_gold": [
+        "Iron_plate_full_helm_(gt)"
+    ],
+    "item/minescape/armours/mithril_helm_gold": [
+        "Mithril_chain_helmet_(gt)"
+    ],
+    "item/minescape/armours/fullhelm-mithril_gold": [
+        "Mithril_plate_full_helm_(gt)"
+    ],
+    "item/minescape/armours/rune_helm_gold": [
+        "Rune_chain_helmet_(gt)"
+    ],
+    "item/minescape/armours/fullhelm-rune_gold": [
+        "Rune_plate_full_helm_(gt)"
+    ],
+    "item/minescape/armours/steel_helm_gold": [
+        "Steel_chain_helmet_(gt)"
+    ],
+    "item/minescape/armours/fullhelm-steel_gold": [
+        "Steel_plate_full_helm_(gt)"
+    ],
+    "item/minescape/armours/hardcore": [
+        "Hardcore_Ironman_full_helm"
+    ],
+    "item/minescape/armours/iron_helm": [
+        "Iron_chain_helmet"
+    ],
+    "item/minescape/armours/fullhelm-iron": [
+        "Iron_plate_full_helm"
+    ],
+    "item/minescape/armours/ironman": [
+        "Ironman_full_helm"
+    ],
+    "item/minescape/armours/magic/batwing_hat": [
+        "Batwing_hat"
+    ],
+    "item/minescape/armours/magic/black_hat": [
+        "Black_wizard_hat"
+    ],
+    "item/minescape/armours/magic/blue_hat": [
+        "Blue_wizard_hat"
+    ],
+    "item/minescape/armours/magic/dragonhai_hat": [
+        "Dagon'hai_hat"
+    ],
+    "item/minescape/armours/magic/druid_hat": [
+        "Druidic_hat"
+    ],
+    "item/minescape/armours/enchanted-hat": [
+        "Enchanted_hat"
+    ],
+    "item/minescape/armours/magic/infinity_hat": [
+        "Infinity_hat"
+    ],
+    "item/minescape/armours/magic/mystichat": [
+        "Mystic_hat"
+    ],
+    "item/minescape/armours/magic/spider_hat": [
+        "Spider_silk_hat"
+    ],
+    "item/minescape/armours/magic/batwing_hat_gold": [
+        "Batwing_hat_(gt)"
+    ],
+    "item/minescape/armours/magic/black_hat_gold": [
+        "Black_wizard_hat_(gt)"
+    ],
+    "item/minescape/armours/magic/blue_hat_gold": [
+        "Blue_wizard_hat_(gt)"
+    ],
+    "item/minescape/armours/magic/dragonhai_hat_gold": [
+        "Dagon'hai_hat_(gt)"
+    ],
+    "item/minescape/armours/magic/druid_hat_gold": [
+        "Druidic_hat_(gt)"
+    ],
+    "item/minescape/armours/magic/infinity_hat_gold": [
+        "Infinity_hat_(gt)"
+    ],
+    "item/minescape/armours/magic/mystichat_gold": [
+        "Mystic_hat_(gt)"
+    ],
+    "item/minescape/armours/magic/spider_hat_gold": [
+        "Spider_silk_hat_(gt)"
+    ],
+    "item/minescape/armours/magic/batwing_hat_trimmed": [
+        "Batwing_hat_(t)"
+    ],
+    "item/minescape/armours/magic/black_hat_trimmed": [
+        "Black_wizard_hat_(t)"
+    ],
+    "item/minescape/armours/magic/blue_hat_trimmed": [
+        "Blue_wizard_hat_(t)"
+    ],
+    "item/minescape/armours/magic/dragonhai_hat_trimmed": [
+        "Dagon'hai_hat_(t)"
+    ],
+    "item/minescape/armours/magic/druid_hat_trimmed": [
+        "Druidic_hat_(t)"
+    ],
+    "item/minescape/armours/magic/infinity_hat_trimmed": [
+        "Infinity_hat_(t)"
+    ],
+    "item/minescape/armours/magic/mystichat_trimmed": [
+        "Mystic_hat_(t)"
+    ],
+    "item/minescape/armours/magic/spider_hat_trimmed": [
+        "Spider_silk_hat_(t)"
+    ],
+    "item/minescape/armours/mithril_helm": [
+        "Mithril_chain_helmet"
+    ],
+    "item/minescape/armours/fullhelm-mithril": [
+        "Mithril_plate_full_helm"
+    ],
+    "item/minescape/armours/ranged/blackdh": [
+        "Black_d'hide_coif"
+    ],
+    "item/minescape/armours/ranged/bluedh": [
+        "Blue_d'hide_coif"
+    ],
+    "item/minescape/armours/gilded-coif": [
+        "Gilded_d'hide_coif"
+    ],
+    "item/minescape/armours/ranged/greendh": [
+        "Green_d'hide_coif"
+    ],
+    "item/minescape/armours/ranged/leather": [
+        "Leather_coif"
+    ],
+    "item/minescape/armours/ranged/reddh": [
+        "Red_d'hide_coif"
+    ],
+    "item/minescape/armours/ranged/snakeskin": [
+        "Snakeskin_bandana"
+    ],
+    "item/minescape/armours/ranged/studded": [
+        "Studded_leather_coif"
+    ],
+    "item/minescape/armours/ranged/whitedh_blessed": [
+        "Armadyl_blessed_d'hide_coif"
+    ],
+    "item/minescape/armours/ranged/graydh_blessed": [
+        "Bandos_blessed_d'hide_coif"
+    ],
+    "item/minescape/armours/ranged/greendh_blessed": [
+        "Guthix_blessed_d'hide_coif"
+    ],
+    "item/minescape/armours/ranged/bluedh_blessed": [
+        "Saradomin_blessed_d'hide_coif"
+    ],
+    "item/minescape/armours/ranged/reddh_blessed": [
+        "Zamorak_blessed_d'hide_coif"
+    ],
+    "item/minescape/armours/ranged/purpledh_blessed": [
+        "Zaros_blessed_d'hide_coif"
+    ],
+    "item/minescape/armours/ranged/blackdh_gold": [
+        "Black_d'hide_coif_(gt)"
+    ],
+    "item/minescape/armours/ranged/bluedh_gold": [
+        "Blue_d'hide_coif_(gt)"
+    ],
+    "item/minescape/armours/ranged/greendh_gold": [
+        "Green_d'hide_coif_(gt)"
+    ],
+    "item/minescape/armours/ranged/leather_gold": [
+        "Leather_coif_(gt)"
+    ],
+    "item/minescape/armours/ranged/reddh_gold": [
+        "Red_d'hide_coif_(gt)"
+    ],
+    "item/minescape/armours/ranged/snakeskin_gold": [
+        "Snakeskin_bandana_(gt)"
+    ],
+    "item/minescape/armours/ranged/studded_gold": [
+        "Studded_leather_coif_(gt)"
+    ],
+    "item/minescape/armours/ranged/blackdh_trimmed": [
+        "Black_d'hide_coif_(t)"
+    ],
+    "item/minescape/armours/ranged/bluedh_trimmed": [
+        "Blue_d'hide_coif_(t)"
+    ],
+    "item/minescape/armours/ranged/greendh_trimmed": [
+        "Green_d'hide_coif_(t)"
+    ],
+    "item/minescape/armours/ranged/leather_trimmed": [
+        "Leather_coif_(t)"
+    ],
+    "item/minescape/armours/ranged/reddh_trimmed": [
+        "Red_d'hide_coif_(t)"
+    ],
+    "item/minescape/armours/ranged/snakeskin_trimmed": [
+        "Snakeskin_bandana_(t)"
+    ],
+    "item/minescape/armours/ranged/studded_trimmed": [
+        "Studded_leather_coif_(t)"
+    ],
+    "item/minescape/armours/rune_helm": [
+        "Rune_chain_helmet"
+    ],
+    "item/minescape/armours/fullhelm-rune": [
+        "Rune_plate_full_helm"
+    ],
+    "item/minescape/cosmetics/hats/sandwich-hat": [
+        "Sandwich_hat"
+    ],
+    "item/minescape/armours/robe-of-darkness-hat": [
+        "Hood_of_darkness"
+    ],
+    "item/minescape/armours/fullhelm-adamant_heraldic": [
+        "Adamant_plate_full_helm_(h)"
+    ],
+    "item/minescape/armours/fullhelm-black_heraldic": [
+        "Black_plate_full_helm_(h)"
+    ],
+    "item/minescape/armours/fullhelm-rune_heraldic": [
+        "Rune_plate_full_helm_(h)"
+    ],
+    "item/player_head": [
+        {
+            "name": "Mummy_head",
+            "texture_overrides": {
+              "head": "minescape/mummy_skin.png"
+            }
+          },
+          "The_head_of_a_monster_(Experiments_-_part1)"
+    ],
+    "item/minescape/armours/royal-crown": [
+        "Royal_crown"
+    ],
+    "item/minescape/armours/samurai-kasa": [
+        "Samurai_kasa"
+    ],
+    "item/minescape/cosmetics/mitres/armadyl": [
+        "Armadyl_mitre"
+    ],
+    "item/minescape/cosmetics/mitres/bandos": [
+        "Bandos_mitre"
+    ],
+    "item/minescape/cosmetics/mitres/guthix": [
+        "Guthix_mitre"
+    ],
+    "item/minescape/cosmetics/mitres/saradomin": [
+        "Saradomin_mitre"
+    ],
+    "item/minescape/cosmetics/mitres/zamorak": [
+        "Zamorak_mitre"
+    ],
+    "item/minescape/cosmetics/mitres/zaros": [
+        "Zaros_mitre"
+    ],
+    "item/minescape/slayer-helm/black-mask": [
+        "Black_mask"
+    ],
+    "item/minescape/slayer-helm/ear-muffs": [
+        "Ear_muffs"
+    ],
+    "item/minescape/slayer-helm/face-mask": [
+        "Face_mask"
+    ],
+    "item/minescape/slayer-helm/nose-peg": [
+        "Nose_peg"
+    ],
+    "item/minescape/slayer-helm/slayer-helmet": [
+        "Slayer_helmet"
+    ],
+    "item/minescape/slayer-helm/spiny-helmet": [
+        "Spiny_helmet"
+    ],
+    "item/minescape/armours/steel_helm": [
+        "Steel_chain_helmet"
+    ],
+    "item/minescape/armours/fullhelm-steel": [
+        "Steel_plate_full_helm"
+    ],
+    "item/minescape/armours/adamant_helm_trimmed": [
+        "Adamant_chain_helmet_(t)"
+    ],
+    "item/minescape/armours/fullhelm-adamant_trimmed": [
+        "Adamant_plate_full_helm_(t)"
+    ],
+    "item/minescape/armours/fullhelm-black_trimmed": [
+        "Black_plate_full_helm_(t)"
+    ],
+    "item/minescape/armours/bronze_helm_trimmed": [
+        "Bronze_chain_helmet_(t)"
+    ],
+    "item/minescape/armours/fullhelm-bronze_trimmed": [
+        "Bronze_plate_full_helm_(t)"
+    ],
+    "item/minescape/armours/iron_helm_trimmed": [
+        "Iron_chain_helmet_(t)"
+    ],
+    "item/minescape/armours/fullhelm-iron_trimmed": [
+        "Iron_plate_full_helm_(t)"
+    ],
+    "item/minescape/armours/mithril_helm_trimmed": [
+        "Mithril_chain_helmet_(t)"
+    ],
+    "item/minescape/armours/fullhelm-mithril_trimmed": [
+        "Mithril_plate_full_helm_(t)"
+    ],
+    "item/minescape/armours/rune_helm_trimmed": [
+        "Rune_chain_helmet_(t)"
+    ],
+    "item/minescape/armours/fullhelm-rune_trimmed": [
+        "Rune_plate_full_helm_(t)"
+    ],
+    "item/minescape/armours/steel_helm_trimmed": [
+        "Steel_chain_helmet_(t)"
+    ],
+    "item/minescape/armours/fullhelm-steel_trimmed": [
+        "Steel_plate_full_helm_(t)"
+    ],
+    "item/minescape/armours/ultimate": [
+        "Ultimate_Ironman_full_helm"
+    ],
+    "item/materials/adamant_bar": [
+        "Adamant_bar"
+    ],
+    "item/materials/bronze_bar": [
+        "Bronze_bar"
+    ],
+    "item/materials/gold_bar": [
+        "Gold_bar"
+    ],
+    "item/materials/iron_bar": [
+        "Iron_bar"
+    ],
+    "item/materials/mithril_bar": [
+        "Mithril_bar"
+    ],
+    "item/materials/rune_bar": [
+        "Rune_bar"
+    ],
+    "item/materials/silver_bar": [
+        "Silver_bar"
+    ],
+    "item/materials/steel_bar": [
+        "Steel_bar"
+    ],
+    "item/minescape/capes/agility": [
+        "99_Agility_cape"
+    ],
+    "item/minescape/capes/attack": [
+        "99_Attack_cape"
+    ],
+    "item/minescape/capes/black": [
+        "Black_cape"
+    ],
+    "item/minescape/capes/3rd-age-cloak": [
+        "3rd_age_ranged_cloak"
+    ],
+    "item/minescape/capes/cloak-wolf": [
+        "Wolf_cloak"
+    ],
+    "item/minescape/capes/constitution": [
+        "99_Constitution_cape"
+    ],
+    "item/minescape/capes/construction": [
+        "99_Construction_cape"
+    ],
+    "item/minescape/capes/cooking": [
+        "99_Cooking_cape"
+    ],
+    "item/minescape/capes/crafting": [
+        "99_Crafting_cape"
+    ],
+    "item/minescape/capes/defence": [
+        "99_Defence_cape"
+    ],
+    "item/minescape/capes/exploration": [
+        "99_Exploration_cape"
+    ],
+    "item/minescape/capes/farming": [
+        "99_Farming_cape"
+    ],
+    "item/minescape/capes/firemaking": [
+        "99_Firemaking_cape"
+    ],
+    "item/minescape/capes/fishing": [
+        "99_Fishing_cape"
+    ],
+    "item/minescape/capes/fletching": [
+        "99_Fletching_cape"
+    ],
+    "item/minescape/capes/herblore": [
+        "99_Herblore_cape"
+    ],
+    "item/minescape/capes/jester": [
+        "Jester_cape"
+    ],
+    "item/minescape/capes/magic": [
+        "99_Magic_cape"
+    ],
+    "item/minescape/capes/max": [
+        "99_skilling_cape"
+    ],
+    "item/minescape/capes/mining": [
+        "99_Mining_cape"
+    ],
+    "item/minescape/capes/prayer": [
+        "99_Prayer_cape"
+    ],
+    "item/minescape/capes/ranged": [
+        "99_Ranged_cape"
+    ],
+    "item/minescape/capes/runecrafting": [
+        "99_Runecrafting_cape"
+    ],
+    "item/minescape/capes/slayer": [
+        "99_Slayer_cape"
+    ],
+    "item/minescape/capes/smithing": [
+        "99_Smithing_cape"
+    ],
+    "item/minescape/capes/strength": [
+        "99_Strength_cape"
+    ],
+    "item/minescape/capes/thieving": [
+        "99_Thieving_cape"
+    ],
+    "item/minescape/capes/vestment-cloak-armadyl": [
+        "Armadyl_cloak"
+    ],
+    "item/minescape/capes/vestment-cloak-bandos": [
+        "Bandos_cloak"
+    ],
+    "item/minescape/capes/vestment-cloak-guthix": [
+        "Guthix_cloak"
+    ],
+    "item/minescape/capes/vestment-cloak-saradomin": [
+        "Saradomin_cloak"
+    ],
+    "item/minescape/capes/vestment-cloak-zamorak": [
+        "Zamorak_cloak"
+    ],
+    "item/minescape/capes/vestment-cloak-zaros": [
+        "Zaros_cloak"
+    ],
+    "item/minescape/capes/woodcutting": [
+        "99_Woodcutting_cape"
+    ],
+    "item/written_book": [
+        "Anagram_Scroll",
+        "Beacon_Scroll",
+        "Chest_Scroll",
+        "Cipher_Scroll"
+    ],
+    "item/minescape/cluescrolls/beginner": [
+        "Clue_Scroll_(beginner)"
+    ],
+    "item/minescape/cluescrolls/caskets/beginner": [
+        "Reward_Casket_(Beginner)"
+    ],
+    "item/minescape/cluescrolls/caskets/easy": [
+        "Reward_Casket_(Easy)"
+    ],
+    "item/minescape/cluescrolls/caskets/elite": [
+        "Reward_Casket_(Elite)"
+    ],
+    "item/minescape/cluescrolls/caskets/hard": [
+        "Reward_Casket_(Hard)"
+    ],
+    "item/minescape/cluescrolls/caskets/master": [
+        "Reward_Casket_(Master)"
+    ],
+    "item/minescape/cluescrolls/caskets/medium": [
+        "Reward_Casket_(Medium)"
+    ],
+    "item/minescape/cluescrolls/easy": [
+        "Clue_Scroll_(easy)"
+    ],
+    "item/minescape/cluescrolls/elite": [
+        "Clue_Scroll_(elite)"
+    ],
+    "item/minescape/cluescrolls/hard": [
+        "Clue_Scroll_(hard)"
+    ],
+    "item/minescape/cluescrolls/light-boxes/icon": [
+        "Light_Box"
+    ],
+    "item/map": [
+        "Map_Scroll"
+    ],
+    "item/minescape/cluescrolls/master": [
+        "Clue_Scroll_(master)"
+    ],
+    "item/minescape/cluescrolls/medium": [
+        "Clue_Scroll_(medium)"
+    ],
+    "item/minescape/cluescrolls/puzzle-boxes/icon": [
+        "Puzzle_Box_(five)",
+        "Puzzle_Box_(four)",
+        "Puzzle_Box_(one)",
+        "Puzzle_Box_(three)",
+        "Puzzle_Box_(two)"
+    ],
+    "item/minescape/cluescrolls/strange-device": [
+        "Strange_Device"
+    ],
+    "item/andesite": [
+        "Andesite",
+        "Andesite_BROKEN"
+    ],
+    "item/bedrock": [
+        "Bedrock",
+        "Bedrock_BROKEN"
+    ],
+    "item/bricks": [
+        "Bricks",
+        "Bricks_BROKEN"
+    ],
+    "item/coarse_dirt": [
+        "Coarse_dirt",
+        "Coarse_dirt_BROKEN"
+    ],
+    "item/cobblestone": [
+        "Cobblestone",
+        "Cobblestone_BROKEN"
+    ],
+    "item/dark_prismarine": [
+        "Dark_prismarine",
+        "Dark_prismarine_BROKEN"
+    ],
+    "item/diorite": [
+        "Diorite",
+        "Diorite_BROKEN"
+    ],
+    "item/dirt": [
+        "Dirt",
+        "Dirt_BROKEN"
+    ],
+    "item/glass": [
+        "Glass",
+        "Glass",
+        "Glass_BROKEN"
+    ],
+    "item/granite": [
+        "Granite",
+        "Granite_BROKEN"
+    ],
+    "item/grass_block": [
+        "Grass",
+        "Grass_BROKEN"
+    ],
+    "item/podzol": [
+        "Podzol",
+        "Podzol_BROKEN"
+    ],
+    "item/polished_andesite": [
+        "Polished_Andesite",
+        "Polished_Andesite_BROKEN"
+    ],
+    "item/polished_andesite_slab": [
+        "Polished_Andesite_Slab",
+        "Polished_Andesite_Slab_BROKEN"
+    ],
+    "item/polished_andesite_stairs": [
+        "Polished_Andesite_Stairs",
+        "Polished_Andesite_Stairs_BROKEN"
+    ],
+    "item/polished_diorite": [
+        "Polished_Diorite",
+        "Polished_Diorite_BROKEN"
+    ],
+    "item/polished_diorite_slab": [
+        "Polished_Diorite_Slab",
+        "Polished_Diorite_Slab_BROKEN"
+    ],
+    "item/polished_diorite_stairs": [
+        "Polished_Diorite_Stairs",
+        "Polished_Diorite_Stairs_BROKEN"
+    ],
+    "item/polished_granite": [
+        "Polished_Granite",
+        "Polished_Granite_BROKEN"
+    ],
+    "item/polished_granite_slab": [
+        "Polished_Granite_Slab",
+        "Polished_Granite_Slab_BROKEN"
+    ],
+    "item/polished_granite_stairs": [
+        "Polished_Granite_Stairs",
+        "Polished_Granite_Stairs_BROKEN"
+    ],
+    "item/prismarine": [
+        "Prismarine",
+        "Prismarine_BROKEN"
+    ],
+    "item/prismarine_bricks": [
+        "Prismarine_bricks",
+        "Prismarine_bricks_BROKEN"
+    ],
+    "item/purpur_block": [
+        "Purpur_block",
+        "Purpur_block_BROKEN"
+    ],
+    "item/purpur_pillar": [
+        "Purpur_pillar",
+        "Purpur_pillar_BROKEN"
+    ],
+    "item/red_sandstone": [
+        "Red_sandstone",
+        "Red_sandstone_BROKEN"
+    ],
+    "item/sand": [
+        "Sand",
+        "Sand_BROKEN"
+    ],
+    "item/sandstone": [
+        "Sandstone",
+        "Sandstone_BROKEN"
+    ],
+    "item/stone": [
+        "Stone",
+        "Stone_BROKEN"
+    ],
+    "item/stone_bricks": [
+        "Stone_brick",
+        "Stone_brick_BROKEN"
+    ],
+    "item/black_carpet": [
+        "Black_Carpet",
+        "Black_Carpet_BROKEN"
+    ],
+    "item/black_concrete": [
+        "Black_Concrete",
+        "Black_Concrete_BROKEN"
+    ],
+    "item/black_concrete_powder": [
+        "Black_Concrete_powder",
+        "Black_Concrete_powder_BROKEN"
+    ],
+    "item/black_glazed_terracotta": [
+        "Black_Glazed_terracotta",
+        "Black_Glazed_terracotta_BROKEN"
+    ],
+    "item/black_stained_glass": [
+        "Black_Stained_glass",
+        "Black_Stained_glass_BROKEN"
+    ],
+    "item/black_stained_glass_pane": [
+        "Black_Stained_glass_pane",
+        "Black_Stained_glass_pane_BROKEN"
+    ],
+    "item/black_terracotta": [
+        "Black_Hardened_clay",
+        "Black_Hardened_clay_BROKEN"
+    ],
+    "item/black_wool": [
+        "Black_Wool",
+        "Black_Wool_BROKEN"
+    ],
+    "item/blue_carpet": [
+        "Blue_Carpet",
+        "Blue_Carpet_BROKEN"
+    ],
+    "item/blue_concrete": [
+        "Blue_Concrete",
+        "Blue_Concrete_BROKEN"
+    ],
+    "item/blue_concrete_powder": [
+        "Blue_Concrete_powder",
+        "Blue_Concrete_powder_BROKEN"
+    ],
+    "item/blue_glazed_terracotta": [
+        "Blue_Glazed_terracotta",
+        "Blue_Glazed_terracotta_BROKEN"
+    ],
+    "item/blue_stained_glass": [
+        "Blue_Stained_glass",
+        "Blue_Stained_glass_BROKEN"
+    ],
+    "item/blue_stained_glass_pane": [
+        "Blue_Stained_glass_pane",
+        "Blue_Stained_glass_pane_BROKEN"
+    ],
+    "item/blue_terracotta": [
+        "Blue_Hardened_clay",
+        "Blue_Hardened_clay_BROKEN"
+    ],
+    "item/blue_wool": [
+        "Blue_Wool",
+        "Blue_Wool_BROKEN"
+    ],
+    "item/brown_carpet": [
+        "Brown_Carpet",
+        "Brown_Carpet_BROKEN"
+    ],
+    "item/brown_concrete": [
+        "Brown_Concrete",
+        "Brown_Concrete_BROKEN"
+    ],
+    "item/brown_concrete_powder": [
+        "Brown_Concrete_powder",
+        "Brown_Concrete_powder_BROKEN"
+    ],
+    "item/brown_glazed_terracotta": [
+        "Brown_Glazed_terracotta",
+        "Brown_Glazed_terracotta_BROKEN"
+    ],
+    "item/brown_stained_glass": [
+        "Brown_Stained_glass",
+        "Brown_Stained_glass_BROKEN"
+    ],
+    "item/brown_stained_glass_pane": [
+        "Brown_Stained_glass_pane",
+        "Brown_Stained_glass_pane_BROKEN"
+    ],
+    "item/brown_terracotta": [
+        "Brown_Hardened_clay",
+        "Brown_Hardened_clay_BROKEN"
+    ],
+    "item/brown_wool": [
+        "Brown_Wool",
+        "Brown_Wool_BROKEN"
+    ],
+    "item/cyan_carpet": [
+        "Cyan_Carpet",
+        "Cyan_Carpet_BROKEN"
+    ],
+    "item/cyan_concrete": [
+        "Cyan_Concrete",
+        "Cyan_Concrete_BROKEN"
+    ],
+    "item/cyan_concrete_powder": [
+        "Cyan_Concrete_powder",
+        "Cyan_Concrete_powder_BROKEN"
+    ],
+    "item/cyan_glazed_terracotta": [
+        "Cyan_Glazed_terracotta",
+        "Cyan_Glazed_terracotta_BROKEN"
+    ],
+    "item/cyan_stained_glass": [
+        "Cyan_Stained_glass",
+        "Cyan_Stained_glass_BROKEN"
+    ],
+    "item/cyan_stained_glass_pane": [
+        "Cyan_Stained_glass_pane",
+        "Cyan_Stained_glass_pane_BROKEN"
+    ],
+    "item/cyan_terracotta": [
+        "Cyan_Hardened_clay",
+        "Cyan_Hardened_clay_BROKEN"
+    ],
+    "item/cyan_wool": [
+        "Cyan_Wool",
+        "Cyan_Wool_BROKEN"
+    ],
+    "item/gray_carpet": [
+        "Gray_Carpet",
+        "Gray_Carpet_BROKEN"
+    ],
+    "item/gray_concrete": [
+        "Gray_Concrete",
+        "Gray_Concrete_BROKEN"
+    ],
+    "item/gray_concrete_powder": [
+        "Gray_Concrete_powder",
+        "Gray_Concrete_powder_BROKEN"
+    ],
+    "item/gray_glazed_terracotta": [
+        "Gray_Glazed_terracotta",
+        "Gray_Glazed_terracotta_BROKEN"
+    ],
+    "item/gray_stained_glass": [
+        "Gray_Stained_glass",
+        "Gray_Stained_glass_BROKEN"
+    ],
+    "item/gray_stained_glass_pane": [
+        "Gray_Stained_glass_pane",
+        "Gray_Stained_glass_pane_BROKEN"
+    ],
+    "item/gray_terracotta": [
+        "Gray_Hardened_clay",
+        "Gray_Hardened_clay_BROKEN"
+    ],
+    "item/gray_wool": [
+        "Gray_Wool",
+        "Gray_Wool_BROKEN"
+    ],
+    "item/green_carpet": [
+        "Green_Carpet",
+        "Green_Carpet_BROKEN"
+    ],
+    "item/green_concrete": [
+        "Green_Concrete",
+        "Green_Concrete_BROKEN"
+    ],
+    "item/green_concrete_powder": [
+        "Green_Concrete_powder",
+        "Green_Concrete_powder_BROKEN"
+    ],
+    "item/green_glazed_terracotta": [
+        "Green_Glazed_terracotta",
+        "Green_Glazed_terracotta_BROKEN"
+    ],
+    "item/green_stained_glass": [
+        "Green_Stained_glass",
+        "Green_Stained_glass_BROKEN"
+    ],
+    "item/green_stained_glass_pane": [
+        "Green_Stained_glass_pane",
+        "Green_Stained_glass_pane_BROKEN"
+    ],
+    "item/green_terracotta": [
+        "Green_Hardened_clay",
+        "Green_Hardened_clay_BROKEN"
+    ],
+    "item/green_wool": [
+        "Green_Wool",
+        "Green_Wool_BROKEN"
+    ],
+    "item/light_blue_carpet": [
+        "Light_blue_Carpet",
+        "Light_blue_Carpet_BROKEN"
+    ],
+    "item/light_blue_concrete": [
+        "Light_blue_Concrete",
+        "Light_blue_Concrete_BROKEN"
+    ],
+    "item/light_blue_concrete_powder": [
+        "Light_blue_Concrete_powder",
+        "Light_blue_Concrete_powder_BROKEN"
+    ],
+    "item/light_blue_glazed_terracotta": [
+        "Light_blue_Glazed_terracotta",
+        "Light_blue_Glazed_terracotta_BROKEN"
+    ],
+    "item/light_blue_stained_glass": [
+        "Light_blue_Stained_glass",
+        "Light_blue_Stained_glass_BROKEN"
+    ],
+    "item/light_blue_stained_glass_pane": [
+        "Light_blue_Stained_glass_pane",
+        "Light_blue_Stained_glass_pane_BROKEN"
+    ],
+    "item/light_blue_terracotta": [
+        "Light_blue_Hardened_clay",
+        "Light_blue_Hardened_clay_BROKEN"
+    ],
+    "item/light_blue_wool": [
+        "Light_blue_Wool",
+        "Light_blue_Wool_BROKEN"
+    ],
+    "item/light_gray_carpet": [
+        "Light_gray_Carpet",
+        "Light_gray_Carpet_BROKEN"
+    ],
+    "item/light_gray_concrete": [
+        "Light_gray_Concrete",
+        "Light_gray_Concrete_BROKEN"
+    ],
+    "item/light_gray_concrete_powder": [
+        "Light_gray_Concrete_powder",
+        "Light_gray_Concrete_powder_BROKEN"
+    ],
+    "item/light_gray_glazed_terracotta": [
+        "Light_gray_Glazed_terracotta",
+        "Light_gray_Glazed_terracotta_BROKEN"
+    ],
+    "item/light_gray_stained_glass": [
+        "Light_gray_Stained_glass",
+        "Light_gray_Stained_glass_BROKEN"
+    ],
+    "item/light_gray_stained_glass_pane": [
+        "Light_gray_Stained_glass_pane",
+        "Light_gray_Stained_glass_pane_BROKEN"
+    ],
+    "item/light_gray_terracotta": [
+        "Light_gray_Hardened_clay",
+        "Light_gray_Hardened_clay_BROKEN"
+    ],
+    "item/light_gray_wool": [
+        "Light_gray_Wool",
+        "Light_gray_Wool_BROKEN"
+    ],
+    "item/lime_carpet": [
+        "Lime_Carpet",
+        "Lime_Carpet_BROKEN"
+    ],
+    "item/lime_concrete": [
+        "Lime_Concrete",
+        "Lime_Concrete_BROKEN"
+    ],
+    "item/lime_concrete_powder": [
+        "Lime_Concrete_powder",
+        "Lime_Concrete_powder_BROKEN"
+    ],
+    "item/lime_glazed_terracotta": [
+        "Lime_Glazed_terracotta",
+        "Lime_Glazed_terracotta_BROKEN"
+    ],
+    "item/lime_stained_glass": [
+        "Lime_Stained_glass",
+        "Lime_Stained_glass_BROKEN"
+    ],
+    "item/lime_stained_glass_pane": [
+        "Lime_Stained_glass_pane",
+        "Lime_Stained_glass_pane_BROKEN"
+    ],
+    "item/lime_terracotta": [
+        "Lime_Hardened_clay",
+        "Lime_Hardened_clay_BROKEN"
+    ],
+    "item/lime_wool": [
+        "Lime_Wool",
+        "Lime_Wool_BROKEN"
+    ],
+    "item/magenta_carpet": [
+        "Magenta_Carpet",
+        "Magenta_Carpet_BROKEN"
+    ],
+    "item/magenta_concrete": [
+        "Magenta_Concrete",
+        "Magenta_Concrete_BROKEN"
+    ],
+    "item/magenta_concrete_powder": [
+        "Magenta_Concrete_powder",
+        "Magenta_Concrete_powder_BROKEN"
+    ],
+    "item/magenta_glazed_terracotta": [
+        "Magenta_Glazed_terracotta",
+        "Magenta_Glazed_terracotta_BROKEN"
+    ],
+    "item/magenta_stained_glass": [
+        "Magenta_Stained_glass",
+        "Magenta_Stained_glass_BROKEN"
+    ],
+    "item/magenta_stained_glass_pane": [
+        "Magenta_Stained_glass_pane",
+        "Magenta_Stained_glass_pane_BROKEN"
+    ],
+    "item/magenta_terracotta": [
+        "Magenta_Hardened_clay",
+        "Magenta_Hardened_clay_BROKEN"
+    ],
+    "item/magenta_wool": [
+        "Magenta_Wool",
+        "Magenta_Wool_BROKEN"
+    ],
+    "item/orange_carpet": [
+        "Orange_Carpet",
+        "Orange_Carpet_BROKEN"
+    ],
+    "item/orange_concrete": [
+        "Orange_Concrete",
+        "Orange_Concrete_BROKEN"
+    ],
+    "item/orange_concrete_powder": [
+        "Orange_Concrete_powder",
+        "Orange_Concrete_powder_BROKEN"
+    ],
+    "item/orange_glazed_terracotta": [
+        "Orange_Glazed_terracotta",
+        "Orange_Glazed_terracotta_BROKEN"
+    ],
+    "item/orange_stained_glass": [
+        "Orange_Stained_glass",
+        "Orange_Stained_glass_BROKEN"
+    ],
+    "item/orange_stained_glass_pane": [
+        "Orange_Stained_glass_pane",
+        "Orange_Stained_glass_pane_BROKEN"
+    ],
+    "item/orange_terracotta": [
+        "Orange_Hardened_clay",
+        "Orange_Hardened_clay_BROKEN"
+    ],
+    "item/orange_wool": [
+        "Orange_Wool",
+        "Orange_Wool_BROKEN"
+    ],
+    "item/pink_carpet": [
+        "Pink_Carpet",
+        "Pink_Carpet_BROKEN"
+    ],
+    "item/pink_concrete": [
+        "Pink_Concrete",
+        "Pink_Concrete_BROKEN"
+    ],
+    "item/pink_concrete_powder": [
+        "Pink_Concrete_powder",
+        "Pink_Concrete_powder_BROKEN"
+    ],
+    "item/pink_glazed_terracotta": [
+        "Pink_Glazed_terracotta",
+        "Pink_Glazed_terracotta_BROKEN"
+    ],
+    "item/pink_stained_glass": [
+        "Pink_Stained_glass",
+        "Pink_Stained_glass_BROKEN"
+    ],
+    "item/pink_stained_glass_pane": [
+        "Pink_Stained_glass_pane",
+        "Pink_Stained_glass_pane_BROKEN"
+    ],
+    "item/pink_terracotta": [
+        "Pink_Hardened_clay",
+        "Pink_Hardened_clay_BROKEN"
+    ],
+    "item/pink_wool": [
+        "Pink_Wool",
+        "Pink_Wool_BROKEN"
+    ],
+    "item/purple_carpet": [
+        "Purple_Carpet",
+        "Purple_Carpet_BROKEN"
+    ],
+    "item/purple_concrete": [
+        "Purple_Concrete",
+        "Purple_Concrete_BROKEN"
+    ],
+    "item/purple_concrete_powder": [
+        "Purple_Concrete_powder",
+        "Purple_Concrete_powder_BROKEN"
+    ],
+    "item/purple_glazed_terracotta": [
+        "Purple_Glazed_terracotta",
+        "Purple_Glazed_terracotta_BROKEN"
+    ],
+    "item/purple_stained_glass": [
+        "Purple_Stained_glass",
+        "Purple_Stained_glass_BROKEN"
+    ],
+    "item/purple_stained_glass_pane": [
+        "Purple_Stained_glass_pane",
+        "Purple_Stained_glass_pane_BROKEN"
+    ],
+    "item/purple_terracotta": [
+        "Purple_Hardened_clay",
+        "Purple_Hardened_clay_BROKEN"
+    ],
+    "item/purple_wool": [
+        "Purple_Wool",
+        "Purple_Wool_BROKEN"
+    ],
+    "item/red_carpet": [
+        "Red_Carpet",
+        "Red_Carpet_BROKEN"
+    ],
+    "item/red_concrete": [
+        "Red_Concrete",
+        "Red_Concrete_BROKEN"
+    ],
+    "item/red_concrete_powder": [
+        "Red_Concrete_powder",
+        "Red_Concrete_powder_BROKEN"
+    ],
+    "item/red_glazed_terracotta": [
+        "Red_Glazed_terracotta",
+        "Red_Glazed_terracotta_BROKEN"
+    ],
+    "item/red_stained_glass": [
+        "Red_Stained_glass",
+        "Red_Stained_glass_BROKEN"
+    ],
+    "item/red_stained_glass_pane": [
+        "Red_Stained_glass_pane",
+        "Red_Stained_glass_pane_BROKEN"
+    ],
+    "item/red_terracotta": [
+        "Red_Hardened_clay",
+        "Red_Hardened_clay_BROKEN"
+    ],
+    "item/red_wool": [
+        "Red_Wool",
+        "Red_Wool_BROKEN"
+    ],
+    "item/white_carpet": [
+        "White_Carpet",
+        "White_Carpet_BROKEN"
+    ],
+    "item/white_concrete": [
+        "White_Concrete",
+        "White_Concrete_BROKEN"
+    ],
+    "item/white_concrete_powder": [
+        "White_Concrete_powder",
+        "White_Concrete_powder_BROKEN"
+    ],
+    "item/white_glazed_terracotta": [
+        "White_Glazed_terracotta",
+        "White_Glazed_terracotta_BROKEN"
+    ],
+    "item/white_stained_glass": [
+        "White_Stained_glass",
+        "White_Stained_glass_BROKEN"
+    ],
+    "item/white_stained_glass_pane": [
+        "White_Stained_glass_pane",
+        "White_Stained_glass_pane_BROKEN"
+    ],
+    "item/white_terracotta": [
+        "White_Hardened_clay",
+        "White_Hardened_clay_BROKEN"
+    ],
+    "item/white_wool": [
+        "White_Wool",
+        "White_Wool_BROKEN"
+    ],
+    "item/yellow_carpet": [
+        "Yellow_Carpet",
+        "Yellow_Carpet_BROKEN"
+    ],
+    "item/yellow_concrete": [
+        "Yellow_Concrete",
+        "Yellow_Concrete_BROKEN"
+    ],
+    "item/yellow_concrete_powder": [
+        "Yellow_Concrete_powder",
+        "Yellow_Concrete_powder_BROKEN"
+    ],
+    "item/yellow_glazed_terracotta": [
+        "Yellow_Glazed_terracotta",
+        "Yellow_Glazed_terracotta_BROKEN"
+    ],
+    "item/yellow_stained_glass": [
+        "Yellow_Stained_glass",
+        "Yellow_Stained_glass_BROKEN"
+    ],
+    "item/yellow_stained_glass_pane": [
+        "Yellow_Stained_glass_pane",
+        "Yellow_Stained_glass_pane_BROKEN"
+    ],
+    "item/yellow_terracotta": [
+        "Yellow_Hardened_clay",
+        "Yellow_Hardened_clay_BROKEN"
+    ],
+    "item/yellow_wool": [
+        "Yellow_Wool",
+        "Yellow_Wool_BROKEN"
+    ],
+    "item/barrel": [
+        "Barrel",
+        "Barrel_BROKEN"
+    ],
+    "item/black_shulker_box": [
+        "Black_Shulker_box",
+        "Black_Shulker_box_BROKEN"
+    ],
+    "item/blue_shulker_box": [
+        "Blue_Shulker_box",
+        "Blue_Shulker_box_BROKEN"
+    ],
+    "item/brown_shulker_box": [
+        "Brown_Shulker_box",
+        "Brown_Shulker_box_BROKEN"
+    ],
+    "item/cyan_shulker_box": [
+        "Cyan_Shulker_box",
+        "Cyan_Shulker_box_BROKEN"
+    ],
+    "item/diamond_block": [
+        "Diamond_Block",
+        "Diamond_Block_BROKEN"
+    ],
+    "item/emerald_block": [
+        "Emerald_Block",
+        "Emerald_Block_BROKEN"
+    ],
+    "item/glass_pane": [
+        "Glass_pane",
+        "Glass_pane_BROKEN"
+    ],
+    "item/gold_block": [
+        "Gold_Block",
+        "Gold_Block_BROKEN"
+    ],
+    "item/gray_shulker_box": [
+        "Gray_Shulker_box",
+        "Gray_Shulker_box_BROKEN"
+    ],
+    "item/green_shulker_box": [
+        "Green_Shulker_box",
+        "Green_Shulker_box_BROKEN"
+    ],
+    "item/iron_bars": [
+        "Iron_Bars",
+        "Iron_Bars_BROKEN"
+    ],
+    "item/iron_block": [
+        "Iron_Block",
+        "Iron_Block_BROKEN"
+    ],
+    "item/ladder": [
+        "Ladder",
+        "Ladder_BROKEN"
+    ],
+    "item/light_blue_shulker_box": [
+        "Light_blue_Shulker_box",
+        "Light_blue_Shulker_box_BROKEN"
+    ],
+    "item/light_gray_shulker_box": [
+        "Light_gray_Shulker_box",
+        "Light_gray_Shulker_box_BROKEN"
+    ],
+    "item/lime_shulker_box": [
+        "Lime_Shulker_box",
+        "Lime_Shulker_box_BROKEN"
+    ],
+    "item/magenta_shulker_box": [
+        "Magenta_Shulker_box",
+        "Magenta_Shulker_box_BROKEN"
+    ],
+    "item/orange_shulker_box": [
+        "Orange_Shulker_box",
+        "Orange_Shulker_box_BROKEN"
+    ],
+    "item/pink_shulker_box": [
+        "Pink_Shulker_box",
+        "Pink_Shulker_box_BROKEN"
+    ],
+    "item/purple_shulker_box": [
+        "Purple_Shulker_box",
+        "Purple_Shulker_box_BROKEN"
+    ],
+    "item/red_shulker_box": [
+        "Red_Shulker_box",
+        "Red_Shulker_box_BROKEN"
+    ],
+    "item/redstone_block": [
+        "Box",
+        "Box_BROKEN"
+    ],
+    "item/redstone_torch": [
+        "Candle",
+        "Candle_BROKEN"
+    ],
+    "item/sea_lantern": [
+        "Sea_lantern",
+        "Sea_lantern_BROKEN"
+    ],
+    "item/torch": [
+        "Torch",
+        "Torch_BROKEN"
+    ],
+    "item/white_shulker_box": [
+        "White_Shulker_box",
+        "White_Shulker_box_BROKEN"
+    ],
+    "item/yellow_shulker_box": [
+        "Yellow_Shulker_box",
+        "Yellow_Shulker_box_BROKEN"
+    ],
+    "item/acacia_door": [
+        "Acacia_door",
+        "Acacia_door_BROKEN"
+    ],
+    "item/acacia_trapdoor": [
+        "Acacia_trapdoor",
+        "Acacia_trapdoor_BROKEN"
+    ],
+    "item/birch_door": [
+        "Birch_door",
+        "Birch_door_BROKEN"
+    ],
+    "item/birch_trapdoor": [
+        "Birch_trapdoor",
+        "Birch_trapdoor_BROKEN"
+    ],
+    "item/dark_oak_door": [
+        "Dark_oak_door",
+        "Dark_oak_door_BROKEN"
+    ],
+    "item/dark_oak_trapdoor": [
+        "Dark_oak_trapdoor",
+        "Dark_oak_trapdoor_BROKEN"
+    ],
+    "item/jungle_door": [
+        "Jungle_door",
+        "Jungle_door_BROKEN"
+    ],
+    "item/jungle_trapdoor": [
+        "Jungle_trapdoor",
+        "Jungle_trapdoor_BROKEN"
+    ],
+    "item/oak_door": [
+        "Oak_door",
+        "Oak_door_BROKEN"
+    ],
+    "item/oak_trapdoor": [
+        "Oak_trapdoor",
+        "Oak_trapdoor_BROKEN"
+    ],
+    "item/spruce_door": [
+        "Spruce_door",
+        "Spruce_door_BROKEN"
+    ],
+    "item/spruce_trapdoor": [
+        "Spruce_trapdoor",
+        "Spruce_trapdoor_BROKEN"
+    ],
+    "item/acacia_fence": [
+        "Acacia_fences",
+        "Acacia_fences_BROKEN"
+    ],
+    "item/acacia_fence_gate": [
+        "Acacia_fence_gate",
+        "Acacia_fence_gate_BROKEN"
+    ],
+    "item/birch_fence": [
+        "Birch_fences",
+        "Birch_fences_BROKEN"
+    ],
+    "item/birch_fence_gate": [
+        "Birch_fence_gate",
+        "Birch_fence_gate_BROKEN"
+    ],
+    "item/dark_oak_fence": [
+        "Dark_oak_fences",
+        "Dark_oak_fences_BROKEN"
+    ],
+    "item/dark_oak_fence_gate": [
+        "Dark_oak_fence_gate",
+        "Dark_oak_fence_gate_BROKEN"
+    ],
+    "item/jungle_fence": [
+        "Jungle_fences",
+        "Jungle_fences_BROKEN"
+    ],
+    "item/jungle_fence_gate": [
+        "Jungle_fence_gate",
+        "Jungle_fence_gate_BROKEN"
+    ],
+    "item/oak_fence": [
+        "Oak_fences",
+        "Oak_fences_BROKEN"
+    ],
+    "item/oak_fence_gate": [
+        "Oak_fence_gate",
+        "Oak_fence_gate_BROKEN"
+    ],
+    "item/spruce_fence": [
+        "Spruce_fences",
+        "Spruce_fences_BROKEN"
+    ],
+    "item/spruce_fence_gate": [
+        "Spruce_fence_gate",
+        "Spruce_fence_gate_BROKEN"
+    ],
+    "item/carved_pumpkin": [
+        "Carved_Pumpkin",
+        "Carved_Pumpkin_BROKEN"
+    ],
+    "item/jack_o_lantern": [
+        "Jack_o'Lantern",
+        "Jack_o'Lantern_BROKEN"
+    ],
+    "item/netherrack": [
+        "Netherrack",
+        "Netherrack_BROKEN"
+    ],
+    "item/obsidian": [
+        "Obsidian",
+        "Obsidian_BROKEN"
+    ],
+    "item/pumpkin": [
+        "Pumpkin",
+        "Pumpkin_BROKEN"
+    ],
+    "item/skeleton_skull": [
+        {
+            "name": "Skull",
+            "texture_overrides": {
+              "head": "minescape/skeleton.png"
+            }
+          },
+          {
+            "name": "Skull_BROKEN",
+            "texture_overrides": {
+              "head": "minescape/skeleton.png"
+            }
+          }
+    ],
+    "item/soul_sand": [
+        "Soul_Sand",
+        "Soul_Sand_BROKEN"
+    ],
+    "item/wither_skeleton_skull": [
+        {
+            "name": "Wither_Skull",
+            "texture_overrides": {
+              "head": "minescape/wither_skeleton.png"
+            }
+          },
+          {
+            "name": "Wither_Skull_BROKEN",
+            "texture_overrides": {
+              "head": "minescape/wither_skeleton.png"
+            }
+          }
+    ],
+    "item/zombie_head": [
+        "Zombie_Head",
+        "Zombie_Head_BROKEN",
+        "Zombie_mask"
+    ],
+    "item/acacia_leaves": [
+        "Acacia_leaves",
+        "Acacia_leaves_BROKEN"
+    ],
+    "item/birch_leaves": [
+        "Birch_leaves",
+        "Birch_leaves_BROKEN"
+    ],
+    "item/dark_oak_leaves": [
+        "Dark_oak_leaves",
+        "Dark_oak_leaves_BROKEN"
+    ],
+    "item/jungle_leaves": [
+        "Jungle_leaves",
+        "Jungle_leaves_BROKEN"
+    ],
+    "item/oak_leaves": [
+        "Oak_leaves",
+        "Oak_leaves_BROKEN"
+    ],
+    "item/spruce_leaves": [
+        "Spruce_leaves",
+        "Spruce_leaves_BROKEN"
+    ],
+    "item/acacia_wood": [
+        "Acacia_log",
+        "Acacia_log_BROKEN"
+    ],
+    "item/birch_wood": [
+        "Birch_log",
+        "Birch_log_BROKEN"
+    ],
+    "item/dark_oak_wood": [
+        "Dark_oak_log",
+        "Dark_oak_log_BROKEN"
+    ],
+    "item/jungle_wood": [
+        "Jungle_log",
+        "Jungle_log_BROKEN"
+    ],
+    "item/oak_wood": [
+        "Oak_log",
+        "Oak_log_BROKEN"
+    ],
+    "item/spruce_wood": [
+        "Spruce_log",
+        "Spruce_log_BROKEN"
+    ],
+    "item/acacia_planks": [
+        "Acacia_plank",
+        "Acacia_plank_BROKEN"
+    ],
+    "item/birch_planks": [
+        "Birch_plank",
+        "Birch_plank_BROKEN"
+    ],
+    "item/dark_oak_planks": [
+        "Dark_oak_plank",
+        "Dark_oak_plank_BROKEN"
+    ],
+    "item/jungle_planks": [
+        "Jungle_plank",
+        "Jungle_plank_BROKEN"
+    ],
+    "item/oak_planks": [
+        "Oak_plank",
+        "Oak_plank_BROKEN"
+    ],
+    "item/spruce_planks": [
+        "Spruce_plank",
+        "Spruce_plank_BROKEN"
+    ],
+    "item/acacia_slab": [
+        "Acacia_slab",
+        "Acacia_slab_BROKEN"
+    ],
+    "item/andesite_slab": [
+        "Andesite_slab",
+        "Andesite_slab_BROKEN"
+    ],
+    "item/birch_slab": [
+        "Birch_slab",
+        "Birch_slab_BROKEN"
+    ],
+    "item/brick_slab": [
+        "Brick_slab",
+        "Brick_slab_BROKEN"
+    ],
+    "item/cobblestone_slab": [
+        "Cobblestone_slab",
+        "Cobblestone_slab_BROKEN"
+    ],
+    "item/dark_oak_slab": [
+        "Dark_oak_slab",
+        "Dark_oak_slab_BROKEN"
+    ],
+    "item/dark_prismarine_slab": [
+        "Dark_prismarine_slab",
+        "Dark_prismarine_slab_BROKEN"
+    ],
+    "item/diorite_slab": [
+        "Diorite_slab",
+        "Diorite_slab_BROKEN"
+    ],
+    "item/granite_slab": [
+        "Granite_slab",
+        "Granite_slab_BROKEN"
+    ],
+    "item/jungle_slab": [
+        "Jungle_slab",
+        "Jungle_slab_BROKEN"
+    ],
+    "item/oak_slab": [
+        "Oak_slab",
+        "Oak_slab_BROKEN"
+    ],
+    "item/prismarine_brick_slab": [
+        "Prismarine_brick_slab",
+        "Prismarine_brick_slab_BROKEN"
+    ],
+    "item/prismarine_slab": [
+        "Prismarine_slab",
+        "Prismarine_slab_BROKEN"
+    ],
+    "item/purpur_slab": [
+        "Purpur_slab",
+        "Purpur_slab_BROKEN"
+    ],
+    "item/red_sandstone_slab": [
+        "Red_sandstone_slab",
+        "Red_sandstone_slab_BROKEN"
+    ],
+    "item/sandstone_slab": [
+        "Sandstone_slab",
+        "Sandstone_slab_BROKEN"
+    ],
+    "item/spruce_slab": [
+        "Spruce_slab",
+        "Spruce_slab_BROKEN"
+    ],
+    "item/stone_brick_slab": [
+        "Stone_brick_slab",
+        "Stone_brick_slab_BROKEN"
+    ],
+    "item/stone_slab": [
+        "Stone_slab",
+        "Stone_slab_BROKEN"
+    ],
+    "item/acacia_stairs": [
+        "Acacia_stairs",
+        "Acacia_stairs_BROKEN"
+    ],
+    "item/andesite_stairs": [
+        "Andesite_stairs",
+        "Andesite_stairs_BROKEN"
+    ],
+    "item/birch_stairs": [
+        "Birch_stairs",
+        "Birch_stairs_BROKEN"
+    ],
+    "item/brick_stairs": [
+        "Brick_stairs",
+        "Brick_stairs_BROKEN"
+    ],
+    "item/cobblestone_stairs": [
+        "Cobblestone_stairs",
+        "Cobblestone_stairs_BROKEN"
+    ],
+    "item/dark_oak_stairs": [
+        "Dark_oak_stairs",
+        "Dark_oak_stairs_BROKEN"
+    ],
+    "item/dark_prismarine_stairs": [
+        "Dark_prismarine_stairs",
+        "Dark_prismarine_stairs_BROKEN"
+    ],
+    "item/diorite_stairs": [
+        "Diorite_stairs",
+        "Diorite_stairs_BROKEN"
+    ],
+    "item/granite_stairs": [
+        "Granite_stairs",
+        "Granite_stairs_BROKEN"
+    ],
+    "item/jungle_stairs": [
+        "Jungle_stairs",
+        "Jungle_stairs_BROKEN"
+    ],
+    "item/oak_stairs": [
+        "Oak_stairs",
+        "Oak_stairs_BROKEN"
+    ],
+    "item/prismarine_brick_stairs": [
+        "Prismarine_brick_stairs",
+        "Prismarine_brick_stairs_BROKEN"
+    ],
+    "item/prismarine_stairs": [
+        "Prismarine_stairs",
+        "Prismarine_stairs_BROKEN"
+    ],
+    "item/purpur_stairs": [
+        "Purpur_stairs",
+        "Purpur_stairs_BROKEN"
+    ],
+    "item/red_sandstone_stairs": [
+        "Red_sandstone_stairs",
+        "Red_sandstone_stairs_BROKEN"
+    ],
+    "item/sandstone_stairs": [
+        "Sandstone_stairs",
+        "Sandstone_stairs_BROKEN"
+    ],
+    "item/spruce_stairs": [
+        "Spruce_stairs",
+        "Spruce_stairs_BROKEN"
+    ],
+    "item/stone_brick_stairs": [
+        "Stone_brick_stairs",
+        "Stone_brick_stairs_BROKEN"
+    ],
+    "item/stone_stairs": [
+        "Stone_stairs",
+        "Stone_stairs_BROKEN"
+    ],
+    "item/anvil": [
+        "Anvil",
+        "Anvil_BROKEN"
+    ],
+    "item/chest": [
+        "Construction_Bank_Chest",
+        "Construction_Bank_Chest_BROKEN",
+        "Large_loot_chest",
+        "Medium_loot_chest",
+        "Small_loot_chest"
+    ],
+    "item/enchanting_table": [
+        "Praying_altar",
+        "Praying_altar_BROKEN"
+    ],
+    "item/furnace": [
+        "Furnace",
+        "Furnace_BROKEN"
+    ],
+    "item/lectern": [
+        "Lectern",
+        "Lectern_BROKEN"
+    ],
+    "item/smithing_table": [
+        "Crafting_table",
+        "Crafting_table_BROKEN"
+    ],
+    "item/smoker": [
+        "Smoker",
+        "Smoker_BROKEN"
+    ],
+    "item/stonecutter": [
+        "Sawmill_3000",
+        "Sawmill_3000_BROKEN"
+    ],
+    "item/andesite_wall": [
+        "Andesite_wall",
+        "Andesite_wall_BROKEN"
+    ],
+    "item/brick_wall": [
+        "Brick_wall",
+        "Brick_wall_BROKEN"
+    ],
+    "item/cobblestone_wall": [
+        "Cobblestone_wall",
+        "Cobblestone_wall_BROKEN"
+    ],
+    "item/diorite_wall": [
+        "Diorite_wall",
+        "Diorite_wall_BROKEN"
+    ],
+    "item/granite_wall": [
+        "Granite_wall",
+        "Granite_wall_BROKEN"
+    ],
+    "item/red_sandstone_wall": [
+        "Red_sandstone_wall",
+        "Red_sandstone_wall_BROKEN"
+    ],
+    "item/sandstone_wall": [
+        "Sandstone_wall",
+        "Sandstone_wall_BROKEN"
+    ],
+    "item/stone_brick_wall": [
+        "Stone_brick_wall",
+        "Stone_brick_wall_BROKEN"
+    ],
+    "item/minescape/cosmetics/berets/black": [
+        "Black_beret"
+    ],
+    "item/minescape/cosmetics/berets/blue": [
+        "Blue_beret"
+    ],
+    "item/minescape/cosmetics/berets/red": [
+        "Red_beret"
+    ],
+    "item/minescape/cosmetics/berets/white": [
+        "White_beret"
+    ],
+    "item/holidayitems/halloweenmask_blue": [
+        "Blue_halloween_mask"
+    ],
+    "item/holidayitems/halloweenmask_green": [
+        "Green_halloween_mask"
+    ],
+    "item/holidayitems/halloweenmask_red": [
+        "Red_halloween_mask"
+    ],
+    "item/minescape/cosmetics/hats/bucket-helm": [
+        "Bucket_helm"
+    ],
+    "item/minescape/cosmetics/hats/crier-hat": [
+        "Crier_hat"
+    ],
+    "item/minescape/cosmetics/hats/deerstalker-hat": [
+        "Deerstalker"
+    ],
+    "item/minescape/cosmetics/hats/golden_chef": [
+        "Golden_chef's_hat"
+    ],
+    "item/minescape/cosmetics/hats/leprechaun": [
+        "Leprechaun_hat"
+    ],
+    "item/minescape/cosmetics/hats/leprechaun_black": [
+        "Black_Leprechaun_hat"
+    ],
+    "item/minescape/cosmetics/hats/pirate-hat": [
+        "Pirate_hat"
+    ],
+    "item/minescape/cosmetics/hats/big-pirate-hat": [
+        "Big_pirate_hat"
+    ],
+    "item/minescape/cosmetics/hats/pith-hat": [
+        "Pith_hat"
+    ],
+    "item/minescape/cosmetics/hats/robin-hood-hat": [
+        "Robin_hood_hat"
+    ],
+    "item/minescape/cosmetics/hats/tophat": [
+        "Top_hat"
+    ],
+    "item/minescape/cosmetics/hats/uris_hat": [
+        "Uri's_hat"
+    ],
+    "item/minescape/cosmetics/hats/white_chef": [
+        "Chef's_hat"
+    ],
+    "item/minescape/cosmetics/masks/black-demon": [
+        "Black_demon_mask"
+    ],
+    "item/minescape/cosmetics/masks/black_unicorn": [
+        "Black_unicorn_mask"
+    ],
+    "item/minescape/cosmetics/masks/cat": [
+        "Cat_mask"
+    ],
+    "item/minescape/cosmetics/masks/cyclop": [
+        "Cyclop_mask"
+    ],
+    "item/minescape/cosmetics/masks/dragon-adamant": [
+        "Adamant_dragon_mask"
+    ],
+    "item/minescape/cosmetics/masks/dragon-black": [
+        "Black_dragon_mask"
+    ],
+    "item/minescape/cosmetics/masks/dragon-blue": [
+        "Blue_dragon_mask"
+    ],
+    "item/minescape/cosmetics/masks/dragon-bronze": [
+        "Bronze_dragon_mask"
+    ],
+    "item/minescape/cosmetics/masks/dragon-green": [
+        "Green_dragon_mask"
+    ],
+    "item/minescape/cosmetics/masks/dragon-iron": [
+        "Iron_dragon_mask"
+    ],
+    "item/minescape/cosmetics/masks/dragon-lava": [
+        "Lava_dragon_mask"
+    ],
+    "item/minescape/cosmetics/masks/dragon-mithril": [
+        "Mithril_dragon_mask"
+    ],
+    "item/minescape/cosmetics/masks/dragon-red": [
+        "Red_dragon_mask"
+    ],
+    "item/minescape/cosmetics/masks/dragon-rune": [
+        "Rune_dragon_mask"
+    ],
+    "item/minescape/cosmetics/masks/dragon-steel": [
+        "Steel_dragon_mask"
+    ],
+    "item/minescape/cosmetics/masks/goblin": [
+        "Goblin_mask"
+    ],
+    "item/minescape/cosmetics/masks/greater-demon": [
+        "Greater_demon_mask",
+        "Lesser_demon_mask"
+    ],
+    "item/minescape/cosmetics/masks/highwayman": [
+        "Highwayman_mask"
+    ],
+    "item/minescape/cosmetics/masks/imp": [
+        "Imp_mask"
+    ],
+    "item/minescape/cosmetics/masks/penguin": [
+        "Penguin_mask"
+    ],
+    "item/minescape/cosmetics/masks/white_unicorn": [
+        "White_unicorn_mask"
+    ],
+    "item/minescape/cosmetics/masks/wolf": [
+        "Wolf_mask"
+    ],
+    "item/minescape/cosmetics/others/afro": [
+        "Afro"
+    ],
+    "item/minescape/cosmetics/others/beanie": [
+        "Beanie"
+    ],
+    "item/minescape/cosmetics/others/boater-black": [
+        "Boater_Black"
+    ],
+    "item/minescape/cosmetics/others/boater-blue": [
+        "Boater_Blue"
+    ],
+    "item/minescape/cosmetics/others/boater-green": [
+        "Boater_Green"
+    ],
+    "item/minescape/cosmetics/others/boater-orange": [
+        "Boater_Orange"
+    ],
+    "item/minescape/cosmetics/others/boater-pink": [
+        "Boater_Pink"
+    ],
+    "item/minescape/cosmetics/others/boater-purple": [
+        "Boater_Purple"
+    ],
+    "item/minescape/cosmetics/others/boater-red": [
+        "Boater_Red"
+    ],
+    "item/minescape/cosmetics/others/boater-white": [
+        "Boater_White"
+    ],
+    "item/minescape/cosmetics/others/bowl-cut": [
+        "Bowl_wig"
+    ],
+    "item/minescape/cosmetics/others/cavalier-black": [
+        "Cavalier_Black"
+    ],
+    "item/minescape/cosmetics/others/cavalier-blue": [
+        "Cavalier_Blue"
+    ],
+    "item/minescape/cosmetics/others/cavalier-brown": [
+        "Cavalier_Brown"
+    ],
+    "item/minescape/cosmetics/others/cavalier-gold": [
+        "Cavalier_Gold"
+    ],
+    "item/minescape/cosmetics/others/cavalier-red": [
+        "Cavalier_Red"
+    ],
+    "item/minescape/cosmetics/others/cavalier-white": [
+        "Cavalier_White"
+    ],
+    "item/minescape/cosmetics/others/city_hood_blue": [
+        "Arceuus_hood"
+    ],
+    "item/minescape/cosmetics/others/city_hood_cyan": [
+        "Piscarilius_hood"
+    ],
+    "item/minescape/cosmetics/others/city_hood_green": [
+        "Hosidius_hood"
+    ],
+    "item/minescape/cosmetics/others/city_hood_red": [
+        "Shayzien_hood"
+    ],
+    "item/minescape/cosmetics/others/city_hood_yellow": [
+        "Lovakengj_hood"
+    ],
+    "item/minescape/cosmetics/others/left-eye-patch": [
+        "Eye_patch"
+    ],
+    "item/minescape/cosmetics/others/half-moon-glasses": [
+        "Half_moon_spectacles"
+    ],
+    "item/minescape/cosmetics/others/headband-black": [
+        "Headband_Black"
+    ],
+    "item/minescape/cosmetics/others/headband-blue": [
+        "Headband_Blue"
+    ],
+    "item/minescape/cosmetics/others/headband-brown": [
+        "Headband_Brown"
+    ],
+    "item/minescape/cosmetics/others/headband-gold": [
+        "Headband_Gold"
+    ],
+    "item/minescape/cosmetics/others/headband-green": [
+        "Headband_Green"
+    ],
+    "item/minescape/cosmetics/others/headband-pink": [
+        "Headband_Pink"
+    ],
+    "item/minescape/cosmetics/others/headband-red": [
+        "Headband_Red"
+    ],
+    "item/minescape/cosmetics/others/headband-white": [
+        "Headband_White"
+    ],
+    "item/minescape/cosmetics/others/monocle": [
+        "Monocle"
+    ],
+    "item/minescape/cosmetics/others/parrot": [
+        "Parrot"
+    ],
+    "item/minescape/cosmetics/others/sagacious_specticals": [
+        "Sagacious_spectacles"
+    ],
+    "item/minescape/cosmetics/others/tiara": [
+        "Fancy_tiara"
+    ],
+    "item/minescape/cosmetics/suitcase": [
+        "Suitcase"
+    ],
+    "item/swords/defender-adamant": [
+        "Adamant_defender"
+    ],
+    "item/swords/defender-black": [
+        "Black_defender"
+    ],
+    "item/swords/defender-bronze": [
+        "Bronze_defender"
+    ],
+    "item/swords/dragon-defender": [
+        "Dragon_defender"
+    ],
+    "item/swords/defender-iron": [
+        "Iron_defender"
+    ],
+    "item/swords/defender-mithril": [
+        "Mithril_defender"
+    ],
+    "item/swords/defender-rune": [
+        "Rune_defender"
+    ],
+    "item/swords/defender-steel": [
+        "Steel_defender"
+    ],
+    "item/drinks/beer": [
+        "Beer",
+        "Troll_Beer"
+    ],
+    "item/snowball": [
+        "Snowball"
+    ],
+    "item/firework_rocket": [
+        "Christmas_cracker"
+    ],
+    "item/food/apple": [
+        "Apple"
+    ],
+    "item/food/banana": [
+        "Banana"
+    ],
+    "item/food/beetroot": [
+        "Beetroot"
+    ],
+    "item/food/cabbage": [
+        "Cabbage"
+    ],
+    "item/food/carrot": [
+        "Carrot"
+    ],
+    "item/food/corn": [
+        "Corn"
+    ],
+    "item/food/flax": [
+        "Flax"
+    ],
+    "item/food/lemon": [
+        "Lemon"
+    ],
+    "item/food/melon": [
+        "Melon"
+    ],
+    "item/food/potato": [
+        "Potato"
+    ],
+    "item/food/pumpkin": [
+        "Pumpkin"
+    ],
+    "item/food/strawberry": [
+        "Strawberry"
+    ],
+    "item/food/sugar": [
+        "Sugar"
+    ],
+    "item/food/tomato": [
+        "Tomato"
+    ],
+    "item/food/wheat": [
+        "Wheat"
+    ],
+    "item/tools/bait_rod": [
+        "Bait_fishing_rod"
+    ],
+    "item/tools/cage": [
+        "Cage"
+    ],
+    "item/tools/fly_rod": [
+        "Fly_fishing_rod"
+    ],
+    "item/tools/harpoon": [
+        "Harpoon"
+    ],
+    "item/tools/fishing_net": [
+        "Fishing_net"
+    ],
+    "item/food/anchovies": [
+        "Anchovies"
+    ],
+    "item/food/baked_potato": [
+        "Baked_potato"
+    ],
+    "item/food/bass": [
+        "Bass"
+    ],
+    "item/food/bear": [
+        "Raw_Bear"
+    ],
+    "item/food/beef": [
+        "Raw_Beef"
+    ],
+    "item/food/bread": [
+        "Bread"
+    ],
+    "item/food/chicken": [
+        "Raw_Chicken",
+        "Raw_Duck"
+    ],
+    "item/food/anchovies_cooked": [
+        "Cooked_anchovies"
+    ],
+    "item/food/bass_cooked": [
+        "Cooked_bass"
+    ],
+    "item/food/bear_cooked": [
+        "Cooked_bear"
+    ],
+    "item/food/beef_cooked": [
+        "Cooked_beef"
+    ],
+    "item/food/chicken_cooked": [
+        "Cooked_chicken",
+        "Cooked_duck"
+    ],
+    "item/food/dark-crab_cooked": [
+        "Cooked_dark_crab"
+    ],
+    "item/food/eel_cooked": [
+        "Cooked_eel"
+    ],
+    "item/food/herring": [
+        "Cooked_herring"
+    ],
+    "item/food/karambwan_cooked": [
+        "Cooked_karambwan"
+    ],
+    "item/food/manta-ray_cooked": [
+        "Cooked_manta_ray"
+    ],
+    "item/food/monkfish_cooked": [
+        "Cooked_monkfish"
+    ],
+    "item/food/salmon_cooked": [
+        "Cooked_salmon"
+    ],
+    "item/food/sardine_cooked": [
+        "Cooked_sardine"
+    ],
+    "item/food/sea-turtle_cooked": [
+        "Cooked_sea_turtle"
+    ],
+    "item/food/shark_cooked": [
+        "Cooked_shark"
+    ],
+    "item/food/sheep_cooked": [
+        "Cooked_sheep"
+    ],
+    "item/food/shrimp_cooked": [
+        "Cooked_shrimp"
+    ],
+    "item/food/sturgeon_cooked": [
+        "Cooked_sturgeon"
+    ],
+    "item/food/swordfish_cooked": [
+        "Cooked_swordfish"
+    ],
+    "item/food/tench_cooked": [
+        "Cooked_tench"
+    ],
+    "item/food/trout_cooked": [
+        "Cooked_trout"
+    ],
+    "item/food/tuna_cooked": [
+        "Cooked_tuna"
+    ],
+    "item/food/dark-crab": [
+        "Dark_crab"
+    ],
+    "item/food/dough": [
+        "Dough"
+    ],
+    "item/food/eel": [
+        "Eel"
+    ],
+    "item/food/fruit_salad": [
+        "Fruit_salad"
+    ],
+    "item/food/herring_cooked": [
+        "Herring"
+    ],
+    "item/food/karambwan": [
+        "Karambwan"
+    ],
+    "item/food/lobster": [
+        "Lobster"
+    ],
+    "item/food/lobster_cooked": [
+        "Cooked_lobster"
+    ],
+    "item/food/manta-ray": [
+        "Manta_ray"
+    ],
+    "item/food/monkfish": [
+        "Monkfish"
+    ],
+    "item/food/pie_apple": [
+        "Apple_pie"
+    ],
+    "item/food/pie_fish": [
+        "Fish_pie"
+    ],
+    "item/food/pie_meat": [
+        "Meat_pie"
+    ],
+    "item/food/pie_pumpkin": [
+        "Pumpkin_pie"
+    ],
+    "item/food/pizza_anchovies": [
+        "Anchovies_pizza"
+    ],
+    "item/food/pizza_corn": [
+        "Corn_pizza"
+    ],
+    "item/food/pizza_meat": [
+        "Meat_pizza"
+    ],
+    "item/food/pizza_plain": [
+        "Plain_pizza"
+    ],
+    "item/food/salad": [
+        "Salad"
+    ],
+    "item/food/salmon": [
+        "Salmon"
+    ],
+    "item/food/sardine": [
+        "Sardine"
+    ],
+    "item/food/sea-turtle": [
+        "Sea_turtle"
+    ],
+    "item/food/shark": [
+        "Shark"
+    ],
+    "item/food/sheep": [
+        "Raw_Sheep"
+    ],
+    "item/food/shrimp": [
+        "Shrimp"
+    ],
+    "item/food/sturgeon": [
+        "Sturgeon"
+    ],
+    "item/food/swordfish": [
+        "Swordfish"
+    ],
+    "item/food/tench": [
+        "Tench"
+    ],
+    "item/food/trout": [
+        "Trout"
+    ],
+    "item/food/tuna": [
+        "Tuna"
+    ],
+    "item/food/tuna_potato": [
+        "Tuna_potato"
+    ],
+    "item/minescape/gems/diamond": [
+        "Diamond"
+    ],
+    "item/minescape/gems/dstone": [
+        "Dragonstone"
+    ],
+    "item/minescape/gems/emerald": [
+        "Emerald"
+    ],
+    "item/minescape/gems/ruby": [
+        "Ruby"
+    ],
+    "item/minescape/gems/sapphire": [
+        "Sapphire"
+    ],
+    "item/minescape/gems/uncut-diamond": [
+        "Uncut_diamond"
+    ],
+    "item/minescape/gems/uncut-dstone": [
+        "Uncut_dragonstone"
+    ],
+    "item/minescape/gems/uncut-emerald": [
+        "Uncut_emerald"
+    ],
+    "item/minescape/gems/uncut-ruby": [
+        "Uncut_ruby"
+    ],
+    "item/minescape/gems/uncut-sapphire": [
+        "Uncut_sapphire"
+    ],
+    "item/materials/adamant_heads": [
+        "Adamant_arrow_heads"
+    ],
+    "item/materials/bronze_heads": [
+        "Bronze_arrow_heads"
+    ],
+    "item/materials/iron_heads": [
+        "Iron_arrow_heads"
+    ],
+    "item/materials/mithril_heads": [
+        "Mithril_arrow_heads"
+    ],
+    "item/materials/rune_heads": [
+        "Rune_arrow_heads"
+    ],
+    "item/materials/steel_heads": [
+        "Steel_arrow_heads"
+    ],
+    "block/allium": [
+        "Alliuminati"
+    ],
+    "block/daisy": [
+        "Azurus_Aqua"
+    ],
+    "item/cactus": [
+        "Cactus"
+    ],
+    "item/materials/wither_rose": [
+        "Dragoneye's_rose"
+    ],
+    "item/nether_wart": [
+        "Magmatius_Wrath"
+    ],
+    "block/dead_bush": [
+        "Necroti_Busi"
+    ],
+    "block/dandelion": [
+        "Noilednad"
+    ],
+    "block/orchid": [
+        "Orchicada_Blau"
+    ],
+    "block/poppy": [
+        "Rosarius_Poppus"
+    ],
+    "block/white_tulip": [
+        "Talupia_Blancus"
+    ],
+    "block/red_tulip": [
+        "Talupia_Crimson"
+    ],
+    "block/pink_tulip": [
+        "Talupia_Magentina"
+    ],
+    "block/orange_tulip": [
+        "Talupia_Tangio"
+    ],
+    "item/minescape/hides/cured_hide_yak": [
+        "Cured_Yak_hide"
+    ],
+    "item/minescape/hides/hide_cow": [
+        "Cow_hide"
+    ],
+    "item/minescape/hides/hide_dragon_black": [
+        "Black_dragon_hide"
+    ],
+    "item/minescape/hides/hide_dragon_blue": [
+        "Blue_dragon_hide"
+    ],
+    "item/minescape/hides/hide_dragon_green": [
+        "Green_dragon_hide"
+    ],
+    "item/minescape/hides/hide_dragon_red": [
+        "Red_dragon_hide"
+    ],
+    "item/minescape/hides/hide_snake": [
+        "Snake_hide"
+    ],
+    "item/minescape/hides/hide_yak": [
+        "Yak_hide"
+    ],
+    "item/minescape/hides/leather": [
+        "Leather"
+    ],
+    "item/minescape/hides/leather_dragon_black": [
+        "Black_dragon_leather"
+    ],
+    "item/minescape/hides/leather_dragon_blue": [
+        "Blue_dragon_leather"
+    ],
+    "item/minescape/hides/leather_dragon_green": [
+        "Green_dragon_leather"
+    ],
+    "item/minescape/hides/leather_dragon_red": [
+        "Red_dragon_leather"
+    ],
+    "item/minescape/hides/snake_skin": [
+        "Snakeskin"
+    ],
+    "item/minescape/jewellery/3rd-age-amulet": [
+        "3rd_age_magic_amulet"
+    ],
+    "item/minescape/jewellery/bonecrusher_necklace": [
+        "Bonecrusher_necklace",
+        "Upgraded_bonecrusher_necklace"
+    ],
+    "item/minescape/jewellery/gold/amulet_emerald": [
+        "Amulet_of_defence",
+        "Emerald_amulet"
+    ],
+    "item/minescape/jewellery/gold/amulet_emerald_t": [
+        "Amulet_of_defence_(t)"
+    ],
+    "item/minescape/jewellery/gold/amulet_dstone": [
+        "Amulet_of_glory",
+        "Dragonstone_amulet"
+    ],
+    "item/minescape/jewellery/gold/amulet_sapphire": [
+        "Amulet_of_magic",
+        "Sapphire_amulet"
+    ],
+    "item/minescape/jewellery/gold/amulet_sapphire_t": [
+        "Amulet_of_magic_(t)"
+    ],
+    "item/minescape/jewellery/gold/amulet_diamond": [
+        "Amulet_of_power",
+        "Diamond_amulet"
+    ],
+    "item/minescape/jewellery/gold/amulet_diamond_t": [
+        "Amulet_of_power_(t)"
+    ],
+    "item/minescape/jewellery/gold/amulet_ruby": [
+        "Amulet_of_strength",
+        "Ruby_amulet"
+    ],
+    "item/minescape/jewellery/gold/amulet_ruby_t": [
+        "Amulet_of_strength_(t)"
+    ],
+    "item/minescape/jewellery/gold/necklace_sapphire": [
+        "Games_necklace",
+        "Sapphire_necklace"
+    ],
+    "item/minescape/jewellery/gold/necklace_ruby": [
+        "Gems_necklace",
+        "Ruby_necklace"
+    ],
+    "item/minescape/jewellery/gold/necklace_diamond": [
+        "Phoenix_necklace",
+        "Diamond_necklace"
+    ],
+    "item/minescape/jewellery/gold/necklace_emerald": [
+        "Runecrafting_necklace",
+        "Emerald_necklace"
+    ],
+    "item/minescape/jewellery/gold/necklace_dstone": [
+        "Skills_necklace",
+        "Dragonstone_necklace"
+    ],
+    "item/minescape/jewellery/gold/ring_emerald": [
+        "Ring_of_Dueling",
+        "Emerald_ring"
+    ],
+    "item/minescape/jewellery/gold/ring_ruby": [
+        "Ring_of_forging",
+        "Ruby_ring"
+    ],
+    "item/minescape/jewellery/gold/ring_diamond": [
+        "Ring_of_life",
+        "Diamond_ring"
+    ],
+    "item/minescape/jewellery/gold/ring_sapphire": [
+        "Ring_of_recoil",
+        "Sapphire_ring"
+    ],
+    "item/minescape/jewellery/gold/ring_dstone": [
+        "Ring_of_wealth",
+        "Dragonstone_ring"
+    ],
+    "item/minescape/jewellery/gold/amulet": [
+        "Golden_amulet"
+    ],
+    "item/minescape/jewellery/gold/necklace": [
+        "Golden_necklace"
+    ],
+    "item/minescape/jewellery/gold/ring": [
+        "Golden_ring"
+    ],
+    "item/minescape/limbs/adamant": [
+        "Adamant_limbs"
+    ],
+    "item/minescape/limbs/bronze": [
+        "Bronze_limbs"
+    ],
+    "item/minescape/limbs/dragon": [
+        "Dragon_limbs"
+    ],
+    "item/minescape/limbs/iron": [
+        "Iron_limbs"
+    ],
+    "item/minescape/limbs/mithril": [
+        "Mithril_limbs"
+    ],
+    "item/minescape/limbs/rune": [
+        "Rune_limbs"
+    ],
+    "item/minescape/limbs/steel": [
+        "Steel_limbs"
+    ],
+    "item/icons/magic/teleport_canifis": [
+        "Teleport_to_Camelot's_castle_tablet",
+        "Teleport_to_Canifis_tablet",
+        "Teleport_to_Crandor_tablet"
+    ],
+    "item/icons/magic/teleport_entrana": [
+        "Teleport_to_Edgeville_tablet",
+        "Teleport_to_Entrana_tablet"
+    ],
+    "item/icons/magic/teleport_falador": [
+        "Teleport_to_Falador_tablet"
+    ],
+    "item/icons/magic/teleport_home": [
+        "Island_teleport_tablet"
+    ],
+    "item/icons/magic/teleport_lumbridge": [
+        "Lumbridge_teleport_tablet"
+    ],
+    "item/icons/magic/teleport_taverley": [
+        "Teleport_to_Taverley_tablet"
+    ],
+    "item/icons/magic/teleport_varrock": [
+        "Teleport_to_Varrock_tablet"
+    ],
+    "item/materials/draconic-visage": [
+        "Draconic_Visage"
+    ],
+    "item/materials/unfired-bowl": [
+        "Unfired_bowl"
+    ],
+    "item/materials/ashes": [
+        "Ashes",
+        "Cursed_ashes"
+    ],
+    "item/materials/ashes_imbued": [
+        "Imbued_ashes",
+        "Imbued_cursed_ashes"
+    ],
+    "item/tools/backpack": [
+        "Backpack"
+    ],
+    "item/materials/big_bones": [
+        "Big_bones",
+        "Large_bones"
+    ],
+    "item/materials/big_bones_imbued": [
+        "Imbued_big_bones",
+        "Imbued_large_bones"
+    ],
+    "item/materials/bones": [
+        "Bones"
+    ],
+    "item/materials/bones_imbued": [
+        "Imbued_bones"
+    ],
+    "item/books/armadyl": [
+        "Damaged_book_(Armadyl)",
+        "Book_of_law"
+    ],
+    "item/books/bandos": [
+        "Damaged_book_(Bandos)",
+        "Book_of_war"
+    ],
+    "item/books/guthix": [
+        "Damaged_book_(Guthix)",
+        "Book_of_balance"
+    ],
+    "item/books/saradomin": [
+        "Damaged_book_(Saradomin)",
+        "Holy_book"
+    ],
+    "item/books/zamorak": [
+        "Damaged_book_(Zamorak)",
+        "Unholy_book"
+    ],
+    "item/books/zaros": [
+        "Damaged_book_(Zaros)",
+        "Book_of_darkness"
+    ],
+    "item/books/armadyl_page": [
+        "Armadyl_page_1",
+        "Armadyl_page_2",
+        "Armadyl_page_3",
+        "Armadyl_page_4"
+    ],
+    "item/books/bandos_page": [
+        "Bandos_page_1",
+        "Bandos_page_2",
+        "Bandos_page_3",
+        "Bandos_page_4"
+    ],
+    "item/books/guthix_page": [
+        "Guthix_page_1",
+        "Guthix_page_2",
+        "Guthix_page_3",
+        "Guthix_page_4"
+    ],
+    "item/books/saradomin_page": [
+        "Saradomin_page_1",
+        "Saradomin_page_2",
+        "Saradomin_page_3",
+        "Saradomin_page_4"
+    ],
+    "item/books/zamorak_page": [
+        "Zamorak_page_1",
+        "Zamorak_page_2",
+        "Zamorak_page_3",
+        "Zamorak_page_4"
+    ],
+    "item/books/zaros_page": [
+        "Zaros_page_1",
+        "Zaros_page_2",
+        "Zaros_page_3",
+        "Zaros_page_4"
+    ],
+    "item/tools/coins_100": [
+        "Coins"
+    ],
+    "item/materials/enormous_bones": [
+        "Dragon_bones",
+        "Enormous_bones"
+    ],
+    "item/materials/enormous_bones_imbued": [
+        "Imbued_dragon_bones",
+        "Imbued_enormous_bones"
+    ],
+    "item/minescape/ui/potion-2x": [
+        "DXP_token_(15)",
+        "DXP_token_(30)",
+        "DXP_token_(60)",
+        "DXP_token_(120)",
+        "DXP_token_(240)",
+        "DXP_token_(720)"
+    ],
+    "item/compass": [
+        "Exploration_Compass"
+    ],
+    "item/minescape/arrows/feather": [
+        "Feathers"
+    ],
+    "item/minescape/arrows/headless": [
+        "Headless_arrow"
+    ],
+    "item/minescape/ui/skill_prayer": [
+        "Holy_relic"
+    ],
+    "item/materials/kalphite_head": [
+        "Kalphite_remains"
+    ],
+    "item/minescape/misc/keys/brass": [
+        "Brass_key",
+        "Experiment_cave_key",
+        "Taverley_maze_key"
+    ],
+    "item/minescape/misc/keys/giant": [
+        "Giant_key"
+    ],
+    "item/minescape/misc/keys/kalphite": [
+        "Kalphite_key"
+    ],
+    "item/filled_map": [
+        "World_map"
+    ],
+    "item/tools/rune_pouch": [
+        "Rune_pouch"
+    ],
+    "item/logs/oak": [
+        "Sacred_wood",
+        "Oak_log"
+    ],
+    "item/tools/scroll_pouch": [
+        "Scroll_pouch"
+    ],
+    "item/minescape/arrows/shafts": [
+        "Arrow_shafts"
+    ],
+    "item/minescape/ui/skill_slayer": [
+        "Slayer_token"
+    ],
+    "item/materials/soul": [
+        "Soul",
+        "Soul_of_Barrows_Brothers",
+        "Soul_of_Dad",
+        "Soul_of_the_Evil_Chicken",
+        "Soul_of_the_Kalphite_Queen",
+        "Soul_of_the_King_Black_Dragon",
+        "Soul_of_the_Giant_Mole",
+        "Soul_of_Obor",
+        "Soul_of_the_creature"
+    ],
+    "item/minescape/arrows/string": [
+        "String"
+    ],
+    "item/all/deaths/icon": [
+        "Transmog_token"
+    ],
+    "item/tools/xp_bottle": [
+        "Large_XP_lamp",
+        "Medium_XP_lamp",
+        "Small_XP_lamp"
+    ],
+    "item/ores/adamant_ore": [
+        "Adamant_ore"
+    ],
+    "item/ores/clay": [
+        "Clay"
+    ],
+    "item/ores/coal_ore": [
+        "Coal_ore"
+    ],
+    "item/ores/copper_ore": [
+        "Copper_ore"
+    ],
+    "item/ores/gold_ore": [
+        "Gold_ore"
+    ],
+    "item/ores/iron_ore": [
+        "Iron_ore"
+    ],
+    "item/ores/mithril_ore": [
+        "Mithril_ore"
+    ],
+    "item/ores/runite_ore": [
+        "Runite_ore"
+    ],
+    "item/ores/silver_ore": [
+        "Silver_ore"
+    ],
+    "item/ores/stone": [
+        "Stone"
+    ],
+    "item/ores/tin_ore": [
+        "Tin_ore"
+    ],
+    "item/potions/combat": [
+        "Combat_potion"
+    ],
+    "item/potions/dark": [
+        "Dark_potion"
+    ],
+    "item/potions/defence": [
+        "Defence_potion"
+    ],
+    "item/potions/extreme_defence": [
+        "Extreme_defence_potion"
+    ],
+    "item/potions/extreme_magic": [
+        "Extreme_magic_potion"
+    ],
+    "item/potions/extreme_prayer": [
+        "Extreme_prayer_potion"
+    ],
+    "item/potions/extreme_ranged": [
+        "Extreme_ranged_potion"
+    ],
+    "item/potions/extreme_speed": [
+        "Extreme_speed_potion"
+    ],
+    "item/potions/extreme_strength": [
+        "Extreme_strength_potion"
+    ],
+    "item/potions/fire": [
+        "Fire_resistance_potion"
+    ],
+    "item/potions/god": [
+        "God_potion"
+    ],
+    "item/potions/heat": [
+        "Heat_resistance_potion"
+    ],
+    "item/potions/magic": [
+        "Magic_potion"
+    ],
+    "item/potions/prayer": [
+        "Prayer_potion"
+    ],
+    "item/potions/ranged": [
+        "Ranged_potion"
+    ],
+    "item/potions/speed": [
+        "Speed_potion"
+    ],
+    "item/potions/stamina": [
+        "Stamina_potion"
+    ],
+    "item/potions/strength": [
+        "Strength_potion"
+    ],
+    "item/potions/super_defence": [
+        "Super_defence_potion"
+    ],
+    "item/potions/super_magic": [
+        "Super_magic_potion"
+    ],
+    "item/potions/super_prayer": [
+        "Super_prayer_potion"
+    ],
+    "item/potions/super_ranged": [
+        "Super_ranged_potion"
+    ],
+    "item/potions/super_speed": [
+        "Super_speed_potion"
+    ],
+    "item/potions/super_stamina": [
+        "Super_stamina_potion"
+    ],
+    "item/potions/super_strength": [
+        "Super_strength_potion"
+    ],
+    "item/potions/unstable": [
+        "Unstable_potion"
+    ],
+    "item/minescape/quests/dragon-slayer/head": [
+        "Elvarg's_head"
+    ],
+    "item/minescape/quests/dragon-slayer/key-blue": [
+        "Blue_key"
+    ],
+    "item/minescape/quests/dragon-slayer/key-green": [
+        "Green_key"
+    ],
+    "item/minescape/quests/dragon-slayer/key-magenta": [
+        "Magenta_key"
+    ],
+    "item/minescape/quests/dragon-slayer/key-orange": [
+        "Orange_key"
+    ],
+    "item/minescape/quests/dragon-slayer/key-red": [
+        "Red_key"
+    ],
+    "item/minescape/quests/dragon-slayer/key-yellow": [
+        "Yellow_key"
+    ],
+    "item/minescape/quests/dragon-slayer/map-full": [
+        "Crandor's_map"
+    ],
+    "item/minescape/quests/dragon-slayer/map-part": [
+        "Map_piece_(Lozar)",
+        "Map_piece_(Melzar)",
+        "Map_piece_(Thalzar)"
+    ],
+    "item/runes/air_rune": [
+        "Air_rune"
+    ],
+    "item/runes/body_rune": [
+        "Body_rune"
+    ],
+    "item/runes/chaos_rune": [
+        "Chaos_rune"
+    ],
+    "item/runes/cosmic_rune": [
+        "Cosmic_rune"
+    ],
+    "item/runes/death_rune": [
+        "Death_rune"
+    ],
+    "item/runes/earth_rune": [
+        "Earth_rune"
+    ],
+    "item/runes/rune_essence": [
+        "Rune_essence"
+    ],
+    "item/runes/fire_rune": [
+        "Fire_rune"
+    ],
+    "item/runes/law_rune": [
+        "Law_rune"
+    ],
+    "item/runes/mind_rune": [
+        "Mind_rune"
+    ],
+    "item/runes/nature_rune": [
+        "Nature_rune"
+    ],
+    "item/runes/water_rune": [
+        "Water_rune"
+    ],
+    "item/minescape/3rd-age/3rd-age-shield": [
+        "3rd_age_shield"
+    ],
+    "item/shields/adamant_shield": [
+        "Adamant_shield"
+    ],
+    "item/shields/adamant_heraldic_shield": [
+        "Adamant_shield_(h)"
+    ],
+    "item/shields/black_shield": [
+        "Black_shield"
+    ],
+    "item/shields/black_shield_heraldic": [
+        "Black_shield_(h)"
+    ],
+    "item/shields/bronze_shield": [
+        "Bronze_shield"
+    ],
+    "item/shields/cabbage_shield": [
+        "Cabbage_shield"
+    ],
+    "item/shields/dragon_shield": [
+        "Dragon_shield"
+    ],
+    "item/shields/antidragon_shield": [
+        "Anti_dragon_shield"
+    ],
+    "item/shields/antidragon_shield_upgrade": [
+        "Dragonfire_shield"
+    ],
+    "item/shields/iron_shield": [
+        "Iron_shield"
+    ],
+    "item/shields/mithril_shield": [
+        "Mithril_shield"
+    ],
+    "item/shields/wood_baobab": [
+        "Baobab_shield"
+    ],
+    "item/shields/wood_blackhide": [
+        "Black_hide_shield"
+    ],
+    "item/shields/wood_bluehide": [
+        "Blue_hide_shield"
+    ],
+    "item/shields/wood_greenhide": [
+        "Green_hide_shield"
+    ],
+    "item/shields/wood_leather": [
+        "Leather_shield"
+    ],
+    "item/shields/wood_oak": [
+        "Oak_shield"
+    ],
+    "item/shields/wood_oak_gt": [
+        "Oak_shield_(gt)"
+    ],
+    "item/shields/wood_teak": [
+        "Pine_shield",
+        "Teak_shield"
+    ],
+    "item/shields/wood_redhide": [
+        "Red_hide_shield"
+    ],
+    "item/shields/wood_sequoia": [
+        "Sequoia_shield"
+    ],
+    "item/shields/wood_snake": [
+        "Snakeskin_shield"
+    ],
+    "item/shields/wood_willow": [
+        "Willow_shield"
+    ],
+    "item/shields/wood_whitehide_blessed": [
+        "Armadyl_hide_shield"
+    ],
+    "item/shields/wood_grayhide_blessed": [
+        "Bandos_hide_shield"
+    ],
+    "item/shields/wood_greenhide_blessed": [
+        "Guthix_hide_shield"
+    ],
+    "item/shields/wood_bluehide_blessed": [
+        "Saradomin_hide_shield"
+    ],
+    "item/shields/wood_redhide_blessed": [
+        "Zamorak_hide_shield"
+    ],
+    "item/shields/wood_purplehide_blessed": [
+        "Zaros_hide_shield"
+    ],
+    "item/shields/rune_shield": [
+        "Rune_shield"
+    ],
+    "item/shields/rune_shield_gilded": [
+        "Gilded_shield"
+    ],
+    "item/shields/rune_heraldic_shield": [
+        "Rune_shield_(h)"
+    ],
+    "item/shields/steel_shield": [
+        "Steel_shield"
+    ],
+    "item/minescape/3rd-age/3rd-age-axe": [
+        "3rd_age_hatchet"
+    ],
+    "item/minescape/3rd-age/3rd-age-pickaxe": [
+        "3rd_age_pickaxe"
+    ],
+    "item/swords/axe-adamant": [
+        "Adamant_hatchet"
+    ],
+    "item/swords/pickaxe-adamant": [
+        "Adamant_pickaxe"
+    ],
+    "item/swords/pickaxe-black": [
+        "Black_pickaxe"
+    ],
+    "item/swords/axe-bronze": [
+        "Bronze_hatchet"
+    ],
+    "item/swords/pickaxe-bronze": [
+        "Bronze_pickaxe"
+    ],
+    "item/tools/chisel": [
+        "Chisel"
+    ],
+    "item/swords/axe-dragon": [
+        "Dragon_hatchet"
+    ],
+    "item/swords/pickaxe-dragon": [
+        "Dragon_pickaxe"
+    ],
+    "item/swords/axe-gold": [
+        "Gilded_hatchet"
+    ],
+    "item/swords/pickaxe-gold": [
+        "Gilded_pickaxe"
+    ],
+    "item/minescape/tools/hammer": [
+        "Hammer"
+    ],
+    "item/tools/hoe": [
+        "Hoe"
+    ],
+    "item/swords/axe-iron": [
+        "Iron_hatchet"
+    ],
+    "item/swords/pickaxe-iron": [
+        "Iron_pickaxe"
+    ],
+    "item/tools/knife": [
+        "Knife"
+    ],
+    "item/tools/large_spade": [
+        "Large_spade"
+    ],
+    "item/swords/axe-mithril": [
+        "Mithril_hatchet"
+    ],
+    "item/swords/pickaxe-mithril": [
+        "Mithril_pickaxe"
+    ],
+    "item/swords/axe-rune": [
+        "Rune_hatchet"
+    ],
+    "item/swords/pickaxe-rune": [
+        "Rune_pickaxe"
+    ],
+    "item/tools/shears": [
+        "Shears"
+    ],
+    "item/tools/spade": [
+        "Spade"
+    ],
+    "item/tools/spade_gold": [
+        "Gilded_spade"
+    ],
+    "item/swords/axe-steel": [
+        "Steel_hatchet"
+    ],
+    "item/swords/pickaxe-steel": [
+        "Steel_pickaxe"
+    ],
+    "item/minescape/bolts/unfinished_adamant": [
+        "Adamant_bolts_(unf)"
+    ],
+    "item/minescape/crossbows/unstring_adamant": [
+        "Adamant_crossbow_(unf)"
+    ],
+    "item/minescape/bolts/unfinished_bronze": [
+        "Bronze_bolts_(unf)"
+    ],
+    "item/minescape/crossbows/unstring_bronze": [
+        "Bronze_crossbow_(unf)"
+    ],
+    "item/minescape/bolts/unfinished_dragon": [
+        "Dragon_bolts_(unf)"
+    ],
+    "item/minescape/crossbows/unstring_dragon": [
+        "Dragon_crossbow_(unf)"
+    ],
+    "item/minescape/bolts/unfinished_iron": [
+        "Iron_bolts_(unf)"
+    ],
+    "item/minescape/crossbows/unstring_iron": [
+        "Iron_crossbow_(unf)"
+    ],
+    "item/minescape/bolts/unfinished_mithril": [
+        "Mithril_bolts_(unf)"
+    ],
+    "item/minescape/crossbows/unstring_mithril": [
+        "Mithril_crossbow_(unf)"
+    ],
+    "item/minescape/bolts/unfinished_rune": [
+        "Rune_bolts_(unf)"
+    ],
+    "item/minescape/crossbows/unstring_rune": [
+        "Rune_crossbow_(unf)"
+    ],
+    "item/minescape/bolts/unfinished_steel": [
+        "Steel_bolts_(unf)"
+    ],
+    "item/minescape/crossbows/unstring_steel": [
+        "Steel_crossbow_(unf)"
+    ],
+    "item/minescape/3rd-age/3rd-age-wand": [
+        "3rd_age_wand"
+    ],
+    "item/minescape/weapons/wands/apoc": [
+        "Apocalypse_wand",
+        "Cursed_apocalypse_wand"
+    ],
+    "item/minescape/weapons/wands/apprentice": [
+        "Apprentice_wand"
+    ],
+    "item/wands/staff_air": [
+        "Air_battlestaff",
+        "Air_staff"
+    ],
+    "item/wands/staff_earth": [
+        "Earth_battlestaff",
+        "Earth_staff"
+    ],
+    "item/wands/staff_fire": [
+        "Fire_battlestaff",
+        "Fire_staff"
+    ],
+    "item/wands/staff_water": [
+        "Water_battlestaff",
+        "Water_staff"
+    ],
+    "item/minescape/weapons/wands/beginner": [
+        "Beginner's_wand"
+    ],
+    "item/wands/bob_the_cat": [
+        "Staff_of_bob_the_cat"
+    ],
+    "item/minescape/weapons/wands/master": [
+        "Master's_wand"
+    ],
+    "item/minescape/prayer-staff/gold": [
+        "Gold_prayer_sceptre"
+    ],
+    "item/minescape/prayer-staff/silver": [
+        "Silver_prayer_sceptre",
+        "BROKEN_Silver_prayer_sceptre"
+    ],
+    "item/minescape/weapons/royal-sceptre": [
+        "Royal_sceptre"
+    ],
+    "item/minescape/weapons/wands/wizard": [
+        "Wizard's_wand"
+    ],
+    "item/minescape/3rd-age/3rd-age-bow": [
+        "3rd_age_bow"
+    ],
+    "item/minescape/3rd-age/3rd-age-sword": [
+        "3rd_age_longsword"
+    ],
+    "item/swords/abyssal_whip": [
+        "Abyssal_whip",
+        "Cursed_abyssal_whip"
+    ],
+    "item/swords/twohand-adamant": [
+        "Adamant_two_handed_sword"
+    ],
+    "item/minescape/arrows/adamant": [
+        "Adamant_arrow"
+    ],
+    "item/swords/battleaxe-adamant": [
+        "Adamant_battleaxe"
+    ],
+    "item/minescape/bolts/adamant": [
+        "Adamant_bolts"
+    ],
+    "item/swords/cane-adamant": [
+        "Adamant_cane"
+    ],
+    "item/minescape/crossbows/adamant": [
+        "Adamant_crossbow"
+    ],
+    "item/swords/dagger-adamant": [
+        "Adamant_dagger"
+    ],
+    "item/swords/mace-adamant": [
+        "Adamant_mace"
+    ],
+    "item/swords/adamant-scim": [
+        "Adamant_scimitar"
+    ],
+    "item/minescape/weapons/spear-adamant": [
+        "Adamant_spear"
+    ],
+    "item/swords/sword-adamant": [
+        "Adamant_sword"
+    ],
+    "item/minescape/weapons/baguette": [
+        "Baguette_sword"
+    ],
+    "item/bows/baobab_bow": [
+        "Baobab_bow"
+    ],
+    "item/weapons/bolt_rack": [
+        "Bolt_rack"
+    ],
+    "item/minescape/barrows/weapons/crossbow": [
+        "Karil's_crossbow"
+    ],
+    "item/minescape/barrows/weapons/flail": [
+        "Verac's_flail"
+    ],
+    "item/minescape/barrows/weapons/greataxe": [
+        "Dharok's_greataxe"
+    ],
+    "item/minescape/barrows/weapons/hammer": [
+        "Torag's_hammer"
+    ],
+    "item/minescape/barrows/weapons/spear": [
+        "Guthan's_spear"
+    ],
+    "item/minescape/barrows/weapons/staff": [
+        "Ahrim's_staff"
+    ],
+    "item/swords/cane-black": [
+        "Black_cane"
+    ],
+    "item/minescape/weapons/spear-black": [
+        "Black_spear"
+    ],
+    "item/swords/twohand-bronze": [
+        "Bronze_two_handed_sword"
+    ],
+    "item/minescape/arrows/bronze": [
+        "Bronze_arrow"
+    ],
+    "item/swords/battleaxe-bronze": [
+        "Bronze_battle_axe"
+    ],
+    "item/minescape/bolts/bronze": [
+        "Bronze_bolts"
+    ],
+    "item/minescape/crossbows/bronze": [
+        "Bronze_crossbow"
+    ],
+    "item/swords/dagger-bronze": [
+        "Bronze_dagger"
+    ],
+    "item/swords/mace-bronze": [
+        "Bronze_mace"
+    ],
+    "item/swords/bronze-scim": [
+        "Bronze_scimitar"
+    ],
+    "item/minescape/weapons/spear-bronze": [
+        "Bronze_spear"
+    ],
+    "item/swords/sword-bronze": [
+        "Bronze_sword"
+    ],
+    "item/arrow": [
+        "Crystal_arrow"
+    ],
+    "item/bows/crystal_bow": [
+        "Crystal_bow"
+    ],
+    "item/swords/dragon_2h": [
+        "Cursed_dragon_two_handed_sword",
+        "Dragon_two_handed_sword"
+    ],
+    "item/swords/dragon_battleaxe": [
+        "Cursed_dragon_battleaxe",
+        "Dragon_battleaxe"
+    ],
+    "item/bows/dragon_bow": [
+        "Cursed_dragon_bow",
+        "Dragon_bow"
+    ],
+    "item/swords/dragon_dagger": [
+        "Cursed_dragon_dagger",
+        "Dragon_dagger"
+    ],
+    "item/swords/dragon_mace": [
+        "Cursed_dragon_mace",
+        "Dragon_mace"
+    ],
+    "item/swords/dragon-scim": [
+        "Cursed_dragon_scimitar",
+        "Dragon_scimitar"
+    ],
+    "item/swords/dragon_sword": [
+        "Cursed_dragon_sword",
+        "Dragon_sword"
+    ],
+    "item/minescape/arrows/dragon": [
+        "Dragon_arrow"
+    ],
+    "item/minescape/bolts/dragon": [
+        "Dragon_bolts"
+    ],
+    "item/swords/cane-dragon": [
+        "Dragon_cane"
+    ],
+    "item/minescape/crossbows/dragon": [
+        "Dragon_crossbow"
+    ],
+    "item/bows/oak_bow": [
+        "Elder_bow",
+        "Magic_bow",
+        "Oak_bow"
+    ],
+    "item/swords/sword_of_elements": [
+        "Elemental_sword"
+    ],
+    "item/swords/elemental_sword_crystalline": [
+        "Elemental_sword_crystalline"
+    ],
+    "item/swords/elemental_sword_inferno": [
+        "Elemental_sword_inferno"
+    ],
+    "item/swords/elemental_sword_terra": [
+        "Elemental_sword_terra"
+    ],
+    "item/swords/elemental_sword_zephyr": [
+        "Elemental_sword_zephyr"
+    ],
+    "item/swords/twohand-gilded": [
+        "Gilded_two_handed_sword"
+    ],
+    "item/swords/gilded-scim": [
+        "Gilded_scimitar"
+    ],
+    "item/minescape/weapons/spear-gold": [
+        "Gilded_spear"
+    ],
+    "item/minescape/weapons/grantite-maul": [
+        "Granite_maul"
+    ],
+    "item/minescape/weapons/giant-club": [
+        "Hill_Giant_Club"
+    ],
+    "item/swords/twohand-iron": [
+        "Iron_two_handed_sword"
+    ],
+    "item/minescape/arrows/iron": [
+        "Iron_arrow"
+    ],
+    "item/swords/battleaxe-iron": [
+        "Iron_battleaxe"
+    ],
+    "item/minescape/bolts/iron": [
+        "Iron_bolts"
+    ],
+    "item/minescape/crossbows/iron": [
+        "Iron_crossbow"
+    ],
+    "item/swords/dagger-iron": [
+        "Iron_dagger"
+    ],
+    "item/swords/mace-iron": [
+        "Iron_mace"
+    ],
+    "item/swords/iron-scim": [
+        "Iron_scimitar"
+    ],
+    "item/minescape/weapons/spear-iron": [
+        "Iron_spear"
+    ],
+    "item/swords/sword-iron": [
+        "Iron_sword"
+    ],
+    "item/swords/abyssal_whip_kalphite": [
+        "Kalphite_whip"
+    ],
+    "item/swords/katana": [
+        "Katana"
+    ],
+    "item/swords/twohand-mithril": [
+        "Mithril_two_handed_sword"
+    ],
+    "item/minescape/arrows/mithril": [
+        "Mithril_arrow"
+    ],
+    "item/swords/battleaxe-mithril": [
+        "Mithril_battleaxe"
+    ],
+    "item/minescape/bolts/mithril": [
+        "Mithril_bolts"
+    ],
+    "item/minescape/crossbows/mithril": [
+        "Mithril_crossbow"
+    ],
+    "item/swords/dagger-mithril": [
+        "Mithril_dagger"
+    ],
+    "item/swords/mace-mithril": [
+        "Mithril_mace"
+    ],
+    "item/swords/mithril-scim": [
+        "Mithril_scimitar"
+    ],
+    "item/minescape/weapons/spear-mithril": [
+        "Mithril_spear"
+    ],
+    "item/swords/sword-mithril": [
+        "Mithril_sword"
+    ],
+    "item/bows/pine_bow": [
+        "Pine_bow"
+    ],
+    "item/bows/rain_bow": [
+        "Rain_bow"
+    ],
+    "item/swords/twohand-rune": [
+        "Rune_two_handed_sword"
+    ],
+    "item/minescape/arrows/rune": [
+        "Rune_arrow"
+    ],
+    "item/swords/battleaxe-rune": [
+        "Rune_battleaxe"
+    ],
+    "item/minescape/bolts/rune": [
+        "Rune_bolts"
+    ],
+    "item/swords/cane-rune": [
+        "Rune_cane"
+    ],
+    "item/minescape/crossbows/rune": [
+        "Rune_crossbow"
+    ],
+    "item/swords/dagger-rune": [
+        "Rune_dagger"
+    ],
+    "item/swords/mace-rune": [
+        "Rune_mace"
+    ],
+    "item/swords/rune-scim": [
+        "Rune_scimitar"
+    ],
+    "item/minescape/weapons/spear-rune": [
+        "Rune_spear"
+    ],
+    "item/swords/sword-rune": [
+        "Rune_sword"
+    ],
+    "item/bows/sequoia_bow": [
+        "Sequoia_bow"
+    ],
+    "item/swords/twohand-steel": [
+        "Steel_two_handed_sword"
+    ],
+    "item/minescape/arrows/steel": [
+        "Steel_arrow"
+    ],
+    "item/swords/battleaxe-steel": [
+        "Steel_battleaxe"
+    ],
+    "item/minescape/bolts/steel": [
+        "Steel_bolts"
+    ],
+    "item/minescape/crossbows/steel": [
+        "Steel_crossbow"
+    ],
+    "item/swords/dagger-steel": [
+        "Steel_dagger"
+    ],
+    "item/swords/mace-steel": [
+        "Steel_mace"
+    ],
+    "item/swords/steel-scim": [
+        "Steel_scimitar"
+    ],
+    "item/minescape/weapons/spear-steel": [
+        "Steel_spear"
+    ],
+    "item/swords/sword-steel": [
+        "Steel_sword"
+    ],
+    "item/bows/teak_bow": [
+        "Teak_bow"
+    ],
+    "item/bows/willow_bow": [
+        "Willow_bow"
+    ],
+    "item/ashes/baobab": [
+        "Baobab_ashes"
+    ],
+    "item/logs/baobab": [
+        "Baobab_log"
+    ],
+    "item/ashes/elder": [
+        "Elder_ashes"
+    ],
+    "item/logs/elder": [
+        "Elder_log"
+    ],
+    "item/ashes/magic": [
+        "Magic_ashes"
+    ],
+    "item/logs/magic": [
+        "Magic_log"
+    ],
+    "item/ashes/maple": [
+        "Maple_ashes"
+    ],
+    "item/logs/maple": [
+        "Maple_log"
+    ],
+    "item/ashes/oak": [
+        "Oak_ashes"
+    ],
+    "item/ashes/palm": [
+        "Palm_ashes"
+    ],
+    "item/logs/palm": [
+        "Palm_log"
+    ],
+    "item/ashes/pine": [
+        "Pine_ashes"
+    ],
+    "item/logs/pine": [
+        "Pine_log"
+    ],
+    "item/ashes/sakura": [
+        "Sakura_ashes"
+    ],
+    "item/logs/sakura": [
+        "Sakura_log"
+    ],
+    "item/ashes/sequoia": [
+        "Sequoia_ashes"
+    ],
+    "item/logs/sequoia": [
+        "Sequoia_log"
+    ],
+    "item/ashes/spruce": [
+        "Spruce_ashes"
+    ],
+    "item/logs/spruce": [
+        "Spruce_log"
+    ],
+    "item/ashes/teak": [
+        "Teak_ashes"
+    ],
+    "item/logs/teak": [
+        "Teak_log"
+    ],
+    "item/ashes/willow": [
+        "Willow_ashes"
+    ],
+    "item/logs/willow": [
+        "Willow_log"
+    ],
+    "item/ashes/yew": [
+        "Yew_ashes"
+    ],
+    "item/logs/yew": [
+        "Yew_log"
+    ]
 }
