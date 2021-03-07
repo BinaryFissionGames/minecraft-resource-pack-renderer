@@ -53,6 +53,9 @@
     "item/iron_boots": [
         "Fancy_boots"
     ],
+    "item/minescape/armours/beserker-helm": [
+        "Berserker_helm"
+    ],
     "item/minescape/armours/rune_helm_gilded": [
         "Gilded_chain_helmet"
     ],
@@ -300,10 +303,10 @@
         {
             "name": "Mummy_head",
             "texture_overrides": {
-              "head": "minescape/mummy_skin.png"
+                "head": "minescape/mummy_skin.png"
             }
-          },
-          "The_head_of_a_monster_(Experiments_-_part1)"
+        },
+        "The_head_of_a_monster_(Experiments_-_part1)"
     ],
     "item/minescape/armours/royal-crown": [
         "Royal_crown"
@@ -1444,15 +1447,15 @@
         {
             "name": "Skull",
             "texture_overrides": {
-              "head": "minescape/skeleton.png"
+                "head": "minescape/skeleton.png"
             }
-          },
-          {
+        },
+        {
             "name": "Skull_BROKEN",
             "texture_overrides": {
-              "head": "minescape/skeleton.png"
+                "head": "minescape/skeleton.png"
             }
-          }
+        }
     ],
     "item/soul_sand": [
         "Soul_Sand",
@@ -1462,15 +1465,15 @@
         {
             "name": "Wither_Skull",
             "texture_overrides": {
-              "head": "minescape/wither_skeleton.png"
+                "head": "minescape/wither_skeleton.png"
             }
-          },
-          {
+        },
+        {
             "name": "Wither_Skull_BROKEN",
             "texture_overrides": {
-              "head": "minescape/wither_skeleton.png"
+                "head": "minescape/wither_skeleton.png"
             }
-          }
+        }
     ],
     "item/zombie_head": [
         "Zombie_Head",
@@ -2101,13 +2104,13 @@
         "Fishing_net"
     ],
     "item/food/anchovies": [
-        "Anchovies"
+        "Raw_Anchovies"
     ],
     "item/food/baked_potato": [
         "Baked_potato"
     ],
     "item/food/bass": [
-        "Bass"
+        "Raw_Bass"
     ],
     "item/food/bear": [
         "Raw_Bear"
@@ -2190,34 +2193,34 @@
         "Cooked_tuna"
     ],
     "item/food/dark-crab": [
-        "Dark_crab"
+        "Raw_Dark_crab"
     ],
     "item/food/dough": [
         "Dough"
     ],
     "item/food/eel": [
-        "Eel"
+        "Raw_Eel"
     ],
     "item/food/fruit_salad": [
         "Fruit_salad"
     ],
     "item/food/herring_cooked": [
-        "Herring"
+        "Raw_Herring"
     ],
     "item/food/karambwan": [
-        "Karambwan"
+        "Raw_Karambwan"
     ],
     "item/food/lobster": [
-        "Lobster"
+        "Raw_Lobster"
     ],
     "item/food/lobster_cooked": [
         "Cooked_lobster"
     ],
     "item/food/manta-ray": [
-        "Manta_ray"
+        "Raw_Manta_ray"
     ],
     "item/food/monkfish": [
-        "Monkfish"
+        "Raw_Monkfish"
     ],
     "item/food/pie_apple": [
         "Apple_pie"
@@ -2247,37 +2250,37 @@
         "Salad"
     ],
     "item/food/salmon": [
-        "Salmon"
+        "Raw_Salmon"
     ],
     "item/food/sardine": [
-        "Sardine"
+        "Raw_Sardine"
     ],
     "item/food/sea-turtle": [
-        "Sea_turtle"
+        "Raw_Sea_turtle"
     ],
     "item/food/shark": [
-        "Shark"
+        "Raw_Shark"
     ],
     "item/food/sheep": [
         "Raw_Sheep"
     ],
     "item/food/shrimp": [
-        "Shrimp"
+        "Raw_Shrimp"
     ],
     "item/food/sturgeon": [
-        "Sturgeon"
+        "Raw_Sturgeon"
     ],
     "item/food/swordfish": [
-        "Swordfish"
+        "Raw_Swordfish"
     ],
     "item/food/tench": [
-        "Tench"
+        "Raw_Tench"
     ],
     "item/food/trout": [
-        "Trout"
+        "Raw_Trout"
     ],
     "item/food/tuna": [
-        "Tuna"
+        "Raw_Tuna"
     ],
     "item/food/tuna_potato": [
         "Tuna_potato"
@@ -2680,8 +2683,8 @@
     "item/minescape/misc/keys/kalphite": [
         "Kalphite_key"
     ],
-    "item/filled_map": [
-        "World_map"
+    "item/paper": [
+        "World_map_(disabled)"
     ],
     "item/tools/rune_pouch": [
         "Rune_pouch"
@@ -2860,6 +2863,115 @@
         "Map_piece_(Lozar)",
         "Map_piece_(Melzar)",
         "Map_piece_(Thalzar)"
+    ],
+    "item/minescape/quests/fremennik-trials/jug": [
+        "1/3_full_Jug_of_water",
+        "Jug",
+        "Jug_of_water"
+    ],
+    "item/minescape/quests/fremennik-trials/empty_bucket": [
+        "1/5_of_a_full_bucket",
+        "3/5_of_a_full_bucket",
+        "4/5_of_a_full_bucket",
+        "Bucket_of_water",
+        "Empty_Bucket"
+    ],
+    "item/minescape/quests/fremennik-trials/champions_token": [
+        "Champions_Token"
+    ],
+    "item/minescape/quests/fremennik-trials/cherry_bomb": [
+        "Cherry_bomb"
+    ],
+    "item/minescape/quests/fremennik-trials/custom_bowstring": [
+        "Custom_Bowstring"
+    ],
+    "item/minescape/quests/fremennik-trials/enchanted_lyre": [
+        "Enchanted_Lyre"
+    ],
+    "item/minescape/quests/fremennik-trials/exotic_flower": [
+        "Exotic_Flower"
+    ],
+    "item/minescape/quests/fremennik-trials/fiscal_statement": [
+        "Fiscal_Statement"
+    ],
+    "item/minescape/quests/fremennik-trials/fremennik_ballad": [
+        "Fremennik_Ballad"
+    ],
+    "item/minescape/quests/fremennik-trials/fronzen_key": [
+        "Frozen_Key"
+    ],
+    "item/minescape/quests/fremennik-trials/golden_wool": [
+        "Golden_Wool"
+    ],
+    "item/minescape/quests/fremennik-trials/hunters_talisman": [
+        "Hunter's_Talisman",
+        "Talisman"
+    ],
+    "item/minescape/quests/fremennik-trials/key_in_ice": [
+        "Key_In_Ice"
+    ],
+    "item/minescape/quests/fremennik-trials/legendary_cocktail": [
+        "Legendary_Cocktail"
+    ],
+    "item/minescape/quests/fremennik-trials/lyre": [
+        "Lyre"
+    ],
+    "item/minescape/quests/fremennik-trials/old_red_disk": [
+        "Old_Red_Disk",
+        "Old_Red_Disk_(player-made)"
+    ],
+    "item/minescape/quests/fremennik-trials/pet_rock": [
+        "Pet_Rock"
+    ],
+    "item/minescape/quests/fremennik-trials/promissory_note": [
+        "Promissory_Note"
+    ],
+    "item/minescape/quests/fremennik-trials/red_herring": [
+        "Red_Herring"
+    ],
+    "item/minescape/quests/fremennik-trials/sea_fishing_map": [
+        "Sea_Fishing_Map"
+    ],
+    "item/minescape/quests/fremennik-trials/sealed_vase": [
+        "Sealed_Vase"
+    ],
+    "item/minescape/quests/fremennik-trials/sticky_red_goop": [
+        "Sticky_Red_Goop"
+    ],
+    "item/minescape/quests/fremennik-trials/sturdy_boots": [
+        "Sturdy_Boots"
+    ],
+    "item/minescape/quests/fremennik-trials/swaying_branch": [
+        "Swaying_Branch"
+    ],
+    "item/minescape/quests/fremennik-trials/tracking_map": [
+        "Tracking_Map"
+    ],
+    "item/minescape/quests/fremennik-trials/unstrung_lyre": [
+        "Unstrung_Lyre"
+    ],
+    "item/minescape/quests/fremennik-trials/unusual_fish": [
+        "Unusual_Fish"
+    ],
+    "item/minescape/quests/fremennik-trials/vase": [
+        "Vase",
+        "Vase_of_water"
+    ],
+    "item/minescape/quests/fremennik-trials/vase_lid": [
+        "Vase_Lid"
+    ],
+    "item/minescape/quests/fremennik-trials/warriors_contract": [
+        "Warriors_Contract"
+    ],
+    "item/minescape/quests/fremennik-trials/weather_forecast": [
+        "Weather_Forecast"
+    ],
+    "block/furniture/redgrape_barrel": [
+        "Barrel_of_wine",
+        "Barrel_of_special_wine"
+    ],
+    "item/minescape/quests/fremennik-trials/wooden_disk": [
+        "Wooden_Disk"
     ],
     "item/runes/air_rune": [
         "Air_rune"
@@ -3135,6 +3247,7 @@
     ],
     "item/wands/staff_air": [
         "Air_battlestaff",
+        "Caitlin's_staff",
         "Air_staff"
     ],
     "item/wands/staff_earth": [
@@ -3144,6 +3257,9 @@
     "item/wands/staff_fire": [
         "Fire_battlestaff",
         "Fire_staff"
+    ],
+    "item/wands/staff_lava": [
+        "Lava_battlestaff"
     ],
     "item/wands/staff_water": [
         "Water_battlestaff",
@@ -3247,8 +3363,12 @@
     "item/minescape/weapons/spear-black": [
         "Black_spear"
     ],
+    "item/minescape/weapons/brine-saber": [
+        "Brine_sabre"
+    ],
     "item/swords/twohand-bronze": [
-        "Bronze_two_handed_sword"
+        "Bronze_two_handed_sword",
+        "Reese's_sword"
     ],
     "item/minescape/arrows/bronze": [
         "Bronze_arrow"
@@ -3325,6 +3445,7 @@
     ],
     "item/bows/oak_bow": [
         "Elder_bow",
+        "Kayle's_chargebow",
         "Magic_bow",
         "Oak_bow"
     ],
